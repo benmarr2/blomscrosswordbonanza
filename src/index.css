@@ -180,7 +180,8 @@ body {
   margin: 32px auto;
 }
 
-.room-entry > button {
+.room-entry > button,
+.lobby > button {
   font-size: 16px;
   padding: 10px 20px;
   border-radius: 6px;
@@ -456,4 +457,43 @@ body {
   letter-spacing: 0.05em;
   color: var(--accent-red);
   text-align: center;
+}
+
+.lobby {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  max-width: 360px;
+  margin: 24px auto;
+  text-align: center;
+}
+
+.lobby__code {
+  font-size: 18px;
+  margin: 0;
+}
+
+.lobby__code strong {
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.lobby__players {
+  width: 100%;
+  margin: 12px 0;
+}
+
+.lobby__players h3 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.lobby__hint {
+  font-size: 13px;
+  opacity: 0.7;
+  margin: 8px 0 0;
 }

@@ -6,6 +6,7 @@ import { useGridStore } from '../state/gridStore';
 interface RoomMeta {
   puzzleId: string;
   createdAt: number;
+  started?: boolean;
 }
 
 export interface CellMeta {
@@ -31,13 +32,22 @@ export async function createRoom(roomCode: string, puzzleId: string): Promise<vo
   await set(ref(db, `rooms/${roomCode}/meta`), {
     puzzleId,
     createdAt: serverTimestamp(),
+    started: false,
   });
+}
+
+export async function startRoom(roomCode: string): Promise<void> {
+  await ensureSignedIn();
+  await update(ref(db, `rooms/${roomCode}/meta`), { started: true });
 }
 
 export async function changePuzzle(roomCode: string, puzzleId: string): Promise<void> {
   await ensureSignedIn();
   await update(ref(db, `rooms/${roomCode}`), {
-    meta: { puzzleId, createdAt: serverTimestamp() },
+    // Full overwrite of meta (not a merge) - `started: true` must be
+    // explicit here or a solved room would silently drop back into the
+    // lobby on "next puzzle".
+    meta: { puzzleId, createdAt: serverTimestamp(), started: true },
     cells: null,
   });
 }

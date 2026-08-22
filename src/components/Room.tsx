@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { useGridStore } from '../state/gridStore';
 import { loadPuzzle, listBundledPuzzles } from '../puzzles/loadPuzzle';
 import { isPuzzleSolved } from '../puzzles/completion';
-import { useRoomSync, changePuzzle } from '../room/useRoomSync';
+import { useRoomSync, changePuzzle, startRoom } from '../room/useRoomSync';
 import { useNickname } from '../room/useNickname';
 import { awardPuzzleCompletion } from '../room/globalScore';
 import { PuzzleGrid } from './PuzzleGrid';
@@ -11,6 +11,7 @@ import { ConnectionBanner } from './ConnectionBanner';
 import { Scoreboard } from './Scoreboard';
 import { SolvedBanner } from './SolvedBanner';
 import { PuzzlePicker } from './PuzzlePicker';
+import { Lobby } from './Lobby';
 
 interface RoomProps {
   roomCode: string;
@@ -46,6 +47,23 @@ export function Room({ roomCode }: RoomProps) {
 
   if (loading) return <p>Loading room…</p>;
   if (!meta) return <p>No room found with code {roomCode}.</p>;
+
+  if (!meta.started) {
+    return (
+      <div className="room">
+        <div className="room__header">
+          <span className="room__code">Room: {roomCode}</span>
+          <ConnectionBanner connected={connected} />
+        </div>
+        <Lobby
+          roomCode={roomCode}
+          puzzleTitle={puzzle?.title ?? '…'}
+          presence={presence}
+          onStart={() => startRoom(roomCode)}
+        />
+      </div>
+    );
+  }
 
   return (
     <div className="room">
