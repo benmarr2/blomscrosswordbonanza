@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { useGridStore } from '../state/gridStore';
 import { loadPuzzle, listBundledPuzzles } from '../puzzles/loadPuzzle';
 import { isPuzzleSolved } from '../puzzles/completion';
-import { useRoomSync, changePuzzle, startRoom } from '../room/useRoomSync';
+import { useRoomSync, changePuzzle, startRoom, backToLobby } from '../room/useRoomSync';
 import { useNickname } from '../room/useNickname';
 import { awardPuzzleCompletion } from '../room/globalScore';
 import { PuzzleGrid } from './PuzzleGrid';
@@ -23,14 +23,22 @@ export function Room({ roomCode }: RoomProps) {
   const [nickname] = useNickname();
   const { connected, meta, loading, cells, presence, writeCell } = useRoomSync(roomCode, nickname);
   const [nextPuzzleId, setNextPuzzleId] = useState('');
+  const [lobbyPuzzleId, setLobbyPuzzleId] = useState('');
   const puzzles = useMemo(() => listBundledPuzzles(), []);
 
   useEffect(() => {
     if (!meta) return;
-    const p = loadPuzzle(meta.puzzleId);
-    if (p) load(p);
+    // Only reload the puzzle (which resets the local letters map) when the
+    // puzzle actually changed - meta also updates for unrelated reasons
+    // (started toggling, the solved-score-award transaction) and reloading
+    // on every one of those would silently wipe in-progress letters.
+    if (puzzle?.id !== meta.puzzleId) {
+      const p = loadPuzzle(meta.puzzleId);
+      if (p) load(p);
+    }
     setNextPuzzleId(puzzles.find((x) => x.id !== meta.puzzleId)?.id ?? puzzles[0].id);
-  }, [meta, load, puzzles]);
+    setLobbyPuzzleId(meta.puzzleId);
+  }, [meta, load, puzzle?.id, puzzles]);
 
   const solved = useMemo(() => (puzzle ? isPuzzleSolved(puzzle, cells) : false), [puzzle, cells]);
   const awardedFor = useRef<string | null>(null);
@@ -48,6 +56,14 @@ export function Room({ roomCode }: RoomProps) {
   if (loading) return <p>Loading room…</p>;
   if (!meta) return <p>No room found with code {roomCode}.</p>;
 
+  function handleLobbyStart() {
+    if (lobbyPuzzleId && lobbyPuzzleId !== meta!.puzzleId) {
+      void changePuzzle(roomCode, lobbyPuzzleId);
+    } else {
+      void startRoom(roomCode);
+    }
+  }
+
   if (!meta.started) {
     return (
       <div className="room">
@@ -57,9 +73,11 @@ export function Room({ roomCode }: RoomProps) {
         </div>
         <Lobby
           roomCode={roomCode}
-          puzzleTitle={puzzle?.title ?? '…'}
+          puzzles={puzzles}
+          selectedPuzzleId={lobbyPuzzleId}
+          onSelectPuzzle={setLobbyPuzzleId}
           presence={presence}
-          onStart={() => startRoom(roomCode)}
+          onStart={handleLobbyStart}
         />
       </div>
     );
@@ -71,7 +89,12 @@ export function Room({ roomCode }: RoomProps) {
         <span className="room__code">Room: {roomCode}</span>
         <ConnectionBanner connected={connected} />
       </div>
-      <h1>{puzzle?.title ?? 'Crossword Bonanza'}</h1>
+      <div className="room__title-row">
+        <h1>{puzzle?.title ?? 'Crossword Bonanza'}</h1>
+        <button className="room__lobby-link" onClick={() => backToLobby(roomCode)}>
+          ← Back to lobby
+        </button>
+      </div>
 
       {solved && (
         <div className="solved-panel">

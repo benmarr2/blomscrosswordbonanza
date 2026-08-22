@@ -41,6 +41,11 @@ export async function startRoom(roomCode: string): Promise<void> {
   await update(ref(db, `rooms/${roomCode}/meta`), { started: true });
 }
 
+export async function backToLobby(roomCode: string): Promise<void> {
+  await ensureSignedIn();
+  await update(ref(db, `rooms/${roomCode}/meta`), { started: false });
+}
+
 export async function changePuzzle(roomCode: string, puzzleId: string): Promise<void> {
   await ensureSignedIn();
   await update(ref(db, `rooms/${roomCode}`), {
