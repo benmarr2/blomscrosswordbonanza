@@ -1,0 +1,438 @@
+{
+  "id": "architecture-hard",
+  "title": "Blueprint",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "Y",
+      "E",
+      "#",
+      "B",
+      "I",
+      "B",
+      "#",
+      "R",
+      "I",
+      "F",
+      "T"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "T",
+      "A",
+      "M",
+      "I",
+      "N",
+      "A",
+      "#",
+      "G",
+      "R",
+      "A",
+      "V",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "P",
+      "#",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "K",
+      "U",
+      "D",
+      "U",
+      "#",
+      "A",
+      "R",
+      "E",
+      "T",
+      "E",
+      "#",
+      "W"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "H"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "R",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#",
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "Y",
+      "#",
+      "#",
+      "I",
+      "#",
+      "C",
+      "E",
+      "N",
+      "T",
+      "I",
+      "P",
+      "E",
+      "D",
+      "E"
+    ],
+    [
+      "A",
+      "S",
+      "P",
+      "E",
+      "N",
+      "#",
+      "I",
+      "#",
+      "T",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "H"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "#",
+      "B",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#",
+      "L",
+      "#",
+      "M",
+      "O",
+      "R",
+      "E",
+      "L"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "#",
+      "K",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "C",
+      "E",
+      "B",
+      "E",
+      "R",
+      "G",
+      "#",
+      "G",
+      "Y",
+      "R",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "text": "Grain used to make dark bread",
+        "answer": "RYE"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 7,
+        "text": "A garment worn over the chest, often with a number",
+        "answer": "BIB"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 11,
+        "text": "A crack or break in the Earth's crust",
+        "answer": "RIFT"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 1,
+        "text": "The power to sustain prolonged physical or mental effort",
+        "answer": "STAMINA"
+      },
+      {
+        "number": 10,
+        "row": 2,
+        "col": 9,
+        "text": "Small stones",
+        "answer": "GRAVEL"
+      },
+      {
+        "number": 13,
+        "row": 4,
+        "col": 3,
+        "text": "African antelope with magnificent spiral horns",
+        "answer": "KUDU"
+      },
+      {
+        "number": 14,
+        "row": 4,
+        "col": 8,
+        "text": "Sharp mountain ridge",
+        "answer": "ARETE"
+      },
+      {
+        "number": 16,
+        "row": 6,
+        "col": 0,
+        "text": "Instrument measuring spectral distribution",
+        "answer": "SPECTROMETER"
+      },
+      {
+        "number": 17,
+        "row": 8,
+        "col": 6,
+        "text": "Multi-legged arthropod, often venomous",
+        "answer": "CENTIPEDE"
+      },
+      {
+        "number": 18,
+        "row": 9,
+        "col": 0,
+        "text": "A type of tree known for its quivering leaves",
+        "answer": "ASPEN"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 0,
+        "text": "A South American tuber, related to the potato",
+        "answer": "OCA"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 10,
+        "text": "A type of highly prized edible fungus",
+        "answer": "MOREL"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 2,
+        "text": "Lettuce variety with crisp leaves",
+        "answer": "ICEBERG"
+      },
+      {
+        "number": 22,
+        "row": 13,
+        "col": 10,
+        "text": "A large system of circulating ocean currents",
+        "answer": "GYRE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "text": "A long, narrow inlet of the sea, formed by the partial submergence of a river valley",
+        "answer": "RIA"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 7,
+        "text": "Constricting snake, non-venomous",
+        "answer": "BOA"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 9,
+        "text": "Wet, spongy ground with high acidity, often a peat deposit",
+        "answer": "BOG"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 13,
+        "text": "Wingless parasitic insect that jumps",
+        "answer": "FLEA"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 1,
+        "text": "Branch of astronomy dealing with physics",
+        "answer": "ASTROPHYSICS"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 4,
+        "text": "Bicycle designed for off-road cycling",
+        "answer": "MOUNTAINBIKE"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 6,
+        "text": "Study of the nervous system",
+        "answer": "NEUROSCIENCE"
+      },
+      {
+        "number": 11,
+        "row": 2,
+        "col": 11,
+        "text": "Study of humanity",
+        "answer": "ANTHROPOLOGY"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 8,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 15,
+        "row": 4,
+        "col": 14,
+        "text": "Hypothetical region of spacetime into which matter can fall, but from which it cannot escape",
+        "answer": "WHITEHOLE"
+      }
+    ]
+  }
+}

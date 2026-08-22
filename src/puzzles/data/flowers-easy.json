@@ -1,0 +1,424 @@
+{
+  "id": "flowers-easy",
+  "title": "In Bloom",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#",
+      "C",
+      "O",
+      "V",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "R",
+      "A",
+      "C",
+      "K",
+      "E",
+      "R",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "A",
+      "S",
+      "P",
+      "B",
+      "E",
+      "R",
+      "R",
+      "I",
+      "E",
+      "S",
+      "#",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "T",
+      "U",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "M",
+      "M",
+      "E",
+      "N",
+      "S",
+      "A",
+      "L",
+      "I",
+      "S",
+      "M",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "O",
+      "S",
+      "P",
+      "H",
+      "E",
+      "R",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "D",
+      "#",
+      "S",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "R",
+      "C",
+      "H",
+      "I",
+      "P",
+      "E",
+      "L",
+      "A",
+      "G",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "O",
+      "W",
+      "L",
+      "#",
+      "#",
+      "S",
+      "W",
+      "I",
+      "N",
+      "G",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 11,
+        "text": "Small, sheltered bay or inlet",
+        "answer": "COVE"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 5,
+        "text": "Thin, crisp biscuit",
+        "answer": "CRACKER"
+      },
+      {
+        "number": 5,
+        "row": 3,
+        "col": 1,
+        "text": "Small, red, sweet-tart berries",
+        "answer": "RASPBERRIES"
+      },
+      {
+        "number": 8,
+        "row": 4,
+        "col": 11,
+        "text": "Popular oily fish, often canned",
+        "answer": "TUNA"
+      },
+      {
+        "number": 8,
+        "row": 4,
+        "col": 11,
+        "text": "Large predatory marine fish",
+        "answer": "TUNA"
+      },
+      {
+        "number": 9,
+        "row": 6,
+        "col": 1,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 11,
+        "row": 8,
+        "col": 1,
+        "text": "All the waters on the earth's surface",
+        "answer": "HYDROSPHERE"
+      },
+      {
+        "number": 13,
+        "row": 10,
+        "col": 1,
+        "text": "Group of islands",
+        "answer": "ARCHIPELAGO"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 0,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 3,
+        "text": "Nocturnal bird of prey with large eyes",
+        "answer": "OWL"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 8,
+        "text": "The motion of hitting a ball with a bat or club",
+        "answer": "SWING"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 7,
+        "text": "Flat, unproductive land, often covered in sand or poor soil",
+        "answer": "BARRENS"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 11,
+        "text": "The outer layer of the Earth",
+        "answer": "CRUST"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 2,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 5,
+        "text": "Chemical substance that neutralizes acids",
+        "answer": "BASE"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 14,
+        "text": "Point or extension of land projecting into water",
+        "answer": "CAPE"
+      },
+      {
+        "number": 10,
+        "row": 6,
+        "col": 4,
+        "text": "Area of low-lying land that is flooded in wet seasons or at high tide",
+        "answer": "MARSH"
+      },
+      {
+        "number": 12,
+        "row": 8,
+        "col": 7,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 14,
+        "row": 10,
+        "col": 6,
+        "text": "A body of water for swimming",
+        "answer": "POOL"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 9,
+        "text": "Projectile shot from a bow",
+        "answer": "ARROW"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 0,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 4,
+        "text": "Domesticated bovine mammal, source of milk",
+        "answer": "COW"
+      }
+    ]
+  }
+}

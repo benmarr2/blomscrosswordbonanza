@@ -1,0 +1,403 @@
+{
+  "id": "insects-medium",
+  "title": "Bug Hunt",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "I",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "U",
+      "S",
+      "T",
+      "A",
+      "I",
+      "N",
+      "A",
+      "B",
+      "L",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "T",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "W",
+      "A",
+      "S",
+      "P",
+      "#",
+      "B",
+      "E",
+      "E",
+      "#",
+      "O",
+      "#",
+      "L",
+      "A",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "R",
+      "#",
+      "G",
+      "N",
+      "U",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "L",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#",
+      "E",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "O",
+      "L",
+      "O",
+      "G",
+      "I",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "I",
+      "#",
+      "V",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "Z",
+      "#",
+      "E",
+      "#",
+      "A",
+      "#",
+      "A",
+      "S",
+      "S",
+      "I",
+      "S",
+      "T"
+    ],
+    [
+      "F",
+      "L",
+      "E",
+      "A",
+      "#",
+      "R",
+      "#",
+      "N",
+      "#",
+      "P",
+      "#",
+      "C",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "E",
+      "#",
+      "H",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "L",
+      "I",
+      "N",
+      "E",
+      "#",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "N",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "text": "Able to be maintained at a certain rate or level",
+        "answer": "SUSTAINABLE"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "text": "Stinging insect, often predatory",
+        "answer": "WASP"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 5,
+        "text": "Flying insect known for producing honey",
+        "answer": "BEE"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 11,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 9,
+        "text": "African antelope, also called a wildebeest",
+        "answer": "GNU"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 2,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 9,
+        "text": "A pass that leads directly to a score",
+        "answer": "ASSIST"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 0,
+        "text": "Wingless parasitic insect that jumps",
+        "answer": "FLEA"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 0,
+        "text": "Depression formed by karst processes",
+        "answer": "DOLINE"
+      },
+      {
+        "number": 17,
+        "row": 14,
+        "col": 1,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "text": "Piece of land surrounded by water",
+        "answer": "ISLAND"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "text": "Place of origin",
+        "answer": "ATI"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 7,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 9,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 13,
+        "text": "Study of the interaction between matter and electromagnetic radiation",
+        "answer": "SPECTROSCOPY"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 3,
+        "text": "Restricting vibration to a certain plane",
+        "answer": "POLARIZATION"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 5,
+        "text": "Having a high level of biological variety",
+        "answer": "BIODIVERSE"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 11,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 1,
+        "text": "Bivalve shellfish, often pan-seared",
+        "answer": "SCALLOPS"
+      }
+    ]
+  }
+}

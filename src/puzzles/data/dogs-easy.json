@@ -1,0 +1,438 @@
+{
+  "id": "dogs-easy",
+  "title": "Good Boys",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "R",
+      "A",
+      "S",
+      "P",
+      "B",
+      "E",
+      "R",
+      "R",
+      "I",
+      "E",
+      "S",
+      "#",
+      "#",
+      "#",
+      "W"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "O",
+      "T",
+      "C",
+      "H"
+    ],
+    [
+      "N",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "G",
+      "E",
+      "C",
+      "K",
+      "O",
+      "#",
+      "E",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "W",
+      "#",
+      "M",
+      "#",
+      "L"
+    ],
+    [
+      "I",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#",
+      "B",
+      "#",
+      "P",
+      "I",
+      "E"
+    ],
+    [
+      "N",
+      "#",
+      "C",
+      "#",
+      "R",
+      "#",
+      "S",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "H",
+      "#",
+      "B",
+      "#",
+      "S",
+      "#",
+      "E",
+      "#",
+      "A",
+      "#",
+      "R",
+      "E",
+      "F"
+    ],
+    [
+      "#",
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "J",
+      "#",
+      "P",
+      "#",
+      "H",
+      "#",
+      "O",
+      "#",
+      "S",
+      "#",
+      "D",
+      "#",
+      "T",
+      "#",
+      "T"
+    ],
+    [
+      "U",
+      "#",
+      "E",
+      "#",
+      "Y",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "U",
+      "#",
+      "O"
+    ],
+    [
+      "M",
+      "#",
+      "L",
+      "#",
+      "D",
+      "#",
+      "P",
+      "#",
+      "L",
+      "U",
+      "N",
+      "A",
+      "R",
+      "#",
+      "S"
+    ],
+    [
+      "P",
+      "R",
+      "A",
+      "I",
+      "R",
+      "I",
+      "E",
+      "#",
+      "I",
+      "#",
+      "G",
+      "#",
+      "E",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "#",
+      "G",
+      "#",
+      "A",
+      "#",
+      "R",
+      "#",
+      "S",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "S",
+      "H",
+      "O",
+      "R",
+      "T",
+      "S",
+      "#",
+      "#",
+      "M",
+      "U",
+      "S",
+      "T",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "A"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Small, red, sweet-tart berries",
+        "answer": "RASPBERRIES"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 10,
+        "text": "A V-shaped or U-shaped indentation",
+        "answer": "NOTCH"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Small nocturnal lizard with adhesive toe pads",
+        "answer": "GECKO"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 2,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 12,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 13,
+        "row": 6,
+        "col": 12,
+        "text": "Short for game official",
+        "answer": "REF"
+      },
+      {
+        "number": 14,
+        "row": 7,
+        "col": 1,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 8,
+        "text": "Relating to the moon",
+        "answer": "LUNAR"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 0,
+        "text": "Large open area of grassland, especially in North America",
+        "answer": "PRAIRIE"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 0,
+        "text": "Clothing worn on the lower body",
+        "answer": "SHORTS"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 8,
+        "text": "yellow condiment made from seeds",
+        "answer": "MUSTARD"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "The action of moving rapidly on foot",
+        "answer": "RUNNING"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Omnivorous domesticated mammal with a short snout",
+        "answer": "PIG"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 10,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "Large marine mammal",
+        "answer": "WHALE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 12,
+        "text": "Degree or intensity of heat present",
+        "answer": "TEMPERATURE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 12,
+        "text": "The degree of hotness or coldness",
+        "answer": "TEMPERATURE"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Jumping insect with long hind legs",
+        "answer": "GRASSHOPPER"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 8,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 2,
+        "text": "Group of islands",
+        "answer": "ARCHIPELAGO"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 4,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 0,
+        "text": "To push oneself off a surface into the air",
+        "answer": "JUMP"
+      },
+      {
+        "number": 16,
+        "row": 8,
+        "col": 14,
+        "text": "Fried tortilla topped with ingredients",
+        "answer": "TOSTADA"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 11,
+        "text": "Place of origin",
+        "answer": "ATI"
+      }
+    ]
+  }
+}

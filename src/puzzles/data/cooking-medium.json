@@ -1,0 +1,407 @@
+{
+  "id": "cooking-medium",
+  "title": "Mise en Place",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 14,
+  "grid": [
+    [
+      "A",
+      "S",
+      "P",
+      "E",
+      "N",
+      "#",
+      "I",
+      "N",
+      "L",
+      "E",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "U",
+      "#",
+      "B",
+      "#",
+      "C",
+      "#",
+      "U",
+      "#",
+      "P",
+      "O",
+      "I",
+      "N",
+      "T",
+      "S"
+    ],
+    [
+      "#",
+      "F",
+      "#",
+      "I",
+      "#",
+      "E",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "T",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "F",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "O",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "L",
+      "U",
+      "M",
+      "I",
+      "N",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "C",
+      "E",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "H",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "B",
+      "#",
+      "C",
+      "#",
+      "G",
+      "#",
+      "I",
+      "O",
+      "N",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "G",
+      "O",
+      "P",
+      "H",
+      "E",
+      "R",
+      "#",
+      "E",
+      "#",
+      "T",
+      "#",
+      "N",
+      "#",
+      "X",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "D",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "W",
+      "R",
+      "E",
+      "N",
+      "#",
+      "P",
+      "#",
+      "C",
+      "#",
+      "L",
+      "#",
+      "R",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "I",
+      "#",
+      "H",
+      "#",
+      "E",
+      "R",
+      "O",
+      "S",
+      "I",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "R",
+      "S",
+      "H",
+      "#",
+      "D",
+      "O",
+      "R",
+      "Y",
+      "#",
+      "#",
+      "R",
+      "E",
+      "F"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "A type of tree known for its quivering leaves",
+        "answer": "ASPEN"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "Small arm of the sea, lake, or river that extends into the land",
+        "answer": "INLET"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 9,
+        "text": "Units scored in a game or contest",
+        "answer": "POINTS"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 7,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 1,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 7,
+        "text": "Atom or molecule with an electric charge",
+        "answer": "ION"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "North American burrowing rodent",
+        "answer": "GOPHER"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 0,
+        "text": "Small, active songbird",
+        "answer": "WREN"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 7,
+        "text": "Process of eroding or being eroded by wind, water, or other natural agents",
+        "answer": "EROSION"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 7,
+        "text": "Process of eroding or being eroded by wind, water, or other natural agents",
+        "answer": "EROSION"
+      },
+      {
+        "number": 17,
+        "row": 13,
+        "col": 0,
+        "text": "Area of low-lying land that is flooded in wet seasons or at high tide",
+        "answer": "MARSH"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 6,
+        "text": "Type of flatfish or a small fishing boat",
+        "answer": "DORY"
+      },
+      {
+        "number": 19,
+        "row": 13,
+        "col": 12,
+        "text": "Short for game official",
+        "answer": "REF"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 7,
+        "text": "Study of the nervous system",
+        "answer": "NEUROSCIENCE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 5,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 5,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 11,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 14,
+        "text": "Piece of land surrounded by water",
+        "answer": "ISLAND"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 3,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 9,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 13,
+        "text": "A wide, open area",
+        "answer": "EXPANSE"
+      }
+    ]
+  }
+}

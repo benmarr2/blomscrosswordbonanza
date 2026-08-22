@@ -1,0 +1,410 @@
+{
+  "id": "physics-hard",
+  "title": "Quantum Leap",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "C",
+      "A",
+      "C",
+      "O",
+      "M",
+      "I",
+      "S",
+      "T",
+      "L",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "B",
+      "O",
+      "G",
+      "I",
+      "E"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "R",
+      "#",
+      "B",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "V",
+      "#",
+      "Q",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "D",
+      "#",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "U",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "O",
+      "#",
+      "C",
+      "#",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "S",
+      "#",
+      "A",
+      "#",
+      "L",
+      "#",
+      "I",
+      "#",
+      "G",
+      "#",
+      "H",
+      "#",
+      "S",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "E",
+      "N",
+      "T",
+      "A",
+      "N",
+      "G",
+      "L",
+      "E",
+      "M",
+      "E",
+      "N",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "V",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "G",
+      "#",
+      "I",
+      "B",
+      "I",
+      "S",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "Z",
+      "#",
+      "Z",
+      "#",
+      "P",
+      "#",
+      "R",
+      "#",
+      "S",
+      "#",
+      "B",
+      "#",
+      "N"
+    ],
+    [
+      "T",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "H",
+      "#",
+      "A",
+      "#",
+      "T",
+      "#",
+      "U",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "T",
+      "#",
+      "T",
+      "#",
+      "Y",
+      "#",
+      "P",
+      "#",
+      "R",
+      "#",
+      "T",
+      "#",
+      "N"
+    ],
+    [
+      "R",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "Y",
+      "#",
+      "A",
+      "C",
+      "E"
+    ],
+    [
+      "A",
+      "X",
+      "O",
+      "L",
+      "O",
+      "T",
+      "L",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "T"
+    ],
+    [
+      "N",
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "S",
+      "Y",
+      "Z",
+      "Y",
+      "G",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Small, raccoon-like mammal of Central America",
+        "answer": "CACOMISTLE"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 10,
+        "text": "Golf score, or scary monster",
+        "answer": "BOGIE"
+      },
+      {
+        "number": 10,
+        "row": 6,
+        "col": 1,
+        "text": "Quantum phenomenon where particles are linked",
+        "answer": "ENTANGLEMENT"
+      },
+      {
+        "number": 12,
+        "row": 8,
+        "col": 10,
+        "text": "Wading bird with a long, downcurved bill",
+        "answer": "IBIS"
+      },
+      {
+        "number": 14,
+        "row": 12,
+        "col": 12,
+        "text": "A winning serve that the opponent cannot touch",
+        "answer": "ACE"
+      },
+      {
+        "number": 15,
+        "row": 13,
+        "col": 0,
+        "text": "A neotenic salamander that retains its gills",
+        "answer": "AXOLOTL"
+      },
+      {
+        "number": 16,
+        "row": 14,
+        "col": 9,
+        "text": "An alignment of three celestial bodies, especially the sun, moon, and Earth",
+        "answer": "SYZYGY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "pungent spice from a dried flower bud",
+        "answer": "CLOVES"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "A South American tuber, related to the potato",
+        "answer": "OCA"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "Study of rock layers and layering",
+        "answer": "STRATIGRAPHY"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "The study of rock layers",
+        "answer": "STRATIGRAPHY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 10,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 14,
+        "text": "A long, winding ridge of stratified sand and gravel, deposited by meltwater",
+        "answer": "ESKER"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 8,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 8,
+        "text": "Study of the distribution of species geographically",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 2,
+        "text": "The process of restricting a set of values to a smaller set of discrete values",
+        "answer": "QUANTIZATION"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 4,
+        "text": "Restricting vibration to a certain plane",
+        "answer": "POLARIZATION"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 12,
+        "text": "Branch of a river flowing away from the main stream",
+        "answer": "DISTRIBUTARY"
+      },
+      {
+        "number": 11,
+        "row": 8,
+        "col": 0,
+        "text": "An athlete with long experience in a sport",
+        "answer": "VETERAN"
+      },
+      {
+        "number": 13,
+        "row": 9,
+        "col": 14,
+        "text": "In darts, a score of three darts totaling this number",
+        "answer": "NINETY"
+      }
+    ]
+  }
+}

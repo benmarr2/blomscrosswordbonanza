@@ -1,0 +1,414 @@
+{
+  "id": "holidays-easy",
+  "title": "Holiday Season",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 14,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "G",
+      "L",
+      "U",
+      "C",
+      "O",
+      "S",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "E",
+      "L",
+      "I",
+      "X",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "X",
+      "#",
+      "P",
+      "#",
+      "#",
+      "C",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "L",
+      "A",
+      "P",
+      "#",
+      "P",
+      "O",
+      "T",
+      "A",
+      "T",
+      "O",
+      "#",
+      "W",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "K",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "B",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "R",
+      "A",
+      "P",
+      "E",
+      "#",
+      "B",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "A",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      "#",
+      "A",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "S",
+      "#",
+      "D",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "N",
+      "#",
+      "M",
+      "O",
+      "L",
+      "D",
+      "#",
+      "A",
+      "C",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "#",
+      "U",
+      "#",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "S",
+      "A",
+      "L",
+      "A",
+      "M",
+      "I",
+      "#",
+      "G",
+      "E",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "E",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 6,
+        "text": "Simple sugar that is an important energy source",
+        "answer": "GLUCOSE"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "text": "A structure like a spiral staircase",
+        "answer": "HELIX"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 0,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 4,
+        "text": "Starchy root vegetable",
+        "answer": "POTATO"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 1,
+        "text": "A small, round, juicy fruit, often used for wine",
+        "answer": "GRAPE"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 2,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 4,
+        "text": "A hollow container used to give shape to molten material",
+        "answer": "MOLD"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 9,
+        "text": "Sour taste, like lemon juice",
+        "answer": "ACIDIC"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 0,
+        "text": "Rodent larger than a mouse",
+        "answer": "RAT"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 4,
+        "text": "Spicy Italian cured sausage",
+        "answer": "SALAMI"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 11,
+        "text": "Unit of heredity transferred from parent to offspring",
+        "answer": "GENE"
+      },
+      {
+        "number": 21,
+        "row": 12,
+        "col": 1,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      },
+      {
+        "number": 22,
+        "row": 13,
+        "col": 4,
+        "text": "Large, sweet fruit with a green rind",
+        "answer": "WATERMELON"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 4,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 11,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 2,
+        "text": "Scientific procedure undertaken to make a discovery",
+        "answer": "EXPERIMENT"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 13,
+        "text": "Process of breathing",
+        "answer": "RESPIRATION"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "text": "A large deer species found in North America and East Asia",
+        "answer": "ELK"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 7,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 9,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "The standard number of strokes for a hole or course in golf",
+        "answer": "PAR"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 1,
+        "text": "Social insect that lives in colonies",
+        "answer": "ANT"
+      }
+    ]
+  }
+}

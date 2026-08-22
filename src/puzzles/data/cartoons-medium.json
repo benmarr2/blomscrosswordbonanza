@@ -1,0 +1,438 @@
+{
+  "id": "cartoons-medium",
+  "title": "Saturday Morning",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "S",
+      "#",
+      "#",
+      "A",
+      "N",
+      "T",
+      "H",
+      "R",
+      "O",
+      "P",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y"
+    ],
+    [
+      "T",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "E",
+      "C",
+      "H",
+      "O",
+      "#",
+      "#",
+      "P",
+      "#",
+      "E",
+      "E",
+      "L",
+      "#",
+      "A",
+      "#",
+      "L"
+    ],
+    [
+      "W",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "U",
+      "#",
+      "E",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "A",
+      "N",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "M",
+      "#",
+      "R",
+      "#",
+      "O"
+    ],
+    [
+      "R",
+      "E",
+      "F",
+      "#",
+      "T",
+      "#",
+      "F",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "W"
+    ],
+    [
+      "#",
+      "#",
+      "L",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "D",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "U",
+      "R",
+      "O",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "#",
+      "M",
+      "#",
+      "S",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "R"
+    ],
+    [
+      "M",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "P",
+      "#",
+      "C",
+      "H",
+      "A",
+      "R",
+      "D"
+    ],
+    [
+      "U",
+      "#",
+      "A",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "H",
+      "#",
+      "E",
+      "#",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "F",
+      "#",
+      "R",
+      "A",
+      "T",
+      "#",
+      "N",
+      "#",
+      "Y",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "W"
+    ],
+    [
+      "F",
+      "#",
+      "D",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "C",
+      "#",
+      "O"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "L",
+      "#",
+      "#",
+      "G",
+      "E",
+      "Y",
+      "S",
+      "E",
+      "R"
+    ],
+    [
+      "N",
+      "U",
+      "T",
+      "M",
+      "E",
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Study of humanity",
+        "answer": "ANTHROPOLOGY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "text": "A sound or series of sounds caused by the reflection of sound waves",
+        "answer": "ECHO"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 8,
+        "text": "snake-like fish, often grilled",
+        "answer": "EEL"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 8,
+        "text": "Snake-like fish",
+        "answer": "EEL"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 6,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 13,
+        "row": 4,
+        "col": 2,
+        "text": "An enthusiastic follower of a sport",
+        "answer": "FAN"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 0,
+        "text": "Short for game official",
+        "answer": "REF"
+      },
+      {
+        "number": 15,
+        "row": 7,
+        "col": 1,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 17,
+        "row": 9,
+        "col": 10,
+        "text": "leafy green vegetable with colorful stems",
+        "answer": "CHARD"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 2,
+        "text": "Rodent larger than a mouse",
+        "answer": "RAT"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 9,
+        "text": "A natural hot spring that ejects water",
+        "answer": "GEYSER"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 9,
+        "text": "Hot spring in which water intermittently boils and erupts",
+        "answer": "GEYSER"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 0,
+        "text": "Fragrant spice made from a seed",
+        "answer": "NUTMEG"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Dish of meat and vegetables cooked slowly in liquid",
+        "answer": "STEW"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 8,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 8,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "A disciplinary warning given by a referee in soccer",
+        "answer": "YELLOWCARD"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 2,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 10,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 10,
+        "row": 2,
+        "col": 12,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 4,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 0,
+        "text": "Small individual baked cake, often sweet",
+        "answer": "MUFFIN"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 14,
+        "text": "Long, soft-bodied invertebrate",
+        "answer": "WORM"
+      }
+    ]
+  }
+}

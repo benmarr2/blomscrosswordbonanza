@@ -1,0 +1,424 @@
+{
+  "id": "cats-easy",
+  "title": "Cat Nap",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "P",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "E",
+      "S",
+      "E",
+      "R",
+      "V",
+      "O",
+      "I",
+      "R",
+      "#",
+      "Q"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "U"
+    ],
+    [
+      "C",
+      "#",
+      "M",
+      "A",
+      "N",
+      "G",
+      "O",
+      "#",
+      "W",
+      "#",
+      "N",
+      "#",
+      "S",
+      "#",
+      "A"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "W",
+      "#",
+      "I",
+      "S",
+      "T",
+      "H",
+      "M",
+      "U",
+      "S"
+    ],
+    [
+      "M",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "B",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "H"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "T",
+      "E",
+      "A"
+    ],
+    [
+      "N",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "R",
+      "#",
+      "U",
+      "D",
+      "O",
+      "N",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "D",
+      "#",
+      "#",
+      "D",
+      "#",
+      "R",
+      "#",
+      "U",
+      "#",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "I",
+      "#",
+      "F",
+      "#",
+      "S",
+      "H",
+      "A",
+      "R",
+      "K"
+    ],
+    [
+      "L",
+      "U",
+      "N",
+      "A",
+      "R",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "G",
+      "E",
+      "N",
+      "E",
+      "T",
+      "I",
+      "C",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "#",
+      "#",
+      "G",
+      "#",
+      "I",
+      "#",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "M",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "E",
+      "A",
+      "D",
+      "O",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 4,
+        "row": 1,
+        "col": 4,
+        "text": "Large natural or artificial lake used as a source of water",
+        "answer": "RESERVOIR"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 2,
+        "text": "Sweet tropical fruit with a large pit",
+        "answer": "MANGO"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 8,
+        "text": "Narrow strip of land connecting two larger land areas",
+        "answer": "ISTHMUS"
+      },
+      {
+        "number": 11,
+        "row": 6,
+        "col": 0,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 12,
+        "text": "A hot beverage made from dried leaves",
+        "answer": "TEA"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 8,
+        "text": "Thick Japanese noodle",
+        "answer": "UDON"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "Used for sliding down snowy hills",
+        "answer": "SLED"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 10,
+        "text": "Predatory marine fish with a cartilaginous skeleton",
+        "answer": "SHARK"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 0,
+        "text": "Relating to the moon",
+        "answer": "LUNAR"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 6,
+        "text": "Study of heredity and the variation of inherited characteristics",
+        "answer": "GENETICS"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 0,
+        "text": "Small narrow river",
+        "answer": "STREAM"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 9,
+        "text": "A field of grass, often used for hay",
+        "answer": "MEADOW"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 10,
+        "text": "Having many mountains",
+        "answer": "MOUNTAINOUS"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 12,
+        "text": "A transparent optical element that refracts light",
+        "answer": "PRISM"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 14,
+        "text": "A racket sport played in an enclosed court",
+        "answer": "SQUASH"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 14,
+        "text": "Gourd vegetable, can be summer or winter",
+        "answer": "SQUASH"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 6,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 3,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 8,
+        "text": "Sport combining elements of surfing and sailing",
+        "answer": "WINDSURFING"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 13,
+        "text": "Strong black coffee brewed under pressure",
+        "answer": "ESPRESSO"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 10,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      }
+    ]
+  }
+}

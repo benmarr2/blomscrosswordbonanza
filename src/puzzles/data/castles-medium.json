@@ -1,0 +1,438 @@
+{
+  "id": "castles-medium",
+  "title": "Behind the Moat",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "C",
+      "A",
+      "S",
+      "E",
+      "#",
+      "#",
+      "M",
+      "I",
+      "L",
+      "L",
+      "I",
+      "P",
+      "E",
+      "D",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "H",
+      "#",
+      "H",
+      "#",
+      "#",
+      "D",
+      "#",
+      "Y",
+      "#",
+      "R",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "D",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "R",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "F",
+      "#",
+      "P",
+      "#",
+      "L",
+      "#",
+      "A",
+      "#",
+      "#",
+      "F",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "V",
+      "#",
+      "F",
+      "#",
+      "P",
+      "O",
+      "L",
+      "A",
+      "R",
+      "#",
+      "L",
+      "E",
+      "M",
+      "U",
+      "R"
+    ],
+    [
+      "E",
+      "E",
+      "L",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "B",
+      "#",
+      "#",
+      "S",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "G",
+      "#",
+      "E",
+      "#",
+      "P",
+      "#",
+      "T",
+      "#",
+      "O",
+      "#",
+      "#",
+      "S",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "B",
+      "I",
+      "O",
+      "M",
+      "E",
+      "C",
+      "H",
+      "A",
+      "N",
+      "I",
+      "C",
+      "S",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "O",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "D",
+      "I",
+      "N",
+      "N",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "O",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#",
+      "A",
+      "#",
+      "G",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "D",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "S",
+      "L",
+      "E",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "N",
+      "D",
+      "E",
+      "M",
+      "I",
+      "C",
+      "#",
+      "Y",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 5,
+        "row": 1,
+        "col": 0,
+        "text": "A container for sports gear, or a legal matter",
+        "answer": "CASE"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 6,
+        "text": "Multi-legged arthropod, typically detritivorous",
+        "answer": "MILLIPEDE"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 10,
+        "text": "A stage in a competition",
+        "answer": "ROUND"
+      },
+      {
+        "number": 15,
+        "row": 5,
+        "col": 4,
+        "text": "Relating to the North or South Pole",
+        "answer": "POLAR"
+      },
+      {
+        "number": 16,
+        "row": 5,
+        "col": 10,
+        "text": "Primate native to Madagascar",
+        "answer": "LEMUR"
+      },
+      {
+        "number": 17,
+        "row": 6,
+        "col": 0,
+        "text": "Snake-like fish",
+        "answer": "EEL"
+      },
+      {
+        "number": 17,
+        "row": 6,
+        "col": 0,
+        "text": "snake-like fish, often grilled",
+        "answer": "EEL"
+      },
+      {
+        "number": 18,
+        "row": 8,
+        "col": 2,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 19,
+        "row": 10,
+        "col": 8,
+        "text": "The main meal of the day, eaten in the evening",
+        "answer": "DINNER"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 0,
+        "text": "Instrument for measuring atmospheric pressure",
+        "answer": "BAROMETER"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 0,
+        "text": "Instrument used to measure atmospheric pressure",
+        "answer": "BAROMETER"
+      },
+      {
+        "number": 21,
+        "row": 12,
+        "col": 10,
+        "text": "Rain and snow mixed",
+        "answer": "SLEET"
+      },
+      {
+        "number": 22,
+        "row": 14,
+        "col": 5,
+        "text": "Disease or condition regularly found among particular people or in a certain area",
+        "answer": "ENDEMIC"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Chemical substance that neutralizes alkalis",
+        "answer": "ACID"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 7,
+        "text": "An offer in an auction, like for hosting rights",
+        "answer": "BID"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 9,
+        "text": "Two-winged insect, often a pest",
+        "answer": "FLY"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "The part of a plant from which a new plant grows",
+        "answer": "SEED"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 8,
+        "row": 1,
+        "col": 11,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 4,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 6,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 8,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 13,
+        "row": 3,
+        "col": 13,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 0,
+        "text": "Edible part of a plant, like roots, stems, or leaves",
+        "answer": "VEGETABLE"
+      }
+    ]
+  }
+}

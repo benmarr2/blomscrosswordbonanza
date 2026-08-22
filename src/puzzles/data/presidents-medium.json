@@ -1,0 +1,372 @@
+{
+  "id": "presidents-medium",
+  "title": "Oval Office",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 14,
+  "grid": [
+    [
+      "#",
+      "#",
+      "A",
+      "N",
+      "A",
+      "C",
+      "O",
+      "N",
+      "D",
+      "A",
+      "#",
+      "B",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "C",
+      "#",
+      "I",
+      "#",
+      "Y",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "R",
+      "S",
+      "#",
+      "N",
+      "#",
+      "U",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "N",
+      "#",
+      "S",
+      "C",
+      "R",
+      "E",
+      "E",
+      "#",
+      "C",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "D",
+      "O",
+      "M",
+      "E",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "H",
+      "#",
+      "H",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "W",
+      "#",
+      "R",
+      "#",
+      "S",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "B",
+      "#",
+      "V",
+      "#",
+      "C",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "P",
+      "O",
+      "L",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "A",
+      "#",
+      "T",
+      "#",
+      "E",
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "S",
+      "C",
+      "O",
+      "R",
+      "P",
+      "I",
+      "O",
+      "N",
+      "#",
+      "I",
+      "#",
+      "T",
+      "#",
+      "Z",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "D",
+      "#",
+      "O",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "R",
+      "E",
+      "E",
+      "F"
+    ],
+    [
+      "F",
+      "U",
+      "S",
+      "I",
+      "O",
+      "N",
+      "#",
+      "E",
+      "#",
+      "N",
+      "#",
+      "Y",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "O",
+      "G",
+      "E",
+      "O",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "Y",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Large constricting snake of South America",
+        "answer": "ANACONDA"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 11,
+        "text": "Chemical substance that neutralizes acids",
+        "answer": "BASE"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "text": "Horizontal supports used in gymnastics",
+        "answer": "BARS"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 5,
+        "text": "Loose rock debris on a mountainside",
+        "answer": "SCREE"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 2,
+        "text": "Upward curving structure",
+        "answer": "DOME"
+      },
+      {
+        "number": 11,
+        "row": 7,
+        "col": 2,
+        "text": "Restricting vibration to a certain plane",
+        "answer": "POLARIZATION"
+      },
+      {
+        "number": 12,
+        "row": 9,
+        "col": 0,
+        "text": "Eight-legged arachnid with a venomous tail",
+        "answer": "SCORPION"
+      },
+      {
+        "number": 13,
+        "row": 10,
+        "col": 11,
+        "text": "Ridge of rocks or sand, often of coral, near the surface of the sea",
+        "answer": "REEF"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 0,
+        "text": "Process of combining atomic nuclei",
+        "answer": "FUSION"
+      },
+      {
+        "number": 15,
+        "row": 13,
+        "col": 0,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 5,
+        "text": "Protection of animals, plants, and natural resources",
+        "answer": "CONSERVATION"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 7,
+        "text": "Study of the nervous system",
+        "answer": "NEUROSCIENCE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 9,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 11,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 6,
+        "row": 0,
+        "col": 13,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "text": "small leafy buds that grow on a stalk",
+        "answer": "BRUSSELS"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 3,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      }
+    ]
+  }
+}

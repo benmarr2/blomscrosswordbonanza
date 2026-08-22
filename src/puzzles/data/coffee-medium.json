@@ -1,0 +1,431 @@
+{
+  "id": "coffee-medium",
+  "title": "Coffee Break",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "L",
+      "O",
+      "U",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "B",
+      "I",
+      "O",
+      "M",
+      "E"
+    ],
+    [
+      "B",
+      "I",
+      "B",
+      "#",
+      "P",
+      "#",
+      "M",
+      "A",
+      "P",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "B",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "O",
+      "U",
+      "C",
+      "A",
+      "N",
+      "#",
+      "W",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "G",
+      "#",
+      "T",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "H",
+      "#",
+      "D",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "U",
+      "R",
+      "O",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "O"
+    ],
+    [
+      "B",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "C",
+      "#",
+      "L",
+      "#",
+      "M",
+      "#",
+      "B",
+      "O",
+      "W"
+    ],
+    [
+      "O",
+      "#",
+      "G",
+      "#",
+      "S",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "U",
+      "#",
+      "L"
+    ],
+    [
+      "X",
+      "E",
+      "R",
+      "I",
+      "C",
+      "#",
+      "N",
+      "#",
+      "F",
+      "O",
+      "S",
+      "S",
+      "I",
+      "L",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "C",
+      "#",
+      "T",
+      "#",
+      "T",
+      "#",
+      "L",
+      "#",
+      "I"
+    ],
+    [
+      "R",
+      "#",
+      "P",
+      "#",
+      "P",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "R",
+      "#",
+      "D",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "C",
+      "H",
+      "E",
+      "E",
+      "R",
+      "#",
+      "#",
+      "N",
+      "#",
+      "Y",
+      "#",
+      "I",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "B",
+      "O",
+      "G",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "O",
+      "U",
+      "G",
+      "A",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 5,
+        "text": "Powder made from ground grains, used in baking",
+        "answer": "FLOUR"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 10,
+        "text": "Large naturally occurring community of flora and fauna",
+        "answer": "BIOME"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 10,
+        "text": "Large naturally occurring community of flora and fauna occupying a major habitat",
+        "answer": "BIOME"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 0,
+        "text": "A garment worn over the chest, often with a number",
+        "answer": "BIB"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 6,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 1,
+        "text": "Tropical bird with a large, colorful bill",
+        "answer": "TOUCAN"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 1,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 15,
+        "row": 7,
+        "col": 12,
+        "text": "Weapon used in archery",
+        "answer": "BOW"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 0,
+        "text": "Characterized by or requiring only a small amount of moisture",
+        "answer": "XERIC"
+      },
+      {
+        "number": 17,
+        "row": 9,
+        "col": 8,
+        "text": "Remains or impression of a prehistoric plant or animal embedded in rock",
+        "answer": "FOSSIL"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 1,
+        "text": "A shout of encouragement or approval",
+        "answer": "CHEER"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 6,
+        "text": "Wet, spongy ground with high acidity, often a peat deposit",
+        "answer": "BOG"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 9,
+        "text": "Candy made with sugar, nuts, and egg whites",
+        "answer": "NOUGAT"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 6,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 14,
+        "text": "Straps used to guide a horse",
+        "answer": "REINS"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 4,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 10,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 2,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 8,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 12,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 13,
+        "row": 6,
+        "col": 14,
+        "text": "Nocturnal bird of prey with large eyes",
+        "answer": "OWL"
+      },
+      {
+        "number": 14,
+        "row": 7,
+        "col": 0,
+        "text": "One who fights with fists",
+        "answer": "BOXER"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 14,
+        "text": "Unreactive chemically",
+        "answer": "INERT"
+      }
+    ]
+  }
+}

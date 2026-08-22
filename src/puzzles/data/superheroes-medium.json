@@ -1,0 +1,403 @@
+{
+  "id": "superheroes-medium",
+  "title": "Cape & Cowl",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "F",
+      "E",
+      "R",
+      "E",
+      "N",
+      "C",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "#",
+      "L",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "H",
+      "O",
+      "#",
+      "#",
+      "M",
+      "E",
+      "S",
+      "A",
+      "#",
+      "R",
+      "#",
+      "B",
+      "#"
+    ],
+    [
+      "H",
+      "#",
+      "R",
+      "#",
+      "H",
+      "#",
+      "I",
+      "#",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "P",
+      "A",
+      "L",
+      "E",
+      "O",
+      "N",
+      "T",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "C",
+      "#",
+      "#",
+      "D",
+      "#",
+      "L",
+      "#",
+      "B",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "L",
+      "#",
+      "A",
+      "#",
+      "H",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "O",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "G",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "G",
+      "#",
+      "D",
+      "#",
+      "N",
+      "#",
+      "V",
+      "A",
+      "N",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "R",
+      "A",
+      "Y",
+      "#",
+      "A",
+      "#",
+      "D",
+      "#",
+      "#",
+      "M",
+      "#",
+      "S",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "R",
+      "#",
+      "R",
+      "I",
+      "F",
+      "T",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "I",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "H",
+      "O",
+      "R",
+      "S",
+      "E",
+      "R",
+      "A",
+      "D",
+      "I",
+      "S",
+      "H",
+      "#",
+      "E",
+      "G",
+      "G"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 1,
+        "text": "Vietnamese noodle soup",
+        "answer": "PHO"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 6,
+        "text": "Isolated flat-topped hill or mountain with steep sides",
+        "answer": "MESA"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 2,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 13,
+        "row": 10,
+        "col": 8,
+        "text": "Flavoring extracted from an orchid bean",
+        "answer": "VANILLA"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 0,
+        "text": "A beam of light",
+        "answer": "RAY"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 8,
+        "text": "A crack or break in the Earth's crust",
+        "answer": "RIFT"
+      },
+      {
+        "number": 16,
+        "row": 14,
+        "col": 0,
+        "text": "Pungent root used as a condiment for roast beef",
+        "answer": "HORSERADISH"
+      },
+      {
+        "number": 17,
+        "row": 14,
+        "col": 12,
+        "text": "An oval reproductive body laid by birds",
+        "answer": "EGG"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Study of humanity",
+        "answer": "ANTHROPOLOGY"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "text": "Snake-like fish",
+        "answer": "EEL"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "text": "snake-like fish, often grilled",
+        "answer": "EEL"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 7,
+        "text": "Unit of heredity transferred from parent to offspring",
+        "answer": "GENE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 11,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 6,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 9,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 13,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "text": "Organism that cannot produce its own food",
+        "answer": "HETEROTROPH"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 4,
+        "text": "Rich sauce made from egg yolk, butter, and lemon juice",
+        "answer": "HOLLANDAISE"
+      }
+    ]
+  }
+}

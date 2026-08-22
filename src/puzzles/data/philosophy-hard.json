@@ -1,0 +1,431 @@
+{
+  "id": "philosophy-hard",
+  "title": "First Principles",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "S",
+      "K",
+      "E",
+      "E",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "C",
+      "A",
+      "L",
+      "I",
+      "P",
+      "E",
+      "R"
+    ],
+    [
+      "#",
+      "M",
+      "E",
+      "S",
+      "O",
+      "N",
+      "S",
+      "#",
+      "A",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "U",
+      "#",
+      "Y",
+      "#",
+      "T",
+      "#",
+      "F",
+      "R",
+      "I",
+      "C",
+      "T",
+      "I",
+      "O",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "C",
+      "O",
+      "R",
+      "P",
+      "I",
+      "O",
+      "N",
+      "F",
+      "I",
+      "S",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "H",
+      "#",
+      "M",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "I",
+      "R",
+      "R",
+      "O",
+      "S",
+      "T",
+      "R",
+      "A",
+      "T",
+      "U",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "R",
+      "O",
+      "N",
+      "#",
+      "T",
+      "E",
+      "M",
+      "P",
+      "E",
+      "R",
+      "A",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "Z",
+      "#",
+      "N",
+      "#",
+      "T",
+      "E",
+      "R",
+      "I",
+      "Y",
+      "A",
+      "K",
+      "I"
+    ],
+    [
+      "R",
+      "I",
+      "B",
+      "E",
+      "Y",
+      "E",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "A",
+      "K",
+      "I",
+      "N"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "A clay pigeon shooting discipline",
+        "answer": "SKEET"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 8,
+        "text": "A measuring tool used in gymnastics or diving",
+        "answer": "CALIPER"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 8,
+        "text": "Instrument for measuring dimensions",
+        "answer": "CALIPER"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 1,
+        "text": "Subatomic particles composed of a quark and an antiquark",
+        "answer": "MESONS"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 7,
+        "text": "Resistance that one surface or object encounters when moving over another",
+        "answer": "FRICTION"
+      },
+      {
+        "number": 10,
+        "row": 5,
+        "col": 2,
+        "text": "venomous marine fish, often used in stews",
+        "answer": "SCORPIONFISH"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 1,
+        "text": "High-level sheet cloud",
+        "answer": "CIRROSTRATUS"
+      },
+      {
+        "number": 13,
+        "row": 9,
+        "col": 0,
+        "text": "Metallic element, or type of golf club",
+        "answer": "IRON"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 5,
+        "text": "Moderate climate zone",
+        "answer": "TEMPERATE"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 5,
+        "text": "Relating to regions characterized by mild temperatures",
+        "answer": "TEMPERATE"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 7,
+        "text": "Japanese cooking method using a sweet soy sauce glaze",
+        "answer": "TERIYAKI"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 0,
+        "text": "A cut of beef steak from the rib section",
+        "answer": "RIBEYE"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 10,
+        "text": "Goat-antelope found in the eastern Himalayas",
+        "answer": "TAKIN"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "text": "ancient variety of wheat",
+        "answer": "KAMUT"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 11,
+        "text": "Branch of a river flowing away from the main stream",
+        "answer": "DISTRIBUTARY"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "Tall wading bird with a long neck and legs",
+        "answer": "CRANE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "A tall machine, but could refer to a diving posture",
+        "answer": "CRANE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 5,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 8,
+        "text": "One who charts the world, often with a compass and ruler",
+        "answer": "CARTOGRAPHER"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 3,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 11,
+        "row": 6,
+        "col": 1,
+        "text": "The gradual accumulation of matter",
+        "answer": "ACCRETION"
+      },
+      {
+        "number": 11,
+        "row": 6,
+        "col": 1,
+        "text": "Growth in size by gradual addition",
+        "answer": "ACCRETION"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 14,
+        "text": "A shallow, muddy lake formed at the mouth of a river, common in the Black Sea region",
+        "answer": "LIMAN"
+      }
+    ]
+  }
+}

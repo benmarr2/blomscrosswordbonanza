@@ -1,0 +1,417 @@
+{
+  "id": "computers-medium",
+  "title": "Command Line",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "B",
+      "I",
+      "O",
+      "M",
+      "E",
+      "C",
+      "H",
+      "A",
+      "N",
+      "I",
+      "C",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "S",
+      "L",
+      "A",
+      "L",
+      "O",
+      "M",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "L",
+      "O",
+      "C",
+      "H",
+      "#",
+      "T",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "U"
+    ],
+    [
+      "#",
+      "T",
+      "I",
+      "E",
+      "#",
+      "E",
+      "#",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "P",
+      "I",
+      "N"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "O",
+      "N",
+      "S",
+      "E",
+      "R",
+      "V",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "P",
+      "O",
+      "L",
+      "O",
+      "#",
+      "A",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "L",
+      "#",
+      "T",
+      "O",
+      "P",
+      "O",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "Y"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "P",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "D",
+      "R",
+      "U",
+      "G",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#",
+      "L",
+      "#",
+      "H",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "Y",
+      "#",
+      "N",
+      "#",
+      "A",
+      "N",
+      "A",
+      "L",
+      "Y",
+      "S",
+      "I",
+      "S"
+    ],
+    [
+      "Y",
+      "A",
+      "M",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "W",
+      "#",
+      "#",
+      "#",
+      "X",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 7,
+        "text": "A ski race down a winding course",
+        "answer": "SLALOM"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 3,
+        "text": "A lake or a long, narrow inlet of the sea in Scotland",
+        "answer": "LOCH"
+      },
+      {
+        "number": 10,
+        "row": 5,
+        "col": 1,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 7,
+        "text": "Freshwater or brackish water turtle",
+        "answer": "TERRAPIN"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 1,
+        "text": "Protection of animals, plants, and natural resources",
+        "answer": "CONSERVATION"
+      },
+      {
+        "number": 13,
+        "row": 9,
+        "col": 0,
+        "text": "Team sport played on horseback with mallets",
+        "answer": "POLO"
+      },
+      {
+        "number": 14,
+        "row": 10,
+        "col": 5,
+        "text": "Arrangement of the natural and artificial physical features of an area",
+        "answer": "TOPOGRAPHY"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 0,
+        "text": "Medicine or other substance which has a physiological effect",
+        "answer": "DRUG"
+      },
+      {
+        "number": 19,
+        "row": 13,
+        "col": 7,
+        "text": "Detailed examination of the elements or structure of something",
+        "answer": "ANALYSIS"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 0,
+        "text": "Sweet starchy root vegetable",
+        "answer": "YAM"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 8,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 14,
+        "text": "Branch of medical science concerned with immunity",
+        "answer": "IMMUNOLOGY"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 3,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 5,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 11,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 11,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 1,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 13,
+        "text": "A structure like a spiral staircase",
+        "answer": "HELIX"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 7,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 9,
+        "text": "A statement based on repeated experimental observations",
+        "answer": "LAW"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+nature|easy|nature-easy|Great Outdoors
+birds|easy|birds-easy|Bird Watching
+flowers|easy|flowers-easy|In Bloom
+pets|easy|pets-easy|Best Friends
+dogs|easy|dogs-easy|Good Boys
+cats|easy|cats-easy|Cat Nap
+cars|easy|cars-easy|Fast Lane
+holidays|easy|holidays-easy|Holiday Season
+science|medium|science-medium|Lab Notes
+art|medium|art-medium|Gallery Walk
+literature|medium|literature-medium|Book Club
+travel|medium|travel-medium|Passport Stamps
+mythology|medium|mythology-medium|Gods & Legends
+dinosaurs|medium|dinosaurs-medium|Jurassic Puzzle
+insects|medium|insects-medium|Bug Hunt
+capitals|medium|capitals-medium|Capital Cities
+rivers|medium|rivers-medium|Downstream
+mountains|medium|mountains-medium|Summit Push
+computers|medium|computers-medium|Command Line
+videogames|medium|videogames-medium|Game Over
+boardgames|medium|boardgames-medium|Roll the Dice
+superheroes|medium|superheroes-medium|Cape & Cowl
+cartoons|medium|cartoons-medium|Saturday Morning
+presidents|medium|presidents-medium|Oval Office
+inventions|medium|inventions-medium|Eureka
+cooking|medium|cooking-medium|Mise en Place
+baking|medium|baking-medium|Rise & Bake
+coffee|medium|coffee-medium|Coffee Break
+castles|medium|castles-medium|Behind the Moat
+pirates|medium|pirates-medium|Yo Ho Ho
+magic|medium|magic-medium|Sleight of Hand
+fashion|medium|fashion-medium|Runway
+chemistry|hard|chemistry-hard|Periodic Table
+physics|hard|physics-hard|Quantum Leap
+philosophy|hard|philosophy-hard|First Principles
+architecture|hard|architecture-hard|Blueprint
+jazz|hard|jazz-hard|Blue Note
+opera|hard|opera-hard|Encore
+astronomy|hard|astronomy-hard|Stargazer
+economics|hard|economics-hard|Supply & Demand

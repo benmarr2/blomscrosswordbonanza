@@ -1,0 +1,445 @@
+{
+  "id": "inventions-medium",
+  "title": "Eureka",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "C",
+      "H",
+      "R",
+      "O",
+      "M",
+      "O",
+      "S",
+      "O",
+      "M",
+      "E",
+      "#",
+      "L",
+      "A",
+      "P"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "H"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "L",
+      "U",
+      "B",
+      "#",
+      "H",
+      "I",
+      "P",
+      "P",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "B",
+      "I",
+      "S",
+      "#",
+      "#",
+      "F",
+      "#",
+      "S",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "I",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "F",
+      "E",
+      "N",
+      "#",
+      "C",
+      "E",
+      "L",
+      "L"
+    ],
+    [
+      "#",
+      "S",
+      "O",
+      "U",
+      "N",
+      "D",
+      "#",
+      "L",
+      "#",
+      "O",
+      "#",
+      "H",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#",
+      "#",
+      "E",
+      "#",
+      "W",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "P",
+      "I",
+      "E",
+      "#",
+      "H",
+      "#",
+      "#",
+      "B",
+      "#",
+      "B",
+      "#",
+      "M",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "O",
+      "L",
+      "O",
+      "G",
+      "I",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "H",
+      "#",
+      "O",
+      "#",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "T",
+      "E",
+      "A",
+      "#",
+      "N",
+      "#",
+      "#",
+      "R",
+      "#",
+      "R",
+      "#",
+      "T",
+      "I",
+      "L",
+      "L"
+    ],
+    [
+      "R",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#",
+      "D",
+      "#",
+      "D",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "Z",
+      "#",
+      "R",
+      "#",
+      "#",
+      "I",
+      "#",
+      "Y",
+      "#",
+      "G",
+      "#"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "K",
+      "E",
+      "R",
+      "E",
+      "L",
+      "#",
+      "N",
+      "#",
+      "#",
+      "G",
+      "Y",
+      "M"
+    ],
+    [
+      "I",
+      "#",
+      "S",
+      "#",
+      "D",
+      "#",
+      "F",
+      "#",
+      "E",
+      "G",
+      "G",
+      "S",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "text": "Thread-like structure of nucleic acids and protein found in the nucleus of most living cells",
+        "answer": "CHROMOSOME"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 12,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 5,
+        "text": "An instrument used to hit a golf ball",
+        "answer": "CLUB"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 10,
+        "text": "Large, semi-aquatic African mammal",
+        "answer": "HIPPO"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 1,
+        "text": "Wading bird with a long, downcurved bill",
+        "answer": "IBIS"
+      },
+      {
+        "number": 13,
+        "row": 4,
+        "col": 7,
+        "text": "Low, marshy, or flooded area of land",
+        "answer": "FEN"
+      },
+      {
+        "number": 14,
+        "row": 4,
+        "col": 11,
+        "text": "Basic structural unit of all organisms",
+        "answer": "CELL"
+      },
+      {
+        "number": 15,
+        "row": 5,
+        "col": 1,
+        "text": "Large sea or ocean inlet larger than a bay",
+        "answer": "SOUND"
+      },
+      {
+        "number": 15,
+        "row": 5,
+        "col": 1,
+        "text": "Vibrations that travel through the air or another medium",
+        "answer": "SOUND"
+      },
+      {
+        "number": 16,
+        "row": 7,
+        "col": 0,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 17,
+        "row": 8,
+        "col": 2,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 0,
+        "text": "A hot beverage made from dried leaves",
+        "answer": "TEA"
+      },
+      {
+        "number": 19,
+        "row": 10,
+        "col": 11,
+        "text": "Unstratified glacial deposit",
+        "answer": "TILL"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 0,
+        "text": "Oily fish, often grilled or smoked",
+        "answer": "MACKEREL"
+      },
+      {
+        "number": 22,
+        "row": 13,
+        "col": 12,
+        "text": "A building equipped for exercise",
+        "answer": "GYM"
+      },
+      {
+        "number": 23,
+        "row": 14,
+        "col": 8,
+        "text": "Oval food laid by birds, often for breakfast",
+        "answer": "EGGS"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 7,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "Vietnamese noodle soup",
+        "answer": "PHO"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 11,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 13,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 2,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 4,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 9,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 16,
+        "row": 7,
+        "col": 0,
+        "text": "Cured, smoked, and steamed beef deli meat",
+        "answer": "PASTRAMI"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 6,
+        "text": "Short for game official",
+        "answer": "REF"
+      }
+    ]
+  }
+}

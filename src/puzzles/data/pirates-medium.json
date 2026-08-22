@@ -1,0 +1,410 @@
+{
+  "id": "pirates-medium",
+  "title": "Yo Ho Ho",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "H",
+      "U",
+      "F",
+      "F",
+      "L",
+      "E",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "D",
+      "U",
+      "C",
+      "E",
+      "R",
+      "#"
+    ],
+    [
+      "H",
+      "U",
+      "M",
+      "U",
+      "S",
+      "#",
+      "O",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "O",
+      "#",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "#",
+      "P",
+      "#",
+      "W",
+      "#",
+      "#",
+      "B",
+      "O",
+      "N",
+      "D",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "#",
+      "U",
+      "#",
+      "S",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#",
+      "V"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "#",
+      "T",
+      "#",
+      "L",
+      "#",
+      "#",
+      "L",
+      "#",
+      "R",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "I",
+      "N",
+      "E",
+      "R",
+      "T",
+      "I",
+      "A",
+      "#",
+      "D",
+      "#",
+      "V",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "F",
+      "#",
+      "G",
+      "I",
+      "R",
+      "A",
+      "F",
+      "F",
+      "E"
+    ],
+    [
+      "#",
+      "N",
+      "U",
+      "T",
+      "S",
+      "#",
+      "T",
+      "#",
+      "#",
+      "N",
+      "#",
+      "T",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "#",
+      "C",
+      "#",
+      "I",
+      "#",
+      "#",
+      "G",
+      "#",
+      "I",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "S",
+      "E",
+      "A",
+      "M",
+      "O",
+      "U",
+      "N",
+      "T",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "#",
+      "P",
+      "#",
+      "G",
+      "#",
+      "G",
+      "A",
+      "R",
+      "N",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "G",
+      "A",
+      "I",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 6,
+        "text": "Organism that produces organic compounds from simple substances",
+        "answer": "PRODUCER"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "text": "Decayed organic matter in soil",
+        "answer": "HUMUS"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 9,
+        "text": "Force holding atoms together in a molecule",
+        "answer": "BOND"
+      },
+      {
+        "number": 11,
+        "row": 6,
+        "col": 1,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 12,
+        "row": 8,
+        "col": 1,
+        "text": "Resistance to change in motion",
+        "answer": "INERTIA"
+      },
+      {
+        "number": 13,
+        "row": 9,
+        "col": 8,
+        "text": "Tallest living terrestrial animal",
+        "answer": "GIRAFFE"
+      },
+      {
+        "number": 14,
+        "row": 10,
+        "col": 1,
+        "text": "Edible seeds enclosed in a shell",
+        "answer": "NUTS"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 0,
+        "text": "Underwater mountain rising from the ocean floor",
+        "answer": "SEAMOUNT"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 8,
+        "text": "An edible decoration added to food",
+        "answer": "GARNISH"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 0,
+        "text": "A covering worn on the leg to protect it",
+        "answer": "GAITER"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 9,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 13,
+        "text": "Type of flatfish or a small fishing boat",
+        "answer": "DORY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 1,
+        "text": "Study of the nervous system",
+        "answer": "NEUROSCIENCE"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 6,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 11,
+        "text": "Protection of animals, plants, and natural resources",
+        "answer": "CONSERVATION"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 4,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 14,
+        "text": "The highest points of land separating river basins",
+        "answer": "DIVIDES"
+      },
+      {
+        "number": 15,
+        "row": 11,
+        "col": 13,
+        "text": "A short, fast run",
+        "answer": "DASH"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 2,
+        "text": "Place of origin",
+        "answer": "ATI"
+      }
+    ]
+  }
+}

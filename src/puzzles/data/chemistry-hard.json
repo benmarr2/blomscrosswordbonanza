@@ -1,0 +1,410 @@
+{
+  "id": "chemistry-hard",
+  "title": "Periodic Table",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "D",
+      "I",
+      "S",
+      "T",
+      "R",
+      "I",
+      "B",
+      "U",
+      "T",
+      "A",
+      "R",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "A",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "I",
+      "#",
+      "H",
+      "#",
+      "C",
+      "Y",
+      "C",
+      "L",
+      "I",
+      "S",
+      "T",
+      "#"
+    ],
+    [
+      "B",
+      "O",
+      "N",
+      "O",
+      "B",
+      "O",
+      "#",
+      "U",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "U",
+      "#",
+      "L",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "E",
+      "U",
+      "R",
+      "O",
+      "S",
+      "U",
+      "R",
+      "G",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "M",
+      "#",
+      "U",
+      "#",
+      "L",
+      "#",
+      "L",
+      "#",
+      "T",
+      "#",
+      "#",
+      "H"
+    ],
+    [
+      "M",
+      "A",
+      "H",
+      "I",
+      "#",
+      "G",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "N",
+      "#",
+      "H",
+      "#",
+      "N",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "B",
+      "#",
+      "I",
+      "#",
+      "E",
+      "E",
+      "L",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "B",
+      "#",
+      "S",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "C",
+      "L",
+      "E",
+      "#",
+      "B",
+      "O",
+      "A",
+      "#",
+      "#",
+      "T",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "K",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#",
+      "U",
+      "#",
+      "T",
+      "#",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "R",
+      "U",
+      "M"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Branch of a river flowing away from the main stream",
+        "answer": "DISTRIBUTARY"
+      },
+      {
+        "number": 3,
+        "row": 2,
+        "col": 3,
+        "text": "Night flyer, or baseball club",
+        "answer": "BAT"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 7,
+        "text": "A person who rides a bicycle",
+        "answer": "CYCLIST"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "text": "Apes closely related to chimpanzees, known for their peaceful nature",
+        "answer": "BONOBO"
+      },
+      {
+        "number": 10,
+        "row": 6,
+        "col": 1,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 12,
+        "row": 8,
+        "col": 0,
+        "text": "dolphinfish, popular in Hawaii",
+        "answer": "MAHI"
+      },
+      {
+        "number": 13,
+        "row": 10,
+        "col": 9,
+        "text": "snake-like fish, often grilled",
+        "answer": "EEL"
+      },
+      {
+        "number": 14,
+        "row": 12,
+        "col": 0,
+        "text": "A round shape, like a track or a wrestling ring",
+        "answer": "CIRCLE"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 7,
+        "text": "Constricting snake, non-venomous",
+        "answer": "BOA"
+      },
+      {
+        "number": 17,
+        "row": 14,
+        "col": 0,
+        "text": "A letter, or a golf ball stand",
+        "answer": "TEE"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 7,
+        "text": "Band of colors produced when white light is dispersed",
+        "answer": "SPECTRUM"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 11,
+        "text": "Subatomic particle having the same mass as a given particle but opposite electric charge",
+        "answer": "ANTIPARTICLE"
+      },
+      {
+        "number": 3,
+        "row": 2,
+        "col": 3,
+        "text": "Production and emission of light by a living organism",
+        "answer": "BIOLUMINESCE"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 5,
+        "text": "A breed of horse typically used for racing",
+        "answer": "THOROUGHBRED"
+      },
+      {
+        "number": 5,
+        "row": 3,
+        "col": 1,
+        "text": "Bicycle designed for off-road cycling",
+        "answer": "MOUNTAINBIKE"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 7,
+        "text": "Thunderstorm cloud",
+        "answer": "CUMULONIMBUS"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 9,
+        "text": "A sedimentary rock composed of rounded pebbles",
+        "answer": "CONGLOMERATE"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 13,
+        "text": "Abbreviation for teaspoon",
+        "answer": "TSP"
+      },
+      {
+        "number": 11,
+        "row": 7,
+        "col": 14,
+        "text": "A three-dimensional image formed by interference",
+        "answer": "HOLOGRAM"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 12,
+        "text": "A large, isolated rock outcrop",
+        "answer": "TOR"
+      }
+    ]
+  }
+}

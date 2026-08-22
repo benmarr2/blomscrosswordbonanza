@@ -1,0 +1,367 @@
+{
+  "id": "science-medium",
+  "title": "Lab Notes",
+  "difficulty": "medium",
+  "width": 14,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "L",
+      "U",
+      "M",
+      "I",
+      "N",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "C",
+      "E"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "Q",
+      "#",
+      "A",
+      "#",
+      "B",
+      "A",
+      "C",
+      "T",
+      "E",
+      "R",
+      "I",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "U",
+      "#",
+      "N",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "E",
+      "#",
+      "C"
+    ],
+    [
+      "I",
+      "#",
+      "T",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "R",
+      "#",
+      "T"
+    ],
+    [
+      "L",
+      "#",
+      "H",
+      "#",
+      "M",
+      "E",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#",
+      "O",
+      "#",
+      "R"
+    ],
+    [
+      "I",
+      "#",
+      "R",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "D",
+      "#",
+      "I"
+    ],
+    [
+      "B",
+      "I",
+      "O",
+      "C",
+      "H",
+      "E",
+      "M",
+      "I",
+      "S",
+      "T",
+      "R",
+      "Y",
+      "#",
+      "C"
+    ],
+    [
+      "R",
+      "#",
+      "P",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "N",
+      "#",
+      "I"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "#",
+      "C",
+      "A",
+      "N",
+      "Y",
+      "O",
+      "N",
+      "#",
+      "A",
+      "#",
+      "T"
+    ],
+    [
+      "U",
+      "#",
+      "L",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "M",
+      "#",
+      "Y"
+    ],
+    [
+      "M",
+      "O",
+      "O",
+      "N",
+      "#",
+      "I",
+      "#",
+      "H",
+      "Y",
+      "B",
+      "R",
+      "I",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "A",
+      "Y",
+      "#",
+      "A",
+      "N",
+      "A",
+      "L",
+      "Y",
+      "S",
+      "I",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 4,
+        "text": "Single-celled microorganisms that can cause disease",
+        "answer": "BACTERIA"
+      },
+      {
+        "number": 9,
+        "row": 5,
+        "col": 4,
+        "text": "A unit of length in the metric system",
+        "answer": "METER"
+      },
+      {
+        "number": 10,
+        "row": 7,
+        "col": 0,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 11,
+        "row": 9,
+        "col": 4,
+        "text": "Deep gorge, typically one with a river flowing through it",
+        "answer": "CANYON"
+      },
+      {
+        "number": 12,
+        "row": 11,
+        "col": 0,
+        "text": "A natural satellite of a planet",
+        "answer": "MOON"
+      },
+      {
+        "number": 13,
+        "row": 11,
+        "col": 7,
+        "text": "The offspring of two different species or varieties",
+        "answer": "HYBRID"
+      },
+      {
+        "number": 15,
+        "row": 13,
+        "col": 0,
+        "text": "A beam of light",
+        "answer": "RAY"
+      },
+      {
+        "number": 16,
+        "row": 13,
+        "col": 4,
+        "text": "Detailed examination of the elements or structure of something",
+        "answer": "ANALYSIS"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 8,
+        "text": "Study of the interaction between matter and electromagnetic radiation",
+        "answer": "SPECTROSCOPY"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 13,
+        "text": "Flow of electric charge",
+        "answer": "ELECTRICITY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "State of balance between opposing forces",
+        "answer": "EQUILIBRIUM"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 2,
+        "text": "Study of humanity",
+        "answer": "ANTHROPOLOGY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 5,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 11,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 9,
+        "text": "Chemical substance that neutralizes acids",
+        "answer": "BASE"
+      }
+    ]
+  }
+}

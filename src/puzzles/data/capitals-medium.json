@@ -1,0 +1,410 @@
+{
+  "id": "capitals-medium",
+  "title": "Capital Cities",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "B",
+      "A",
+      "Y",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "S",
+      "H",
+      "O",
+      "T",
+      "P",
+      "U",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "W",
+      "#",
+      "A",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "R",
+      "G",
+      "A",
+      "N",
+      "E",
+      "L",
+      "L",
+      "E",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#",
+      "S",
+      "T",
+      "I",
+      "C",
+      "K",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "L",
+      "#",
+      "L",
+      "I",
+      "O",
+      "N",
+      "#",
+      "E",
+      "#",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#",
+      "J"
+    ],
+    [
+      "#",
+      "Y",
+      "#",
+      "T",
+      "#",
+      "F",
+      "#",
+      "T",
+      "#",
+      "#",
+      "M",
+      "#",
+      "L",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "R",
+      "O",
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "#",
+      "G"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#",
+      "L",
+      "#",
+      "#",
+      "N",
+      "#",
+      "R",
+      "#",
+      "G"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "A",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "#",
+      "T",
+      "#",
+      "A",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "T",
+      "#",
+      "G",
+      "#",
+      "G",
+      "#",
+      "B",
+      "A",
+      "T",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "C",
+      "#",
+      "B",
+      "I",
+      "B",
+      "#",
+      "R",
+      "Y",
+      "E",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "O",
+      "W",
+      "L"
+    ],
+    [
+      "D",
+      "O",
+      "W",
+      "N",
+      "S",
+      "T",
+      "R",
+      "E",
+      "A",
+      "M",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Broad inlet of the sea where the land curves inward",
+        "answer": "BAY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 3,
+        "text": "An event involving throwing a heavy ball",
+        "answer": "SHOTPUT"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "text": "Specialized subunit within a cell that has a specific function",
+        "answer": "ORGANELLE"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 9,
+        "text": "Used in hockey or lacrosse",
+        "answer": "STICK"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 5,
+        "text": "King of the jungle",
+        "answer": "LION"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 1,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 9,
+        "text": "The player trying to hit the ball in baseball",
+        "answer": "BATTER"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 2,
+        "text": "A garment worn over the chest, often with a number",
+        "answer": "BIB"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 6,
+        "text": "Grain used to make dark bread",
+        "answer": "RYE"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 12,
+        "text": "Nocturnal bird of prey with large eyes",
+        "answer": "OWL"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 0,
+        "text": "Moving or situated in the direction in which a river or stream flows",
+        "answer": "DOWNSTREAM"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "text": "Branch of astronomy dealing with physics",
+        "answer": "ASTROPHYSICS"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 5,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 7,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 10,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 3,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 12,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 14,
+        "text": "A person who runs at a steady, gentle pace",
+        "answer": "JOGGER"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 0,
+        "text": "Bottom-dwelling marine fish",
+        "answer": "COD"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 0,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      }
+    ]
+  }
+}

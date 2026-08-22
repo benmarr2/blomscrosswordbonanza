@@ -1,0 +1,410 @@
+{
+  "id": "economics-hard",
+  "title": "Supply & Demand",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "I",
+      "K",
+      "A"
+    ],
+    [
+      "S",
+      "C",
+      "U",
+      "B",
+      "A",
+      "#",
+      "E",
+      "S",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "I",
+      "#",
+      "W",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "A",
+      "#",
+      "#",
+      "E",
+      "#",
+      "F",
+      "O",
+      "R",
+      "E",
+      "N",
+      "S",
+      "I",
+      "C"
+    ],
+    [
+      "C",
+      "#",
+      "C",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "T",
+      "#",
+      "C",
+      "#",
+      "T",
+      "A",
+      "B",
+      "B",
+      "O",
+      "U",
+      "L",
+      "E",
+      "H",
+      "#",
+      "L"
+    ],
+    [
+      "R",
+      "Y",
+      "E",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "O",
+      "#",
+      "L",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "S"
+    ],
+    [
+      "S",
+      "T",
+      "E",
+      "E",
+      "P",
+      "L",
+      "E",
+      "C",
+      "H",
+      "A",
+      "S",
+      "E",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "C",
+      "#",
+      "R",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "O",
+      "C",
+      "A",
+      "#",
+      "A",
+      "M",
+      "P",
+      "E",
+      "R",
+      "A",
+      "G",
+      "E",
+      "#",
+      "#",
+      "W"
+    ],
+    [
+      "P",
+      "#",
+      "T",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "N",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "I",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "B",
+      "O",
+      "U",
+      "R",
+      "S",
+      "I",
+      "N",
+      "#",
+      "C",
+      "R",
+      "E",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 11,
+        "text": "Small mammal of the rabbit family, found in cold climates",
+        "answer": "PIKA"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Equipment for underwater breathing, used in deep diving",
+        "answer": "SCUBA"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 6,
+        "text": "An organic compound derived from an acid and an alcohol",
+        "answer": "ESTER"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 7,
+        "text": "Scientific methods used to investigate crimes",
+        "answer": "FORENSIC"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 4,
+        "text": "Middle Eastern salad of finely chopped parsley, tomatoes, and bulgur",
+        "answer": "TABBOULEH"
+      },
+      {
+        "number": 13,
+        "row": 6,
+        "col": 0,
+        "text": "Grain used to make dark bread",
+        "answer": "RYE"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "A horse race over obstacles",
+        "answer": "STEEPLECHASE"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 0,
+        "text": "A South American tuber, related to the potato",
+        "answer": "OCA"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 4,
+        "text": "The strength of an electric current measured in amperes",
+        "answer": "AMPERAGE"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 1,
+        "text": "A brand of soft, creamy, flavored cheese",
+        "answer": "BOURSIN"
+      },
+      {
+        "number": 19,
+        "row": 13,
+        "col": 9,
+        "text": "Cuisine style with French, Spanish, African, and Caribbean influences",
+        "answer": "CREOLE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "text": "Professional basketball association, for short",
+        "answer": "NBA"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 13,
+        "text": "Flightless bird of New Zealand",
+        "answer": "KIWI"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 8,
+        "text": "A breed of horse typically used for racing",
+        "answer": "THOROUGHBRED"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 5,
+        "text": "Study of small molecules involved in metabolism",
+        "answer": "METABOLOMICS"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 11,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 2,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 14,
+        "text": "Salad made primarily of shredded raw cabbage",
+        "answer": "COLESLAW"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 13,
+        "text": "A bend in rock strata resulting from stress",
+        "answer": "FOLD"
+      }
+    ]
+  }
+}

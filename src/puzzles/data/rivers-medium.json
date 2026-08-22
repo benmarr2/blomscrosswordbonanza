@@ -1,0 +1,438 @@
+{
+  "id": "rivers-medium",
+  "title": "Downstream",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "B",
+      "I",
+      "O",
+      "G",
+      "E",
+      "O",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "Y",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "#",
+      "C",
+      "A",
+      "B",
+      "B",
+      "A",
+      "G",
+      "E",
+      "#",
+      "F",
+      "I",
+      "G"
+    ],
+    [
+      "C",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "#",
+      "M",
+      "O",
+      "O",
+      "S",
+      "E",
+      "#",
+      "G",
+      "O",
+      "A",
+      "T",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "M",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#",
+      "#",
+      "K",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "B",
+      "I",
+      "O",
+      "M",
+      "E",
+      "C",
+      "H",
+      "A",
+      "N",
+      "I",
+      "C",
+      "S",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      "#",
+      "S",
+      "U",
+      "M",
+      "O",
+      "#",
+      "G",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R"
+    ],
+    [
+      "Y",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "#",
+      "F",
+      "#",
+      "A",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "D",
+      "#",
+      "N",
+      "#",
+      "L",
+      "#",
+      "S",
+      "#",
+      "B",
+      "I",
+      "R",
+      "D",
+      "I",
+      "E",
+      "#"
+    ],
+    [
+      "R",
+      "Y",
+      "E",
+      "#",
+      "I",
+      "#",
+      "T",
+      "#",
+      "#",
+      "S",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "#",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "P",
+      "H",
+      "Y",
+      "S",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "E",
+      "#",
+      "H",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "E",
+      "C",
+      "H",
+      "O",
+      "#",
+      "#",
+      "#",
+      "H",
+      "E",
+      "R",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 4,
+        "text": "Round leafy green vegetable",
+        "answer": "CABBAGE"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 12,
+        "text": "Soft pear-shaped fruit",
+        "answer": "FIG"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 4,
+        "text": "Largest member of the deer family",
+        "answer": "MOOSE"
+      },
+      {
+        "number": 13,
+        "row": 4,
+        "col": 10,
+        "text": "Horned ruminant mammal",
+        "answer": "GOAT"
+      },
+      {
+        "number": 15,
+        "row": 6,
+        "col": 0,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 16,
+        "row": 8,
+        "col": 0,
+        "text": "To strike a ball or opponent",
+        "answer": "HIT"
+      },
+      {
+        "number": 17,
+        "row": 8,
+        "col": 4,
+        "text": "Japanese style of wrestling",
+        "answer": "SUMO"
+      },
+      {
+        "number": 18,
+        "row": 8,
+        "col": 9,
+        "text": "Common garden snake, harmless",
+        "answer": "GARTER"
+      },
+      {
+        "number": 19,
+        "row": 10,
+        "col": 8,
+        "text": "One stroke under par in golf",
+        "answer": "BIRDIE"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 0,
+        "text": "Grain used to make dark bread",
+        "answer": "RYE"
+      },
+      {
+        "number": 21,
+        "row": 12,
+        "col": 3,
+        "text": "Branch of astronomy dealing with physics",
+        "answer": "ASTROPHYSICS"
+      },
+      {
+        "number": 22,
+        "row": 14,
+        "col": 0,
+        "text": "A sound or series of sounds caused by the reflection of sound waves",
+        "answer": "ECHO"
+      },
+      {
+        "number": 23,
+        "row": 14,
+        "col": 7,
+        "text": "A plant used for flavor or scent",
+        "answer": "HERB"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 8,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 10,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 14,
+        "text": "An oval reproductive body laid by birds",
+        "answer": "EGG"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 4,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 13,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 0,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 11,
+        "text": "Pungent root used as a condiment for roast beef",
+        "answer": "HORSERADISH"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 9,
+        "text": "Brightly colored bird that dives for fish",
+        "answer": "KINGFISHER"
+      }
+    ]
+  }
+}

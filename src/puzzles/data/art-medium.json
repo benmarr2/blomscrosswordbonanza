@@ -1,0 +1,403 @@
+{
+  "id": "art-medium",
+  "title": "Gallery Walk",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "I",
+      "N",
+      "S",
+      "U",
+      "L",
+      "A",
+      "T",
+      "O",
+      "R",
+      "#",
+      "H",
+      "#",
+      "B"
+    ],
+    [
+      "U",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "A",
+      "#",
+      "B",
+      "O",
+      "N",
+      "E"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "E",
+      "#",
+      "P",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "C",
+      "O",
+      "R",
+      "N",
+      "I",
+      "C",
+      "H",
+      "O",
+      "N",
+      "#",
+      "M"
+    ],
+    [
+      "N",
+      "#",
+      "R",
+      "#",
+      "#",
+      "W",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "F",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "R",
+      "O",
+      "S",
+      "C",
+      "O",
+      "P",
+      "E",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "R",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "M",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "#",
+      "I",
+      "#",
+      "T",
+      "O",
+      "R",
+      "T",
+      "I",
+      "L",
+      "L",
+      "A"
+    ],
+    [
+      "N",
+      "#",
+      "N",
+      "#",
+      "#",
+      "F",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "S",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "C",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "T",
+      "#",
+      "V",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "F",
+      "I",
+      "G",
+      "U",
+      "R",
+      "E",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "I",
+      "#",
+      "S",
+      "Y",
+      "R",
+      "U",
+      "P"
+    ],
+    [
+      "#",
+      "O",
+      "R",
+      "A",
+      "N",
+      "G",
+      "U",
+      "T",
+      "A",
+      "N",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 5,
+        "row": 1,
+        "col": 2,
+        "text": "Material that does not conduct heat or electricity well",
+        "answer": "INSULATOR"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 11,
+        "text": "Any of the pieces of hard, whitish tissue making up the skeleton",
+        "answer": "BONE"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "Tiny arachnid, often a pest",
+        "answer": "MITE"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 4,
+        "text": "Small pickled cucumber, a type of gherkin",
+        "answer": "CORNICHON"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 0,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 7,
+        "text": "Thin flatbread, staple in Mexican cuisine",
+        "answer": "TORTILLA"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 4,
+        "text": "Graceful ice skating discipline",
+        "answer": "FIGURE"
+      },
+      {
+        "number": 16,
+        "row": 13,
+        "col": 10,
+        "text": "thick sweet liquid, often poured on pancakes",
+        "answer": "SYRUP"
+      },
+      {
+        "number": 17,
+        "row": 14,
+        "col": 1,
+        "text": "Arboreal ape native to Borneo and Sumatra",
+        "answer": "ORANGUTAN"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 6,
+        "text": "Two-winged insect, often a pest",
+        "answer": "FLY"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 9,
+        "text": "Constricting snake, non-venomous",
+        "answer": "BOA"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 12,
+        "text": "Vietnamese noodle soup",
+        "answer": "PHO"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 2,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 14,
+        "text": "A long piece of timber, used in gymnastics",
+        "answer": "BEAM"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 11,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 5,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 8,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 13,
+        "text": "Loose, unconsolidated soil or sediments, deposited by flowing water",
+        "answer": "ALLUVIUM"
+      }
+    ]
+  }
+}

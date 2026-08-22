@@ -1,0 +1,410 @@
+{
+  "id": "dinosaurs-medium",
+  "title": "Jurassic Puzzle",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "H",
+      "E",
+      "E",
+      "T",
+      "A",
+      "H",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "M",
+      "#",
+      "E",
+      "#",
+      "P",
+      "A",
+      "R",
+      "A",
+      "S",
+      "A",
+      "I",
+      "L",
+      "I",
+      "N",
+      "G"
+    ],
+    [
+      "M",
+      "#",
+      "N",
+      "#",
+      "#",
+      "N",
+      "#",
+      "L",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "T",
+      "U",
+      "R",
+      "T",
+      "L",
+      "E",
+      "#",
+      "A",
+      "C",
+      "I",
+      "D",
+      "I",
+      "C"
+    ],
+    [
+      "N",
+      "#",
+      "A",
+      "#",
+      "#",
+      "H",
+      "#",
+      "O",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "G",
+      "#"
+    ],
+    [
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "G",
+      "#",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "L",
+      "#",
+      "#",
+      "P",
+      "R",
+      "O",
+      "S",
+      "C",
+      "I",
+      "U",
+      "T",
+      "T",
+      "O"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "M",
+      "#",
+      "B",
+      "L",
+      "O",
+      "O",
+      "D",
+      "#",
+      "T",
+      "I",
+      "G",
+      "E",
+      "R"
+    ],
+    [
+      "M",
+      "#",
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "G",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "U"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "G",
+      "#",
+      "Y",
+      "#",
+      "S",
+      "Y",
+      "S",
+      "T",
+      "E",
+      "M"
+    ],
+    [
+      "B",
+      "O",
+      "T",
+      "A",
+      "N",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 1,
+        "col": 0,
+        "text": "Fastest land mammal",
+        "answer": "CHEETAH"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 11,
+        "text": "Molten rock that flows from a volcano or fissure onto the Earth's surface",
+        "answer": "LAVA"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 11,
+        "text": "Molten rock erupted from a volcano",
+        "answer": "LAVA"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 4,
+        "text": "A recreational activity where a person is towed behind a boat while attached to a parachute",
+        "answer": "PARASAILING"
+      },
+      {
+        "number": 10,
+        "row": 5,
+        "col": 2,
+        "text": "Reptile with a hard shell",
+        "answer": "TURTLE"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 9,
+        "text": "Sour taste, like lemon juice",
+        "answer": "ACIDIC"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 0,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 13,
+        "row": 9,
+        "col": 5,
+        "text": "Italian dry-cured ham, sliced thin",
+        "answer": "PROSCIUTTO"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 4,
+        "text": "Red liquid that circulates in the arteries and veins",
+        "answer": "BLOOD"
+      },
+      {
+        "number": 15,
+        "row": 11,
+        "col": 10,
+        "text": "Striped big cat of Asia",
+        "answer": "TIGER"
+      },
+      {
+        "number": 17,
+        "row": 13,
+        "col": 9,
+        "text": "Set of connected things or parts forming a complex whole",
+        "answer": "SYSTEM"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 0,
+        "text": "Scientific study of plants",
+        "answer": "BOTANY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "text": "The expanse of salt water that covers most of the earth's surface",
+        "answer": "SEA"
+      },
+      {
+        "number": 2,
+        "row": 1,
+        "col": 0,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 13,
+        "text": "Salad dressing made with oil and vinegar",
+        "answer": "VINAIGRETTE"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 7,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 10,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 2,
+        "text": "Quantum phenomenon where particles are linked",
+        "answer": "ENTANGLEMENT"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 5,
+        "text": "Study of humanity",
+        "answer": "ANTHROPOLOGY"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 14,
+        "text": "Alcoholic spirit distilled from sugarcane byproducts",
+        "answer": "RUM"
+      }
+    ]
+  }
+}

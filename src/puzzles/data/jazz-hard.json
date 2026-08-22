@@ -1,0 +1,410 @@
+{
+  "id": "jazz-hard",
+  "title": "Blue Note",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "N",
+      "B",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "V",
+      "A",
+      "S",
+      "C",
+      "U",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "B",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "H",
+      "#",
+      "S",
+      "E",
+      "R",
+      "V",
+      "A",
+      "L"
+    ],
+    [
+      "C",
+      "I",
+      "R",
+      "C",
+      "L",
+      "E",
+      "#",
+      "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "T",
+      "#",
+      "A",
+      "#",
+      "T",
+      "A",
+      "N",
+      "D",
+      "O",
+      "O",
+      "R",
+      "I"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "V",
+      "#",
+      "#",
+      "K",
+      "#",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "B",
+      "I",
+      "O",
+      "G",
+      "E",
+      "O",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "Y",
+      "#",
+      "L",
+      "#",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "I",
+      "D",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "#",
+      "N",
+      "#",
+      "B",
+      "M",
+      "X"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "G",
+      "#",
+      "H",
+      "#",
+      "I",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "S",
+      "Y",
+      "Z",
+      "Y",
+      "G",
+      "Y",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "O",
+      "L",
+      "L",
+      "U",
+      "S",
+      "K"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 1,
+        "col": 0,
+        "text": "Professional basketball association, for short",
+        "answer": "NBA"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 8,
+        "text": "A small channel or vessel, especially in plants",
+        "answer": "VASCULE"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 9,
+        "text": "Medium-sized African wild cat with large ears",
+        "answer": "SERVAL"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 0,
+        "text": "A round shape, like a track or a wrestling ring",
+        "answer": "CIRCLE"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 7,
+        "text": "Indian cooking in a clay oven",
+        "answer": "TANDOORI"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 2,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 2,
+        "text": "Study of the distribution of species geographically",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 5,
+        "text": "Rocky body orbiting the sun, smaller than a planet",
+        "answer": "ASTROID"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 12,
+        "text": "Bicycle Motocross racing on a small, rugged bike",
+        "answer": "BMX"
+      },
+      {
+        "number": 17,
+        "row": 13,
+        "col": 0,
+        "text": "An alignment of three celestial bodies, especially the sun, moon, and Earth",
+        "answer": "SYZYGY"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 8,
+        "text": "Invertebrate of a large phylum including snails, bivalves, and cephalopods",
+        "answer": "MOLLUSK"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 14,
+        "text": "A small, secluded hollow or valley",
+        "answer": "DELL"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 1,
+        "text": "To cook food slowly in a small amount of liquid",
+        "answer": "BRAISE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 10,
+        "text": "A competitive form of ice skating",
+        "answer": "SPEEDSKATING"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 3,
+        "text": "Study of bacteria",
+        "answer": "BACTERIOLOGY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 5,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 5,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 7,
+        "text": "Technology that converts light into electricity",
+        "answer": "PHOTOVOLTAIC"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 13,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 1,
+        "text": "Nocturnal lemur with a long middle finger",
+        "answer": "AYEAYE"
+      }
+    ]
+  }
+}

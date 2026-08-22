@@ -1,0 +1,452 @@
+{
+  "id": "fashion-medium",
+  "title": "Runway",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "O",
+      "R",
+      "T",
+      "S",
+      "M",
+      "A",
+      "N",
+      "#",
+      "O",
+      "R",
+      "C",
+      "A",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "C",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "O",
+      "#",
+      "D",
+      "#",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "C",
+      "I",
+      "E",
+      "S",
+      "#",
+      "W",
+      "#",
+      "Y",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "#",
+      "A",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "B",
+      "I",
+      "B",
+      "#",
+      "M",
+      "#",
+      "A"
+    ],
+    [
+      "I",
+      "#",
+      "N",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "O",
+      "#",
+      "U",
+      "#",
+      "E",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "L",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#",
+      "G"
+    ],
+    [
+      "E",
+      "#",
+      "G",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "S",
+      "#",
+      "L"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "N",
+      "I",
+      "S",
+      "H",
+      "#",
+      "D",
+      "#",
+      "D",
+      "R",
+      "A",
+      "K",
+      "E"
+    ],
+    [
+      "G",
+      "#",
+      "A",
+      "#",
+      "#",
+      "C",
+      "#",
+      "K",
+      "I",
+      "W",
+      "I",
+      "#",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "P",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "S",
+      "H",
+      "E",
+      "E",
+      "P",
+      "D",
+      "O",
+      "G",
+      "#",
+      "G",
+      "#",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "E",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "W"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "S",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 3,
+        "row": 1,
+        "col": 0,
+        "text": "A person who is fair and generous in a game",
+        "answer": "SPORTSMAN"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 10,
+        "text": "Predatory dolphin, also known as a killer whale",
+        "answer": "ORCA"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "Group of living organisms consisting of similar individuals",
+        "answer": "SPECIES"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 10,
+        "text": "Sweet starchy root vegetable",
+        "answer": "YAM"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 8,
+        "text": "A garment worn over the chest, often with a number",
+        "answer": "BIB"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 1,
+        "text": "Restricting vibration to a certain plane",
+        "answer": "POLARIZATION"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "An edible decoration added to food",
+        "answer": "GARNISH"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 10,
+        "text": "A male duck",
+        "answer": "DRAKE"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 10,
+        "text": "A male duck",
+        "answer": "DRAKE"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 7,
+        "text": "Small brown fruit with green flesh",
+        "answer": "KIWI"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 7,
+        "text": "Flightless bird of New Zealand",
+        "answer": "KIWI"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 1,
+        "text": "Canine bred to herd sheep",
+        "answer": "SHEEPDOG"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 12,
+        "text": "The expanse of salt water that covers most of the earth's surface",
+        "answer": "SEA"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 5,
+        "text": "To throw or kick a ball to another player",
+        "answer": "PASS"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 5,
+        "text": "Route through mountains or over a ridge",
+        "answer": "PASS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 8,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 10,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 0,
+        "text": "Japanese dish of raw fish and rice",
+        "answer": "SUSHI"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 2,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 2,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 5,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 12,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 14,
+        "text": "The space between two intersecting lines",
+        "answer": "ANGLE"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 0,
+        "text": "Oval food laid by birds, often for breakfast",
+        "answer": "EGGS"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 14,
+        "text": "A statement based on repeated experimental observations",
+        "answer": "LAW"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 7,
+        "text": "grain often eaten as porridge",
+        "answer": "OATS"
+      }
+    ]
+  }
+}

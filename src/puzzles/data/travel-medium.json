@@ -1,0 +1,452 @@
+{
+  "id": "travel-medium",
+  "title": "Passport Stamps",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "T",
+      "E",
+      "C",
+      "T",
+      "O",
+      "N",
+      "I",
+      "C",
+      "#",
+      "#",
+      "T",
+      "E",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "C",
+      "O",
+      "D"
+    ],
+    [
+      "O",
+      "#",
+      "M",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "C",
+      "R",
+      "E",
+      "P",
+      "E",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "U",
+      "M",
+      "P",
+      "K",
+      "I",
+      "N",
+      "#",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#",
+      "B",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "E",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "A",
+      "#",
+      "A",
+      "L",
+      "L",
+      "O",
+      "Y"
+    ],
+    [
+      "C",
+      "#",
+      "N",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "R",
+      "O",
+      "S",
+      "C",
+      "O",
+      "P",
+      "Y",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "A",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "N",
+      "#",
+      "B",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "L",
+      "A",
+      "L",
+      "O",
+      "M",
+      "#",
+      "R",
+      "#",
+      "#",
+      "T",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "I",
+      "#",
+      "#",
+      "N",
+      "#",
+      "P",
+      "A",
+      "N",
+      "G",
+      "O",
+      "L",
+      "I",
+      "N"
+    ],
+    [
+      "T",
+      "O",
+      "S",
+      "T",
+      "A",
+      "D",
+      "A",
+      "#",
+      "P",
+      "#",
+      "#",
+      "L",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "M",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "H",
+      "#",
+      "H",
+      "O",
+      "R",
+      "D",
+      "E"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "G",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "C",
+      "K",
+      "H",
+      "A",
+      "N",
+      "D",
+      "#",
+      "#",
+      "H",
+      "Y",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Referring to processes within the earth's crust causing large-scale structural deformation",
+        "answer": "TECTONIC"
+      },
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Relating to the structure of the earth's crust and the large-scale processes that take place within it",
+        "answer": "TECTONIC"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 10,
+        "text": "A hot beverage made from dried leaves",
+        "answer": "TEA"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 12,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 12,
+        "text": "Bottom-dwelling marine fish",
+        "answer": "COD"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 8,
+        "text": "Thin pancake, often filled",
+        "answer": "CREPE"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 0,
+        "text": "large orange gourd, often used for pies",
+        "answer": "PUMPKIN"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 10,
+        "text": "A mixture of metals",
+        "answer": "ALLOY"
+      },
+      {
+        "number": 13,
+        "row": 6,
+        "col": 2,
+        "text": "Study of the interaction between matter and electromagnetic radiation",
+        "answer": "SPECTROSCOPY"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 1,
+        "text": "A ski race down a winding course",
+        "answer": "SLALOM"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 7,
+        "text": "Scaly mammal that eats ants and termites",
+        "answer": "PANGOLIN"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 0,
+        "text": "Fried tortilla topped with ingredients",
+        "answer": "TOSTADA"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 10,
+        "text": "A large group, often of insects",
+        "answer": "HORDE"
+      },
+      {
+        "number": 20,
+        "row": 13,
+        "col": 0,
+        "text": "A stroke played with the back of the hand facing forward",
+        "answer": "BACKHAND"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 10,
+        "text": "Scavenger of African savannas, known for its laugh",
+        "answer": "HYENA"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Relating to the region around the equator",
+        "answer": "TROPICAL"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 10,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 12,
+        "text": "A winning serve that the opponent cannot touch",
+        "answer": "ACE"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 8,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 8,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 5,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 11,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 13,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "Place of origin",
+        "answer": "ATI"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 1,
+        "text": "A soft flat hat, often worn by players",
+        "answer": "CAP"
+      }
+    ]
+  }
+}

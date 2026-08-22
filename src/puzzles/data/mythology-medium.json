@@ -1,0 +1,424 @@
+{
+  "id": "mythology-medium",
+  "title": "Gods & Legends",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "A",
+      "T",
+      "#",
+      "#"
+    ],
+    [
+      "D",
+      "E",
+      "C",
+      "O",
+      "M",
+      "P",
+      "O",
+      "S",
+      "E",
+      "R",
+      "#",
+      "T",
+      "#",
+      "B",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "#",
+      "S",
+      "#",
+      "W",
+      "#",
+      "E",
+      "#",
+      "K",
+      "O",
+      "M",
+      "O",
+      "D",
+      "O"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "P",
+      "I",
+      "E",
+      "#",
+      "C",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "Y",
+      "#"
+    ],
+    [
+      "D",
+      "I",
+      "V",
+      "E",
+      "#",
+      "R",
+      "#",
+      "T",
+      "#",
+      "K",
+      "E",
+      "B",
+      "A",
+      "B",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "C",
+      "E",
+      "L",
+      "E",
+      "R",
+      "Y",
+      "#",
+      "A",
+      "#",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "T",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "P",
+      "R",
+      "O",
+      "F",
+      "E",
+      "S",
+      "S",
+      "I",
+      "O",
+      "N",
+      "A",
+      "L",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "C",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "U",
+      "S",
+      "H",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "N",
+      "#",
+      "P",
+      "#",
+      "T",
+      "A",
+      "G",
+      "I",
+      "N",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "G",
+      "O",
+      "G",
+      "G",
+      "L",
+      "E",
+      "S",
+      "#",
+      "P",
+      "#",
+      "#",
+      "G",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "A",
+      "M",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "H",
+      "Y",
+      "S",
+      "I",
+      "O",
+      "L",
+      "O",
+      "G",
+      "Y",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 10,
+        "text": "A padded surface used for gymnastics or wrestling",
+        "answer": "MAT"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Organism that breaks down dead organic material",
+        "answer": "DECOMPOSER"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 9,
+        "text": "Largest living lizard, a dragon",
+        "answer": "KOMODO"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 3,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 0,
+        "text": "To plunge headfirst into water",
+        "answer": "DIVE"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 9,
+        "text": "Skewered and grilled meat dish",
+        "answer": "KEBAB"
+      },
+      {
+        "number": 14,
+        "row": 6,
+        "col": 3,
+        "text": "crunchy stalk vegetable",
+        "answer": "CELERY"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 2,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 1,
+        "text": "Japanese dish of raw fish and rice",
+        "answer": "SUSHI"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 9,
+        "text": "North African slow-cooked stew named after its cooking pot",
+        "answer": "TAGINE"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 2,
+        "text": "Protective eyewear for swimming or skiing",
+        "answer": "GOGGLES"
+      },
+      {
+        "number": 19,
+        "row": 13,
+        "col": 10,
+        "text": "Cured pork from a pig's leg",
+        "answer": "HAM"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 1,
+        "text": "Study of the normal functions of living organisms and their parts",
+        "answer": "PHYSIOLOGY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "A winning serve that the opponent cannot touch",
+        "answer": "ACE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 11,
+        "text": "Smallest unit of a chemical element",
+        "answer": "ATOM"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Trees that shed leaves annually",
+        "answer": "DECIDUOUS"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 5,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 7,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 13,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 3,
+        "text": "Study of the interaction between matter and electromagnetic radiation",
+        "answer": "SPECTROSCOPY"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 10,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 10,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      }
+    ]
+  }
+}

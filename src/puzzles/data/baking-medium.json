@@ -1,0 +1,417 @@
+{
+  "id": "baking-medium",
+  "title": "Rise & Bake",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "N",
+      "B",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "H",
+      "I",
+      "P",
+      "P",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "D",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "P",
+      "#",
+      "W",
+      "A",
+      "T",
+      "E",
+      "R",
+      "M",
+      "E",
+      "L",
+      "O",
+      "N"
+    ],
+    [
+      "D",
+      "E",
+      "E",
+      "R",
+      "#",
+      "E",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "R",
+      "#",
+      "Z",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "O",
+      "#",
+      "Z",
+      "#"
+    ],
+    [
+      "S",
+      "H",
+      "U",
+      "F",
+      "F",
+      "L",
+      "E",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "S",
+      "#",
+      "F",
+      "#",
+      "#",
+      "U",
+      "#",
+      "I",
+      "N",
+      "L",
+      "E",
+      "T"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "S",
+      "#",
+      "T",
+      "E",
+      "R",
+      "R",
+      "A",
+      "#",
+      "A",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "C",
+      "H",
+      "I",
+      "L",
+      "I",
+      "#",
+      "#",
+      "G",
+      "#",
+      "#",
+      "M",
+      "O",
+      "L",
+      "E"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "N",
+      "#",
+      "G",
+      "#",
+      "T",
+      "R",
+      "E",
+      "N",
+      "C",
+      "H",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "E",
+      "M",
+      "U",
+      "L",
+      "S",
+      "I",
+      "O",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Professional basketball association, for short",
+        "answer": "NBA"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 3,
+        "text": "Large, semi-aquatic African mammal",
+        "answer": "HIPPO"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "text": "Bottom-dwelling marine fish",
+        "answer": "COD"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 5,
+        "text": "Large, sweet fruit with a green rind",
+        "answer": "WATERMELON"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 0,
+        "text": "Ruminant mammal, males often have antlers",
+        "answer": "DEER"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 0,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 10,
+        "text": "Small arm of the sea, lake, or river that extends into the land",
+        "answer": "INLET"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 5,
+        "text": "Latin for 'land' or 'earth'",
+        "answer": "TERRA"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 1,
+        "text": "Spicy pepper or a stew containing it",
+        "answer": "CHILI"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 11,
+        "text": "A unit of amount of substance in chemistry",
+        "answer": "MOLE"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 11,
+        "text": "Small burrowing mammal with poor eyesight",
+        "answer": "MOLE"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 7,
+        "text": "Long, narrow, deep depression in the ocean floor",
+        "answer": "TRENCH"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 0,
+        "text": "A mixture of two or more liquids that are normally immiscible",
+        "answer": "EMULSION"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 5,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 8,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 11,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 13,
+        "text": "Soft, white, unripened Italian cheese",
+        "answer": "MOZZARELLA"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 3,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 0,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      }
+    ]
+  }
+}

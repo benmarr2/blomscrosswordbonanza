@@ -1,0 +1,424 @@
+{
+  "id": "magic-medium",
+  "title": "Sleight of Hand",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "B",
+      "I",
+      "O",
+      "M",
+      "E",
+      "C",
+      "H",
+      "A",
+      "N",
+      "I",
+      "C",
+      "S"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "P"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "#",
+      "C",
+      "#",
+      "S",
+      "U",
+      "M",
+      "O",
+      "#",
+      "#",
+      "L",
+      "#",
+      "E"
+    ],
+    [
+      "B",
+      "O",
+      "G",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "M",
+      "#",
+      "S",
+      "#",
+      "A",
+      "#",
+      "C"
+    ],
+    [
+      "#",
+      "F",
+      "#",
+      "B",
+      "R",
+      "O",
+      "N",
+      "Z",
+      "E",
+      "#",
+      "P",
+      "I",
+      "N",
+      "O",
+      "T"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "B",
+      "#",
+      "C",
+      "#",
+      "N",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#",
+      "R"
+    ],
+    [
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "P",
+      "H",
+      "Y",
+      "S",
+      "I",
+      "C",
+      "S",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "#",
+      "H",
+      "#",
+      "R",
+      "#",
+      "A",
+      "#",
+      "T",
+      "#",
+      "D",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "O",
+      "W",
+      "L",
+      "#",
+      "R",
+      "#",
+      "U",
+      "#",
+      "C"
+    ],
+    [
+      "S",
+      "O",
+      "U",
+      "N",
+      "D",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "R",
+      "E",
+      "I",
+      "N",
+      "S",
+      "#",
+      "S",
+      "#",
+      "B",
+      "#",
+      "P"
+    ],
+    [
+      "R",
+      "A",
+      "T",
+      "#",
+      "A",
+      "#",
+      "Z",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#",
+      "B",
+      "#",
+      "Y"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "O",
+      "T",
+      "T",
+      "E",
+      "R",
+      "#",
+      "R",
+      "O",
+      "D",
+      "E",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "O",
+      "L",
+      "E",
+      "S",
+      "L",
+      "A",
+      "W"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 3,
+        "text": "Study of the mechanics of living body",
+        "answer": "BIOMECHANICS"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Japanese style of wrestling",
+        "answer": "SUMO"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "Wet, spongy ground with high acidity, often a peat deposit",
+        "answer": "BOG"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 3,
+        "text": "A medal for third place",
+        "answer": "BRONZE"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 10,
+        "text": "Grape varietal for wine, like Grigio or Noir",
+        "answer": "PINOT"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 0,
+        "text": "Branch of astronomy dealing with physics",
+        "answer": "ASTROPHYSICS"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 6,
+        "text": "Nocturnal bird of prey with large eyes",
+        "answer": "OWL"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "Large sea or ocean inlet larger than a bay",
+        "answer": "SOUND"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "Vibrations that travel through the air or another medium",
+        "answer": "SOUND"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 4,
+        "text": "Straps used to guide a horse",
+        "answer": "REINS"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 0,
+        "text": "Rodent larger than a mouse",
+        "answer": "RAT"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 3,
+        "text": "Semi-aquatic mammal known for playing in water",
+        "answer": "OTTER"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 9,
+        "text": "A contest of cowboy skills, featuring bronc riding and calf roping",
+        "answer": "RODEO"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 7,
+        "text": "Salad made primarily of shredded raw cabbage",
+        "answer": "COLESLAW"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 8,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 12,
+        "text": "Piece of land surrounded by water",
+        "answer": "ISLAND"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "Study of the interaction between matter and electromagnetic radiation",
+        "answer": "SPECTROSCOPY"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 4,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 10,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 12,
+        "text": "A weight lifted for exercise, held in one hand",
+        "answer": "DUMBBELL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "id": "cars-easy",
+  "title": "Fast Lane",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "G",
+      "R",
+      "A",
+      "S",
+      "S",
+      "L",
+      "A",
+      "N",
+      "D",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "Y",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "M",
+      "#",
+      "F",
+      "O",
+      "X",
+      "#",
+      "R",
+      "O",
+      "S",
+      "E",
+      "M",
+      "A",
+      "R",
+      "Y",
+      "#"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "W",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "#",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "B",
+      "#",
+      "I",
+      "#",
+      "#",
+      "W",
+      "#",
+      "E",
+      "C",
+      "H",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "L",
+      "I",
+      "O",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "P",
+      "#",
+      "#",
+      "N",
+      "#",
+      "S",
+      "#",
+      "P",
+      "#",
+      "B"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "R",
+      "B",
+      "O",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "A",
+      "T",
+      "E",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "H",
+      "#",
+      "D",
+      "#",
+      "P",
+      "#",
+      "#",
+      "S",
+      "#",
+      "L",
+      "#",
+      "L",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "L"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "N",
+      "U",
+      "T",
+      "S",
+      "#",
+      "R",
+      "#",
+      "S",
+      "#",
+      "G",
+      "#",
+      "I"
+    ],
+    [
+      "#",
+      "D",
+      "O",
+      "G",
+      "#",
+      "A",
+      "#",
+      "#",
+      "F",
+      "#",
+      "M",
+      "#",
+      "O",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "#",
+      "E",
+      "M",
+      "U",
+      "#",
+      "I",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "U",
+      "N",
+      "C",
+      "O",
+      "O",
+      "K",
+      "E",
+      "D"
+    ],
+    [
+      "G",
+      "A",
+      "R",
+      "N",
+      "I",
+      "S",
+      "H",
+      "#",
+      "G",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Large open area of country covered with grass",
+        "answer": "GRASSLAND"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 2,
+        "text": "Clever, bushy-tailed canine",
+        "answer": "FOX"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 6,
+        "text": "Fragrant evergreen herb",
+        "answer": "ROSEMARY"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 10,
+        "text": "A sound or series of sounds caused by the reflection of sound waves",
+        "answer": "ECHO"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 7,
+        "text": "King of the jungle",
+        "answer": "LION"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 1,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 14,
+        "row": 10,
+        "col": 3,
+        "text": "Edible seeds enclosed in a shell",
+        "answer": "NUTS"
+      },
+      {
+        "number": 15,
+        "row": 11,
+        "col": 1,
+        "text": "Domesticated carnivorous mammal, a common pet",
+        "answer": "DOG"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 4,
+        "text": "Large flightless bird native to Australia",
+        "answer": "EMU"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 7,
+        "text": "Raw or not prepared by heat",
+        "answer": "UNCOOKED"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 0,
+        "text": "An edible decoration added to food",
+        "answer": "GARNISH"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "A building equipped for exercise",
+        "answer": "GYM"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 10,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 12,
+        "text": "Group of islands",
+        "answer": "ARCHIPELAGO"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 1,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 5,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 8,
+        "text": "Sport combining elements of surfing and sailing",
+        "answer": "WINDSURFING"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 14,
+        "text": "A table game with cue sticks and balls",
+        "answer": "BILLIARD"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 11,
+        "text": "Bottom-dwelling marine fish",
+        "answer": "COD"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 11,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      }
+    ]
+  }
+}

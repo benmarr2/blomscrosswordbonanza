@@ -1,0 +1,424 @@
+{
+  "id": "mountains-medium",
+  "title": "Summit Push",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "R",
+      "#",
+      "S",
+      "#",
+      "I",
+      "S",
+      "O",
+      "B",
+      "A",
+      "T",
+      "H",
+      "#",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "E",
+      "#",
+      "P",
+      "#",
+      "N",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "I",
+      "#",
+      "S",
+      "E",
+      "A"
+    ],
+    [
+      "S",
+      "P",
+      "E",
+      "C",
+      "T",
+      "A",
+      "T",
+      "O",
+      "R",
+      "#",
+      "T",
+      "#",
+      "H",
+      "#",
+      "L"
+    ],
+    [
+      "O",
+      "#",
+      "C",
+      "#",
+      "E",
+      "#",
+      "#",
+      "G",
+      "#",
+      "E",
+      "#",
+      "#",
+      "U",
+      "#",
+      "A"
+    ],
+    [
+      "N",
+      "E",
+      "T",
+      "#",
+      "R",
+      "#",
+      "F",
+      "E",
+      "N",
+      "N",
+      "E",
+      "C",
+      "F",
+      "O",
+      "X"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "U",
+      "M",
+      "#",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "#",
+      "F",
+      "#",
+      "Y"
+    ],
+    [
+      "N",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "#",
+      "G",
+      "#",
+      "A",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "C",
+      "#",
+      "T",
+      "#",
+      "#",
+      "A",
+      "#",
+      "G",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "#",
+      "P",
+      "O",
+      "L",
+      "Y",
+      "G",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "P",
+      "I",
+      "N",
+      "A",
+      "C",
+      "H",
+      "#",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#",
+      "F"
+    ],
+    [
+      "#",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "M",
+      "I",
+      "R",
+      "R",
+      "O",
+      "R"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "D",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G"
+    ],
+    [
+      "#",
+      "#",
+      "H",
+      "I",
+      "P",
+      "P",
+      "O",
+      "P",
+      "O",
+      "T",
+      "A",
+      "M",
+      "U",
+      "S",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "text": "Line connecting points of equal depth",
+        "answer": "ISOBATH"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 12,
+        "text": "The expanse of salt water that covers most of the earth's surface",
+        "answer": "SEA"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 0,
+        "text": "A person who watches a sporting event",
+        "answer": "SPECTATOR"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 0,
+        "text": "A mesh barrier in various games",
+        "answer": "NET"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 6,
+        "text": "Smallest canid with unusually large ears",
+        "answer": "FENNECFOX"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 2,
+        "text": "Alcoholic spirit distilled from sugarcane byproducts",
+        "answer": "RUM"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 2,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 7,
+        "text": "A closed shape with straight sides",
+        "answer": "POLYGON"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 1,
+        "text": "Leafy green vegetable",
+        "answer": "SPINACH"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 9,
+        "text": "A reflective surface, typically of glass coated with metal",
+        "answer": "MIRROR"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 2,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Phenomenon in which a vibrating system or external force drives another system to oscillate with greater amplitude",
+        "answer": "RESONANCE"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 4,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 7,
+        "text": "The study of the distribution of species and ecosystems in space and time",
+        "answer": "BIOGEOGRAPHY"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 10,
+        "text": "To strike a ball or opponent",
+        "answer": "HIT"
+      },
+      {
+        "number": 6,
+        "row": 0,
+        "col": 14,
+        "text": "System of millions or billions of stars",
+        "answer": "GALAXY"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 12,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 9,
+        "text": "Quantum phenomenon where particles are linked",
+        "answer": "ENTANGLEMENT"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 14,
+        "text": "Amphibian known for jumping and croaking",
+        "answer": "FROG"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 3,
+        "text": "Place of origin",
+        "answer": "ATI"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 5,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      }
+    ]
+  }
+}

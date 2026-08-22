@@ -1,0 +1,452 @@
+{
+  "id": "nature-easy",
+  "title": "Great Outdoors",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "J",
+      "#",
+      "M",
+      "#",
+      "L",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "R",
+      "A",
+      "S",
+      "A",
+      "I",
+      "L",
+      "I",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "#",
+      "M",
+      "#",
+      "T",
+      "#",
+      "P",
+      "#",
+      "#",
+      "P",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "S",
+      "S",
+      "#",
+      "C",
+      "#",
+      "C",
+      "#",
+      "T",
+      "#",
+      "P",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "#",
+      "R",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "O",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "T",
+      "A",
+      "C",
+      "O",
+      "#",
+      "R",
+      "U",
+      "M",
+      "#",
+      "M",
+      "#",
+      "P",
+      "E",
+      "S",
+      "T"
+    ],
+    [
+      "#",
+      "G",
+      "#",
+      "W",
+      "#",
+      "B",
+      "#",
+      "M",
+      "A",
+      "P",
+      "#",
+      "O",
+      "#",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "B",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#",
+      "T",
+      "R",
+      "O",
+      "T"
+    ],
+    [
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "S",
+      "#",
+      "A",
+      "#",
+      "M",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "#",
+      "I",
+      "#",
+      "R",
+      "#",
+      "D",
+      "#",
+      "A",
+      "N",
+      "T",
+      "#",
+      "U",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "D",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "U",
+      "#",
+      "S",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "#",
+      "G",
+      "#",
+      "I",
+      "#",
+      "A",
+      "T",
+      "I",
+      "#",
+      "R",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "T",
+      "#",
+      "S",
+      "P",
+      "E",
+      "C",
+      "I",
+      "E",
+      "S",
+      "#"
+    ],
+    [
+      "B",
+      "E",
+      "A",
+      "G",
+      "L",
+      "E",
+      "#",
+      "M",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 5,
+        "row": 1,
+        "col": 3,
+        "text": "A recreational activity where a person is towed behind a boat while attached to a parachute",
+        "answer": "PARASAILING"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "To throw or kick a ball to another player",
+        "answer": "PASS"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "Route through mountains or over a ridge",
+        "answer": "PASS"
+      },
+      {
+        "number": 13,
+        "row": 3,
+        "col": 11,
+        "text": "Bell-shaped fruit, often green or yellow",
+        "answer": "PEAR"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 0,
+        "text": "Mexican dish in a folded tortilla",
+        "answer": "TACO"
+      },
+      {
+        "number": 15,
+        "row": 5,
+        "col": 5,
+        "text": "Alcoholic spirit distilled from sugarcane byproducts",
+        "answer": "RUM"
+      },
+      {
+        "number": 16,
+        "row": 5,
+        "col": 11,
+        "text": "An organism that is harmful to plants or animals",
+        "answer": "PEST"
+      },
+      {
+        "number": 17,
+        "row": 6,
+        "col": 7,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 18,
+        "row": 7,
+        "col": 11,
+        "text": "A moderate pace for a horse",
+        "answer": "TROT"
+      },
+      {
+        "number": 19,
+        "row": 8,
+        "col": 0,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 20,
+        "row": 10,
+        "col": 7,
+        "text": "Social insect that lives in colonies",
+        "answer": "ANT"
+      },
+      {
+        "number": 21,
+        "row": 12,
+        "col": 5,
+        "text": "Place of origin",
+        "answer": "ATI"
+      },
+      {
+        "number": 23,
+        "row": 13,
+        "col": 7,
+        "text": "Group of living organisms consisting of similar individuals",
+        "answer": "SPECIES"
+      },
+      {
+        "number": 24,
+        "row": 14,
+        "col": 0,
+        "text": "Small to medium-sized hound dog",
+        "answer": "BEAGLE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 4,
+        "text": "Sweet spread made from fruit and sugar",
+        "answer": "JAM"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 6,
+        "text": "A padded surface used for gymnastics or wrestling",
+        "answer": "MAT"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 8,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 11,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 13,
+        "text": "Jumping insect with long hind legs",
+        "answer": "GRASSHOPPER"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 1,
+        "text": "A recreational sport where a pilot flies a paraglider",
+        "answer": "PARAGLIDING"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 3,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 5,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 7,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 9,
+        "text": "The degree of hotness or coldness",
+        "answer": "TEMPERATURE"
+      },
+      {
+        "number": 12,
+        "row": 3,
+        "col": 9,
+        "text": "Degree or intensity of heat present",
+        "answer": "TEMPERATURE"
+      },
+      {
+        "number": 22,
+        "row": 12,
+        "col": 12,
+        "text": "Flying insect known for producing honey",
+        "answer": "BEE"
+      }
+    ]
+  }
+}

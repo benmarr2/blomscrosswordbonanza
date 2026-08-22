@@ -1,0 +1,417 @@
+{
+  "id": "birds-easy",
+  "title": "Bird Watching",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "S",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "C",
+      "H",
+      "I",
+      "M",
+      "P",
+      "A",
+      "N",
+      "Z",
+      "E",
+      "E",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "N",
+      "#",
+      "J",
+      "U",
+      "I",
+      "C",
+      "E",
+      "#",
+      "H",
+      "#",
+      "S",
+      "W",
+      "A",
+      "M",
+      "P"
+    ],
+    [
+      "C",
+      "#",
+      "#",
+      "N",
+      "#",
+      "A",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "B",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "T",
+      "U",
+      "R",
+      "N",
+      "I",
+      "P",
+      "#",
+      "S",
+      "O",
+      "U",
+      "N",
+      "D"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "A",
+      "#",
+      "B",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "A",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "M",
+      "I",
+      "T",
+      "O",
+      "C",
+      "H",
+      "O",
+      "N",
+      "D",
+      "R",
+      "I",
+      "A",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "N",
+      "#",
+      "H",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "D",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "N",
+      "#",
+      "#",
+      "U",
+      "#",
+      "D",
+      "#",
+      "#",
+      "T",
+      "E",
+      "N",
+      "N",
+      "I",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "D",
+      "E",
+      "S",
+      "E",
+      "R",
+      "T",
+      "#",
+      "A",
+      "#",
+      "#",
+      "G",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "M",
+      "A",
+      "P",
+      "#",
+      "P",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "L",
+      "U",
+      "M",
+      "#",
+      "T",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "H",
+      "E",
+      "M",
+      "I",
+      "S",
+      "P",
+      "H",
+      "E",
+      "R",
+      "E",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Intelligent African ape",
+        "answer": "CHIMPANZEE"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 2,
+        "text": "Liquid extracted from fruits or vegetables",
+        "answer": "JUICE"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 10,
+        "text": "Area of low-lying, uncultivated ground where water collects",
+        "answer": "SWAMP"
+      },
+      {
+        "number": 10,
+        "row": 5,
+        "col": 3,
+        "text": "Root vegetable with a slightly peppery taste",
+        "answer": "TURNIP"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 10,
+        "text": "Vibrations that travel through the air or another medium",
+        "answer": "SOUND"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 10,
+        "text": "Large sea or ocean inlet larger than a bay",
+        "answer": "SOUND"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 2,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 13,
+        "row": 10,
+        "col": 8,
+        "text": "A racket game played on a court",
+        "answer": "TENNIS"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 1,
+        "text": "Barren or desolate area, especially one with little or no rainfall",
+        "answer": "DESERT"
+      },
+      {
+        "number": 15,
+        "row": 12,
+        "col": 8,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 17,
+        "row": 13,
+        "col": 0,
+        "text": "Sweet fleshy fruit with a smooth skin and a stone",
+        "answer": "PLUM"
+      },
+      {
+        "number": 18,
+        "row": 14,
+        "col": 4,
+        "text": "Half of the Earth, usually divided into northern and southern or eastern and western",
+        "answer": "HEMISPHERE"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 9,
+        "text": "A piece of land almost surrounded by water",
+        "answer": "PEN"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 11,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 13,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Judgment or decision reached by reasoning",
+        "answer": "CONCLUSION"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 3,
+        "text": "Having many mountains",
+        "answer": "MOUNTAINOUS"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 5,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 8,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 14,
+        "row": 11,
+        "col": 1,
+        "text": "A valley, especially in the North of England",
+        "answer": "DALE"
+      },
+      {
+        "number": 16,
+        "row": 12,
+        "col": 12,
+        "text": "The standard number of strokes for a hole or course in golf",
+        "answer": "PAR"
+      }
+    ]
+  }
+}

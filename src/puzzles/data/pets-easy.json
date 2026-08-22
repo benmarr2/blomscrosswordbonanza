@@ -1,0 +1,403 @@
+{
+  "id": "pets-easy",
+  "title": "Best Friends",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "C",
+      "A",
+      "R",
+      "B",
+      "O",
+      "H",
+      "Y",
+      "D",
+      "R",
+      "A",
+      "T",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "J",
+      "U",
+      "M",
+      "P",
+      "#",
+      "E",
+      "C",
+      "H",
+      "I",
+      "D",
+      "N",
+      "A",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "#",
+      "M",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "H",
+      "E",
+      "L",
+      "I",
+      "X",
+      "#",
+      "P",
+      "#",
+      "P",
+      "#",
+      "C",
+      "A",
+      "P",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "N",
+      "#",
+      "T",
+      "#",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "H",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "N",
+      "O",
+      "W",
+      "B",
+      "O",
+      "A",
+      "R",
+      "D",
+      "I",
+      "N",
+      "G",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "P",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "O",
+      "I",
+      "L",
+      "#",
+      "H",
+      "#",
+      "#",
+      "O",
+      "#",
+      "G",
+      "#",
+      "E",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "T",
+      "#",
+      "L",
+      "#",
+      "L",
+      "A",
+      "P",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "S",
+      "A",
+      "L",
+      "I",
+      "V",
+      "A",
+      "#",
+      "H",
+      "#"
+    ],
+    [
+      "C",
+      "#",
+      "M",
+      "#",
+      "D",
+      "#",
+      "#",
+      "M",
+      "#",
+      "D",
+      "#",
+      "G",
+      "#",
+      "Y",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "U",
+      "#",
+      "I",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "O",
+      "R",
+      "T",
+      "A",
+      "G",
+      "E",
+      "#",
+      "#",
+      "G",
+      "R",
+      "O",
+      "T",
+      "T",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Organic compound that serves as a source of energy for living organisms",
+        "answer": "CARBOHYDRATE"
+      },
+      {
+        "number": 3,
+        "row": 2,
+        "col": 0,
+        "text": "To push oneself off a surface into the air",
+        "answer": "JUMP"
+      },
+      {
+        "number": 4,
+        "row": 2,
+        "col": 5,
+        "text": "Spiny monotreme mammal",
+        "answer": "ECHIDNA"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "text": "A structure like a spiral staircase",
+        "answer": "HELIX"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 11,
+        "text": "Point or extension of land projecting into water",
+        "answer": "CAPE"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 2,
+        "text": "Riding down a snow-covered slope on a single board",
+        "answer": "SNOWBOARDING"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 0,
+        "text": "Liquid fat used in cooking or dressing",
+        "answer": "OIL"
+      },
+      {
+        "number": 14,
+        "row": 9,
+        "col": 11,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 6,
+        "text": "Watery liquid secreted by glands in the mouth",
+        "answer": "SALIVA"
+      },
+      {
+        "number": 16,
+        "row": 14,
+        "col": 0,
+        "text": "Carrying of boats or goods overland between two bodies of water",
+        "answer": "PORTAGE"
+      },
+      {
+        "number": 17,
+        "row": 14,
+        "col": 9,
+        "text": "Small picturesque cave, especially an artificial one in a park or garden",
+        "answer": "GROTTO"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "One benefits, the other is unaffected",
+        "answer": "COMMENSALISM"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 5,
+        "text": "Flying insect known for producing honey",
+        "answer": "BEE"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 7,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 11,
+        "text": "Group of islands",
+        "answer": "ARCHIPELAGO"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 13,
+        "text": "Arrangement of the natural and artificial physical features of an area",
+        "answer": "TOPOGRAPHY"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 4,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 9,
+        "text": "A recreational sport where a pilot flies a paraglider",
+        "answer": "PARAGLIDING"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 0,
+        "text": "Exposure of bedrock or ancient superficial deposits on the surface",
+        "answer": "OUTCROP"
+      }
+    ]
+  }
+}

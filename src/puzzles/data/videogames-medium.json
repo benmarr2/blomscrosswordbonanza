@@ -1,0 +1,424 @@
+{
+  "id": "videogames-medium",
+  "title": "Game Over",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "R",
+      "N",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "E",
+      "A",
+      "T",
+      "B",
+      "A",
+      "L",
+      "L"
+    ],
+    [
+      "#",
+      "B",
+      "#",
+      "#",
+      "E",
+      "#",
+      "B",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "B",
+      "A",
+      "S",
+      "I",
+      "N",
+      "#",
+      "O",
+      "#",
+      "#",
+      "L",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "Y",
+      "#",
+      "T",
+      "#",
+      "D",
+      "I",
+      "V",
+      "I",
+      "D",
+      "E",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "P",
+      "A",
+      "N",
+      "N",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "T",
+      "#",
+      "R",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "C",
+      "#",
+      "N",
+      "#",
+      "B",
+      "#",
+      "M",
+      "E",
+      "I",
+      "O",
+      "S",
+      "I",
+      "S"
+    ],
+    [
+      "A",
+      "#",
+      "H",
+      "#",
+      "G",
+      "N",
+      "U",
+      "#",
+      "#",
+      "R",
+      "#",
+      "D",
+      "#",
+      "C",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "R",
+      "#",
+      "L",
+      "#",
+      "I",
+      "#",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "W",
+      "E",
+      "R",
+      "L",
+      "I",
+      "F",
+      "T",
+      "I",
+      "N",
+      "G",
+      "#",
+      "C"
+    ],
+    [
+      "W",
+      "#",
+      "N",
+      "#",
+      "M",
+      "#",
+      "D",
+      "#",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "#",
+      "Y"
+    ],
+    [
+      "E",
+      "P",
+      "I",
+      "D",
+      "E",
+      "M",
+      "I",
+      "C",
+      "#",
+      "O",
+      "#",
+      "M",
+      "#",
+      "#",
+      "C"
+    ],
+    [
+      "A",
+      "#",
+      "Z",
+      "#",
+      "N",
+      "#",
+      "N",
+      "#",
+      "S",
+      "N",
+      "A",
+      "I",
+      "L",
+      "#",
+      "L"
+    ],
+    [
+      "S",
+      "L",
+      "E",
+      "E",
+      "T",
+      "#",
+      "G",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "D",
+      "#",
+      "#",
+      "#",
+      "#",
+      "M",
+      "O",
+      "L",
+      "A",
+      "S",
+      "S",
+      "E",
+      "S"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 7,
+        "text": "Ground meat rolled into a ball, often with sauce",
+        "answer": "MEATBALL"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 0,
+        "text": "Natural depression in the surface of the land",
+        "answer": "BASIN"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 6,
+        "text": "Ridge of land that separates two adjacent drainage basins",
+        "answer": "DIVIDE"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 0,
+        "text": "Italian for cream, as in __ cotta",
+        "answer": "PANNA"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 8,
+        "text": "Type of cell division that reduces the number of chromosomes by half",
+        "answer": "MEIOSIS"
+      },
+      {
+        "number": 14,
+        "row": 6,
+        "col": 4,
+        "text": "African antelope, also called a wildebeest",
+        "answer": "GNU"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 1,
+        "text": "Strength sport involving squat, bench press, and deadlift",
+        "answer": "POWERLIFTING"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 0,
+        "text": "Widespread occurrence of an infectious disease in a community",
+        "answer": "EPIDEMIC"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 8,
+        "text": "Gastropod mollusk with a coiled shell",
+        "answer": "SNAIL"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 0,
+        "text": "Rain and snow mixed",
+        "answer": "SLEET"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 7,
+        "text": "thick dark syrup byproduct of sugar refining",
+        "answer": "MOLASSES"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 1,
+        "text": "Professional basketball association, for short",
+        "answer": "NBA"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 9,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 13,
+        "text": "Black candy flavored with anise",
+        "answer": "LICORICE"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 4,
+        "text": "Quantum phenomenon where particles are linked",
+        "answer": "ENTANGLEMENT"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 6,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 2,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 10,
+        "row": 2,
+        "col": 11,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 0,
+        "text": "Bell-shaped fruit, often green or yellow",
+        "answer": "PEAR"
+      },
+      {
+        "number": 16,
+        "row": 8,
+        "col": 14,
+        "text": "A person who rides a bicycle",
+        "answer": "CYCLIST"
+      },
+      {
+        "number": 17,
+        "row": 9,
+        "col": 0,
+        "text": "Small carnivorous mammal with a long body",
+        "answer": "WEASEL"
+      }
+    ]
+  }
+}

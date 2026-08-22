@@ -1,0 +1,431 @@
+{
+  "id": "boardgames-medium",
+  "title": "Roll the Dice",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "E",
+      "X",
+      "P",
+      "A",
+      "N",
+      "S",
+      "E",
+      "#",
+      "#",
+      "T",
+      "O",
+      "F",
+      "U"
+    ],
+    [
+      "#",
+      "C",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "I",
+      "#",
+      "P",
+      "I",
+      "E",
+      "#",
+      "N",
+      "#",
+      "#",
+      "A",
+      "#",
+      "O"
+    ],
+    [
+      "W",
+      "R",
+      "E",
+      "N",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "T",
+      "O",
+      "U",
+      "C",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "T",
+      "#",
+      "L",
+      "A",
+      "T",
+      "K",
+      "E",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "R",
+      "I",
+      "B",
+      "E",
+      "Y",
+      "E",
+      "#",
+      "R",
+      "#",
+      "R",
+      "#",
+      "T",
+      "E",
+      "A",
+      "M"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "F",
+      "#",
+      "#",
+      "L",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "L",
+      "U",
+      "M",
+      "I",
+      "N",
+      "E",
+      "S",
+      "C",
+      "E",
+      "N",
+      "C",
+      "E",
+      "#",
+      "M"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "C",
+      "#",
+      "R",
+      "#",
+      "#",
+      "R",
+      "#",
+      "B"
+    ],
+    [
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "#",
+      "A",
+      "#",
+      "R"
+    ],
+    [
+      "M",
+      "I",
+      "N",
+      "T",
+      "#",
+      "L",
+      "#",
+      "P",
+      "A",
+      "N",
+      "C",
+      "E",
+      "T",
+      "T",
+      "A"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "E",
+      "#",
+      "C",
+      "#",
+      "#",
+      "I",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "N",
+      "#",
+      "G",
+      "#",
+      "#",
+      "G",
+      "E",
+      "C",
+      "K",
+      "O",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "W",
+      "I",
+      "N",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "A wide, open area",
+        "answer": "EXPANSE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 11,
+        "text": "Soybean curd, used in vegetarian dishes",
+        "answer": "TOFU"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 5,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 0,
+        "text": "Small, active songbird",
+        "answer": "WREN"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 9,
+        "text": "Tropical bird with a large, colorful bill",
+        "answer": "TOUCAN"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 5,
+        "text": "Fried potato pancake, traditionally eaten during Hanukkah",
+        "answer": "LATKE"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 0,
+        "text": "A cut of beef steak from the rib section",
+        "answer": "RIBEYE"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 11,
+        "text": "A group of players forming one side in a game",
+        "answer": "TEAM"
+      },
+      {
+        "number": 16,
+        "row": 7,
+        "col": 1,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 0,
+        "text": "refreshing herb often in desserts or teas",
+        "answer": "MINT"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 7,
+        "text": "Italian salted pork belly, similar to bacon",
+        "answer": "PANCETTA"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 8,
+        "text": "Small nocturnal lizard with adhesive toe pads",
+        "answer": "GECKO"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 6,
+        "text": "To be victorious",
+        "answer": "WIN"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 7,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 14,
+        "text": "Thick Japanese noodle",
+        "answer": "UDON"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 1,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 9,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 3,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 5,
+        "text": "Study of ancient life forms through their remains",
+        "answer": "PALEONTOLOGY"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 12,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      },
+      {
+        "number": 15,
+        "row": 5,
+        "col": 14,
+        "text": "Supple biological tissue forming a boundary",
+        "answer": "MEMBRANE"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 8,
+        "text": "Spirit flavored with juniper berries",
+        "answer": "GIN"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 10,
+        "text": "A soft flat hat, often worn by players",
+        "answer": "CAP"
+      }
+    ]
+  }
+}
