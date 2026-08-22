@@ -1,9 +1,10 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { useGridStore } from '../state/gridStore';
 import { loadPuzzle, listBundledPuzzles } from '../puzzles/loadPuzzle';
 import { isPuzzleSolved } from '../puzzles/completion';
 import { useRoomSync, changePuzzle } from '../room/useRoomSync';
 import { useNickname } from '../room/useNickname';
+import { awardPuzzleCompletion } from '../room/globalScore';
 import { PuzzleGrid } from './PuzzleGrid';
 import { ClueList } from './ClueList';
 import { ConnectionBanner } from './ConnectionBanner';
@@ -31,6 +32,17 @@ export function Room({ roomCode }: RoomProps) {
   }, [meta, load, puzzles]);
 
   const solved = useMemo(() => (puzzle ? isPuzzleSolved(puzzle, cells) : false), [puzzle, cells]);
+  const awardedFor = useRef<string | null>(null);
+
+  useEffect(() => {
+    if (solved && puzzle && awardedFor.current !== roomCode) {
+      awardedFor.current = roomCode;
+      void awardPuzzleCompletion(roomCode, puzzle, cells, presence);
+    }
+    if (!solved) {
+      awardedFor.current = null;
+    }
+  }, [solved, puzzle, roomCode, cells, presence]);
 
   if (loading) return <p>Loading room…</p>;
   if (!meta) return <p>No room found with code {roomCode}.</p>;

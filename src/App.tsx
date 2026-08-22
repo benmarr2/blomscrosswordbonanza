@@ -1,6 +1,7 @@
 import { useRoute } from './room/useRoute';
 import { RoomEntry } from './components/RoomEntry';
 import { Room } from './components/Room';
+import { HomeScoreboard } from './components/HomeScoreboard';
 
 function App() {
   const { roomCode, navigateToRoom } = useRoute();
@@ -12,10 +13,11 @@ function App() {
       ) : (
         <>
           <header className="app__header">
-            <h1>Crossword Bonanza</h1>
-            <p>Play a crossword together, live, wherever you are.</p>
+            <h1>Blom's Crossword Bonanza</h1>
+            <p>Let's play crosswords cha-ching baby</p>
           </header>
           <RoomEntry onNavigate={navigateToRoom} />
+          <HomeScoreboard />
         </>
       )}
     </div>

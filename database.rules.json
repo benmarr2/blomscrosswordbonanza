@@ -17,6 +17,21 @@
           }
         }
       }
+    },
+    "players": {
+      ".read": "auth != null",
+      "$uid": {
+        ".write": "auth != null",
+        "name": {
+          ".validate": "newData.isString() && newData.val().length <= 20"
+        },
+        "totalScore": {
+          ".validate": "newData.isNumber() && newData.val() >= 0"
+        },
+        "puzzlesSolved": {
+          ".validate": "newData.isNumber() && newData.val() >= 0"
+        }
+      }
     }
   }
 }
