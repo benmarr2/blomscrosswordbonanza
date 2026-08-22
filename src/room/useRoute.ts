@@ -1,15 +1,19 @@
 import { useEffect, useState } from 'react';
 
-function parseRoomCode(hash: string): string | null {
-  const match = hash.match(/^#\/room\/([A-Z0-9]+)$/i);
-  return match ? match[1].toUpperCase() : null;
+export type Route = { type: 'entry' } | { type: 'room'; roomCode: string } | { type: 'admin' };
+
+function parseRoute(hash: string): Route {
+  const roomMatch = hash.match(/^#\/room\/([A-Z0-9]+)$/i);
+  if (roomMatch) return { type: 'room', roomCode: roomMatch[1].toUpperCase() };
+  if (hash === '#/admin') return { type: 'admin' };
+  return { type: 'entry' };
 }
 
-export function useRoute(): { roomCode: string | null; navigateToRoom: (code: string) => void } {
-  const [roomCode, setRoomCode] = useState(() => parseRoomCode(window.location.hash));
+export function useRoute(): { route: Route; navigateToRoom: (code: string) => void } {
+  const [route, setRoute] = useState<Route>(() => parseRoute(window.location.hash));
 
   useEffect(() => {
-    const onHashChange = () => setRoomCode(parseRoomCode(window.location.hash));
+    const onHashChange = () => setRoute(parseRoute(window.location.hash));
     window.addEventListener('hashchange', onHashChange);
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
@@ -18,5 +22,5 @@ export function useRoute(): { roomCode: string | null; navigateToRoom: (code: st
     window.location.hash = `#/room/${code}`;
   }
 
-  return { roomCode, navigateToRoom };
+  return { route, navigateToRoom };
 }
