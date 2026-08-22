@@ -1,0 +1,27 @@
+{
+  "id": "stars",
+  "title": "Stars & Sand",
+  "difficulty": "hard",
+  "width": 5,
+  "height": 5,
+  "grid": [
+    ["S", "T", "A", "R", "S"],
+    ["E", "#", "R", "#", "U"],
+    ["A", "D", "M", "I", "N"],
+    ["#", "E", "#", "C", "#"],
+    ["#", "N", "#", "E", "#"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "row": 0, "col": 0, "text": "Night-sky points of light", "answer": "STARS" },
+      { "number": 4, "row": 2, "col": 0, "text": "IT support, informally", "answer": "ADMIN" }
+    ],
+    "down": [
+      { "number": 1, "row": 0, "col": 0, "text": "Body of salt water", "answer": "SEA" },
+      { "number": 2, "row": 0, "col": 2, "text": "Limb with a hand", "answer": "ARM" },
+      { "number": 3, "row": 0, "col": 4, "text": "It rises in the east", "answer": "SUN" },
+      { "number": 5, "row": 2, "col": 1, "text": "Animal's lair", "answer": "DEN" },
+      { "number": 6, "row": 2, "col": 3, "text": "Frozen water", "answer": "ICE" }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "barnyard",
+  "title": "Barnyard & Birds",
+  "difficulty": "medium",
+  "width": 4,
+  "height": 5,
+  "grid": [
+    ["C", "A", "T", "#"],
+    ["O", "#", "I", "#"],
+    ["W", "R", "E", "N"],
+    ["#", "#", "#", "E"],
+    ["#", "#", "#", "T"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 1, "row": 0, "col": 0, "text": "Feline pet", "answer": "CAT" },
+      { "number": 3, "row": 2, "col": 0, "text": "Small songbird", "answer": "WREN" }
+    ],
+    "down": [
+      { "number": 1, "row": 0, "col": 0, "text": "Farm animal that moos", "answer": "COW" },
+      { "number": 2, "row": 0, "col": 2, "text": "Necktie, or a draw in a game", "answer": "TIE" },
+      { "number": 4, "row": 2, "col": 3, "text": "What a goal is scored into", "answer": "NET" }
+    ]
+  }
+}

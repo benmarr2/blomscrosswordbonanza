@@ -1,6 +1,7 @@
 {
   "id": "sample",
   "title": "Warm-up",
+  "difficulty": "easy",
   "width": 3,
   "height": 4,
   "grid": [

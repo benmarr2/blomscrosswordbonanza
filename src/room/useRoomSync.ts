@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { onDisconnect, onValue, ref, remove, serverTimestamp, set } from 'firebase/database';
+import { onDisconnect, onValue, ref, remove, serverTimestamp, set, update } from 'firebase/database';
 import { db, ensureSignedIn } from '../firebase';
 import { useGridStore } from '../state/gridStore';
 
@@ -31,6 +31,14 @@ export async function createRoom(roomCode: string, puzzleId: string): Promise<vo
   await set(ref(db, `rooms/${roomCode}/meta`), {
     puzzleId,
     createdAt: serverTimestamp(),
+  });
+}
+
+export async function changePuzzle(roomCode: string, puzzleId: string): Promise<void> {
+  await ensureSignedIn();
+  await update(ref(db, `rooms/${roomCode}`), {
+    meta: { puzzleId, createdAt: serverTimestamp() },
+    cells: null,
   });
 }
 

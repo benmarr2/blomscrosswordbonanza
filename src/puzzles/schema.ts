@@ -6,9 +6,12 @@ export interface Clue {
   answer: string;
 }
 
+export type Difficulty = 'easy' | 'medium' | 'hard';
+
 export interface Puzzle {
   id: string;
   title: string;
+  difficulty: Difficulty;
   author?: string;
   width: number;
   height: number;

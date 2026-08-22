@@ -3,6 +3,7 @@ import { generateRoomCode, isValidRoomCode, normalizeRoomCode } from '../room/ro
 import { createRoom, roomExists } from '../room/useRoomSync';
 import { listBundledPuzzles } from '../puzzles/loadPuzzle';
 import { useNickname } from '../room/useNickname';
+import { PuzzlePicker } from './PuzzlePicker';
 
 interface RoomEntryProps {
   onNavigate: (code: string) => void;
@@ -14,6 +15,7 @@ export function RoomEntry({ onNavigate }: RoomEntryProps) {
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const puzzles = listBundledPuzzles();
+  const [puzzleId, setPuzzleId] = useState(puzzles[0].id);
 
   function requireName(): boolean {
     if (!nickname.trim()) {
@@ -29,7 +31,7 @@ export function RoomEntry({ onNavigate }: RoomEntryProps) {
     setBusy(true);
     try {
       const code = generateRoomCode();
-      await createRoom(code, puzzles[0].id);
+      await createRoom(code, puzzleId);
       onNavigate(code);
     } catch {
       setError('Could not create a room. Check your connection and try again.');
@@ -70,6 +72,9 @@ export function RoomEntry({ onNavigate }: RoomEntryProps) {
         maxLength={20}
         onChange={(e) => setNickname(e.target.value)}
       />
+
+      <p className="room-entry__label">Choose a puzzle to create a room with:</p>
+      <PuzzlePicker puzzles={puzzles} selectedId={puzzleId} onSelect={setPuzzleId} />
 
       <button disabled={busy} onClick={handleCreate}>
         Create a room
