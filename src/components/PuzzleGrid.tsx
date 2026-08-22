@@ -44,8 +44,21 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
   function handleCellClick(row: number, col: number) {
     if (row === activeRow && col === activeCol) {
       toggleDirection();
-    } else {
-      setActive(row, col);
+      return;
+    }
+    setActive(row, col);
+    if (!puzzle) return;
+    // Clicking a new cell defaults to across (standard crossword-app
+    // convention), falling back to down only if the cell has no across
+    // word at all. Without this, the direction just carries over from
+    // wherever it last was - so once it landed on "down" (e.g. the
+    // puzzle's first numbered cell being down-only), every later click
+    // stayed stuck in "down" even for cells with a perfectly good across
+    // word, which is the "typing across moves down" bug.
+    if (getWordCells(puzzle, row, col, 'across').length > 1) {
+      setDirection('across');
+    } else if (getWordCells(puzzle, row, col, 'down').length > 1) {
+      setDirection('down');
     }
   }
 
