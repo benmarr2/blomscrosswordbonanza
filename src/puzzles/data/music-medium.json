@@ -1,0 +1,445 @@
+{
+  "id": "music-medium",
+  "title": "Sound Check",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "#",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "M",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "A",
+      "N",
+      "T",
+      "I",
+      "P",
+      "A",
+      "S",
+      "T",
+      "O"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "T",
+      "E",
+      "#",
+      "S",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "H",
+      "#",
+      "U"
+    ],
+    [
+      "G",
+      "#",
+      "C",
+      "#",
+      "R",
+      "A",
+      "T",
+      "#",
+      "H",
+      "#",
+      "C",
+      "#",
+      "U",
+      "#",
+      "B"
+    ],
+    [
+      "M",
+      "A",
+      "T",
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "F",
+      "#",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "R",
+      "O",
+      "D",
+      "E",
+      "O",
+      "#",
+      "P",
+      "A",
+      "R",
+      "#",
+      "F",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "O",
+      "#",
+      "Y",
+      "#",
+      "P",
+      "#",
+      "P",
+      "#",
+      "D",
+      "#",
+      "L",
+      "#",
+      "S"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "#",
+      "A",
+      "#",
+      "Y",
+      "#",
+      "P",
+      "#",
+      "O",
+      "#",
+      "B",
+      "#",
+      "#"
+    ],
+    [
+      "S",
+      "T",
+      "O",
+      "R",
+      "M",
+      "#",
+      "S",
+      "H",
+      "O",
+      "A",
+      "L",
+      "#",
+      "O",
+      "#",
+      "M"
+    ],
+    [
+      "L",
+      "#",
+      "P",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "T",
+      "#",
+      "O",
+      "K",
+      "A",
+      "P",
+      "I"
+    ],
+    [
+      "O",
+      "#",
+      "E",
+      "#",
+      "C",
+      "O",
+      "C",
+      "O",
+      "A",
+      "#",
+      "G",
+      "#",
+      "R",
+      "#",
+      "N"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "#",
+      "S",
+      "#",
+      "S",
+      "#",
+      "M",
+      "#",
+      "I",
+      "#",
+      "D",
+      "#",
+      "C"
+    ],
+    [
+      "H",
+      "A",
+      "R",
+      "E",
+      "#",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "S",
+      "#",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "R",
+      "A",
+      "S",
+      "I",
+      "T",
+      "I",
+      "S",
+      "M",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 6,
+        "row": 1,
+        "col": 6,
+        "text": "Italian appetizer plate",
+        "answer": "ANTIPASTO"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 0,
+        "text": "Sharp mountain ridge",
+        "answer": "ARETE"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 4,
+        "text": "Rodent larger than a mouse",
+        "answer": "RAT"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 0,
+        "text": "A padded surface used for gymnastics or wrestling",
+        "answer": "MAT"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 2,
+        "text": "A contest of cowboy skills, featuring bronc riding and calf roping",
+        "answer": "RODEO"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 8,
+        "text": "The standard number of strokes for a hole or course in golf",
+        "answer": "PAR"
+      },
+      {
+        "number": 15,
+        "row": 7,
+        "col": 2,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 0,
+        "text": "Violent weather event",
+        "answer": "STORM"
+      },
+      {
+        "number": 17,
+        "row": 9,
+        "col": 6,
+        "text": "Area of shallow water, especially one caused by a sandbank",
+        "answer": "SHOAL"
+      },
+      {
+        "number": 19,
+        "row": 10,
+        "col": 10,
+        "text": "Giraffe relative with zebra-like markings on its legs",
+        "answer": "OKAPI"
+      },
+      {
+        "number": 20,
+        "row": 11,
+        "col": 4,
+        "text": "powder from the cacao bean used to make chocolate",
+        "answer": "COCOA"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 0,
+        "text": "A fast-running mammal similar to a rabbit",
+        "answer": "HARE"
+      },
+      {
+        "number": 22,
+        "row": 14,
+        "col": 4,
+        "text": "One benefits at the other's expense",
+        "answer": "PARASITISM"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 2,
+        "text": "Instrument to analyze the spectrum of light",
+        "answer": "SPECTROSCOPE"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 9,
+        "text": "Baked dish with a pastry crust",
+        "answer": "PIE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 14,
+        "text": "A match between two teams of two players",
+        "answer": "DOUBLES"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Molten rock beneath the Earth's surface",
+        "answer": "MAGMA"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 0,
+        "text": "Molten rock beneath the Earth's surface",
+        "answer": "MAGMA"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 4,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 6,
+        "text": "Branch of astronomy dealing with physics",
+        "answer": "ASTROPHYSICS"
+      },
+      {
+        "number": 7,
+        "row": 1,
+        "col": 12,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 8,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 10,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 0,
+        "text": "Slow-moving tree-dwelling mammal",
+        "answer": "SLOTH"
+      },
+      {
+        "number": 18,
+        "row": 9,
+        "col": 14,
+        "text": "To chop food into very small pieces",
+        "answer": "MINCE"
+      }
+    ]
+  }
+}

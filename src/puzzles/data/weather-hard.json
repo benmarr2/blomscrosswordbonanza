@@ -1,0 +1,424 @@
+{
+  "id": "weather-hard",
+  "title": "Storm Front",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "E",
+      "E",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "B",
+      "I",
+      "O",
+      "L",
+      "U",
+      "M",
+      "I",
+      "N",
+      "E",
+      "S",
+      "C",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "X",
+      "#",
+      "#",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "D",
+      "O",
+      "J",
+      "O",
+      "#",
+      "S",
+      "#",
+      "P",
+      "#",
+      "Q",
+      "#",
+      "A",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "C",
+      "#",
+      "H",
+      "#",
+      "H",
+      "#",
+      "U",
+      "#",
+      "C",
+      "A",
+      "S",
+      "E"
+    ],
+    [
+      "M",
+      "#",
+      "#",
+      "H",
+      "#",
+      "U",
+      "#",
+      "A",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "I",
+      "N",
+      "T",
+      "E",
+      "R",
+      "F",
+      "E",
+      "R",
+      "E",
+      "N",
+      "C",
+      "E",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "M",
+      "#",
+      "F",
+      "#",
+      "M",
+      "#",
+      "T",
+      "#",
+      "L",
+      "A",
+      "V",
+      "A"
+    ],
+    [
+      "L",
+      "#",
+      "S",
+      "I",
+      "L",
+      "L",
+      "#",
+      "A",
+      "M",
+      "I",
+      "D",
+      "E",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "S",
+      "#",
+      "E",
+      "#",
+      "C",
+      "#",
+      "Z",
+      "#",
+      "R",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "G",
+      "A",
+      "I",
+      "T",
+      "#",
+      "B",
+      "#",
+      "O",
+      "C",
+      "A",
+      "#",
+      "A",
+      "R",
+      "I",
+      "D"
+    ],
+    [
+      "Y",
+      "#",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "L",
+      "#",
+      "T",
+      "#",
+      "T",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "J",
+      "A",
+      "Y",
+      "#",
+      "A",
+      "#",
+      "O",
+      "#",
+      "I",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "G",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "H",
+      "A",
+      "Z",
+      "A",
+      "R",
+      "D",
+      "#",
+      "Y",
+      "#",
+      "N",
+      "I",
+      "N",
+      "E",
+      "T",
+      "Y"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "snake-like fish, often grilled",
+        "answer": "EEL"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 3,
+        "text": "Production and emission of light by a living organism",
+        "answer": "BIOLUMINESCE"
+      },
+      {
+        "number": 5,
+        "row": 3,
+        "col": 0,
+        "text": "A training hall for martial arts",
+        "answer": "DOJO"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 11,
+        "text": "A container for sports gear, or a legal matter",
+        "answer": "CASE"
+      },
+      {
+        "number": 11,
+        "row": 6,
+        "col": 0,
+        "text": "Combination of waves resulting in a new wave pattern",
+        "answer": "INTERFERENCE"
+      },
+      {
+        "number": 12,
+        "row": 7,
+        "col": 11,
+        "text": "Molten rock that flows from a volcano or fissure onto the Earth's surface",
+        "answer": "LAVA"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 2,
+        "text": "A flat piece of rock thrust between other rocks",
+        "answer": "SILL"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 7,
+        "text": "An organic compound containing a carbonyl group bonded to a nitrogen atom",
+        "answer": "AMIDE"
+      },
+      {
+        "number": 15,
+        "row": 10,
+        "col": 0,
+        "text": "The way a horse moves",
+        "answer": "GAIT"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 7,
+        "text": "A South American tuber, related to the potato",
+        "answer": "OCA"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 11,
+        "text": "Extremely dry, without rain",
+        "answer": "ARID"
+      },
+      {
+        "number": 18,
+        "row": 12,
+        "col": 1,
+        "text": "Noisy, colorful bird of the crow family",
+        "answer": "JAY"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 0,
+        "text": "Danger, or an obstacle on a golf course",
+        "answer": "HAZARD"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 9,
+        "text": "In darts, a score of three darts totaling this number",
+        "answer": "NINETY"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "The study of the causes and distribution of disease",
+        "answer": "EPIDEMIOLOGY"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 8,
+        "text": "Bicycle Motocross racing on a small, rugged bike",
+        "answer": "BMX"
+      },
+      {
+        "number": 3,
+        "row": 1,
+        "col": 3,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 13,
+        "text": "Protection of animals, plants, and natural resources",
+        "answer": "CONSERVATION"
+      },
+      {
+        "number": 6,
+        "row": 3,
+        "col": 5,
+        "text": "Game played by pushing discs down a long court",
+        "answer": "SHUFFLEBOARD"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 7,
+        "text": "Study of drugs and their effects",
+        "answer": "PHARMACOLOGY"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 9,
+        "text": "The process of restricting a set of values to a smaller set of discrete values",
+        "answer": "QUANTIZATION"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 11,
+        "text": "Rate of change of velocity",
+        "answer": "ACCELERATION"
+      }
+    ]
+  }
+}

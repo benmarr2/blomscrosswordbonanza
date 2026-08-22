@@ -1,0 +1,445 @@
+{
+  "id": "ocean-medium",
+  "title": "Deep Blue",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "Q",
+      "U",
+      "A",
+      "R",
+      "T",
+      "E",
+      "R",
+      "B",
+      "A",
+      "C",
+      "K",
+      "#",
+      "C",
+      "A",
+      "P"
+    ],
+    [
+      "U",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "L",
+      "#",
+      "#",
+      "B",
+      "O",
+      "A",
+      "#",
+      "#",
+      "H",
+      "U",
+      "M",
+      "I",
+      "D"
+    ],
+    [
+      "R",
+      "#",
+      "I",
+      "#",
+      "A",
+      "#",
+      "C",
+      "#",
+      "H",
+      "#",
+      "#",
+      "M",
+      "#",
+      "#",
+      "R"
+    ],
+    [
+      "T",
+      "#",
+      "T",
+      "I",
+      "E",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "A"
+    ],
+    [
+      "E",
+      "#",
+      "E",
+      "#",
+      "R",
+      "N",
+      "A",
+      "#",
+      "P",
+      "O",
+      "I",
+      "N",
+      "T",
+      "#",
+      "G"
+    ],
+    [
+      "R",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "N",
+      "#",
+      "P",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "O"
+    ],
+    [
+      "#",
+      "C",
+      "A",
+      "R",
+      "D",
+      "I",
+      "O",
+      "L",
+      "O",
+      "G",
+      "I",
+      "S",
+      "T",
+      "#",
+      "N"
+    ],
+    [
+      "#",
+      "#",
+      "T",
+      "#",
+      "Y",
+      "#",
+      "G",
+      "#",
+      "P",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "F"
+    ],
+    [
+      "G",
+      "#",
+      "I",
+      "O",
+      "N",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "#",
+      "L"
+    ],
+    [
+      "A",
+      "#",
+      "O",
+      "#",
+      "A",
+      "#",
+      "A",
+      "S",
+      "T",
+      "R",
+      "O",
+      "N",
+      "O",
+      "M",
+      "Y"
+    ],
+    [
+      "R",
+      "#",
+      "N",
+      "#",
+      "M",
+      "A",
+      "P",
+      "#",
+      "A",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "H",
+      "A",
+      "M",
+      "S",
+      "T",
+      "E",
+      "R",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "Y",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "C",
+      "O",
+      "U",
+      "R",
+      "S",
+      "E",
+      "#",
+      "I",
+      "S",
+      "O",
+      "T",
+      "O",
+      "N",
+      "I",
+      "C"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "The primary offensive player in American football",
+        "answer": "QUARTERBACK"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 12,
+        "text": "A soft flat hat, often worn by players",
+        "answer": "CAP"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 5,
+        "text": "Constricting snake, non-venomous",
+        "answer": "BOA"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 10,
+        "text": "Marked by a high level of water vapor in the air",
+        "answer": "HUMID"
+      },
+      {
+        "number": 12,
+        "row": 4,
+        "col": 2,
+        "text": "A game that ends with equal scores",
+        "answer": "TIE"
+      },
+      {
+        "number": 13,
+        "row": 5,
+        "col": 4,
+        "text": "Single-stranded nucleic acid",
+        "answer": "RNA"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 8,
+        "text": "A unit of scoring in many games",
+        "answer": "POINT"
+      },
+      {
+        "number": 14,
+        "row": 5,
+        "col": 8,
+        "text": "A specific location or position",
+        "answer": "POINT"
+      },
+      {
+        "number": 15,
+        "row": 7,
+        "col": 1,
+        "text": "Doctor specializing in the heart",
+        "answer": "CARDIOLOGIST"
+      },
+      {
+        "number": 17,
+        "row": 9,
+        "col": 2,
+        "text": "Atom or molecule with an electric charge",
+        "answer": "ION"
+      },
+      {
+        "number": 18,
+        "row": 10,
+        "col": 6,
+        "text": "Study of celestial objects and phenomena",
+        "answer": "ASTRONOMY"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 4,
+        "text": "Diagrammatic representation of an area of land or sea",
+        "answer": "MAP"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 6,
+        "text": "Small rodent often kept as a pet",
+        "answer": "HAMSTER"
+      },
+      {
+        "number": 21,
+        "row": 14,
+        "col": 0,
+        "text": "The area where a golf or horse race takes place",
+        "answer": "COURSE"
+      },
+      {
+        "number": 22,
+        "row": 14,
+        "col": 7,
+        "text": "Having the same osmotic pressure",
+        "answer": "ISOTONIC"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "One of four periods in a game",
+        "answer": "QUARTER"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 2,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 13,
+        "text": "Place of origin",
+        "answer": "ATI"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 11,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 14,
+        "text": "Insect with large wings and eyes, often found near water",
+        "answer": "DRAGONFLY"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 4,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      },
+      {
+        "number": 11,
+        "row": 3,
+        "col": 8,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 0,
+        "text": "Pungent bulb used as a flavoring",
+        "answer": "GARLIC"
+      }
+    ]
+  }
+}

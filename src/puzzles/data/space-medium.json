@@ -1,0 +1,424 @@
+{
+  "id": "space-medium",
+  "title": "Deep Space",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "I",
+      "S",
+      "O",
+      "B",
+      "A",
+      "T",
+      "H",
+      "#",
+      "I",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "N",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "#",
+      "A",
+      "N",
+      "T",
+      "#",
+      "I",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "F",
+      "O",
+      "L",
+      "D",
+      "#",
+      "#",
+      "N",
+      "#",
+      "T",
+      "#",
+      "C",
+      "O",
+      "U",
+      "R",
+      "T"
+    ],
+    [
+      "I",
+      "#",
+      "#",
+      "Y",
+      "#",
+      "G",
+      "E",
+      "N",
+      "E",
+      "S",
+      "#",
+      "C",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "E",
+      "#",
+      "N",
+      "B",
+      "A",
+      "#",
+      "U",
+      "#",
+      "R",
+      "#",
+      "#",
+      "H",
+      "#",
+      "F",
+      "#"
+    ],
+    [
+      "L",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "#",
+      "E",
+      "#",
+      "E",
+      "#"
+    ],
+    [
+      "D",
+      "#",
+      "H",
+      "I",
+      "P",
+      "P",
+      "O",
+      "P",
+      "O",
+      "T",
+      "A",
+      "M",
+      "U",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "S",
+      "#",
+      "L",
+      "#",
+      "#",
+      "S",
+      "#",
+      "N",
+      "#",
+      "#",
+      "I",
+      "#",
+      "S",
+      "#"
+    ],
+    [
+      "#",
+      "P",
+      "#",
+      "D",
+      "#",
+      "#",
+      "U",
+      "#",
+      "T",
+      "#",
+      "#",
+      "S",
+      "K",
+      "I",
+      "S"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "B",
+      "R",
+      "E",
+      "A",
+      "D",
+      "#",
+      "T",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "F",
+      "E",
+      "I",
+      "N",
+      "T",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "#",
+      "R",
+      "I",
+      "N",
+      "K"
+    ],
+    [
+      "#",
+      "D",
+      "#",
+      "G",
+      "#",
+      "#",
+      "E",
+      "N",
+      "E",
+      "R",
+      "G",
+      "Y",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "#",
+      "W",
+      "#",
+      "#",
+      "B",
+      "#",
+      "R",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "L",
+      "#"
+    ],
+    [
+      "#",
+      "A",
+      "E",
+      "R",
+      "O",
+      "D",
+      "Y",
+      "N",
+      "A",
+      "M",
+      "I",
+      "C",
+      "S",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "Y",
+      "#",
+      "#",
+      "W",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Line connecting points of equal depth",
+        "answer": "ISOBATH"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 7,
+        "text": "Social insect that lives in colonies",
+        "answer": "ANT"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 0,
+        "text": "A bend in rock strata resulting from stress",
+        "answer": "FOLD"
+      },
+      {
+        "number": 9,
+        "row": 2,
+        "col": 10,
+        "text": "A rectangular area marked out for games like tennis or basketball",
+        "answer": "COURT"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 5,
+        "text": "Units of heredity passed from parent to offspring",
+        "answer": "GENES"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 2,
+        "text": "Professional basketball association, for short",
+        "answer": "NBA"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 2,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 11,
+        "text": "Used for gliding over snow",
+        "answer": "SKIS"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 5,
+        "text": "Staple food made from flour and water",
+        "answer": "BREAD"
+      },
+      {
+        "number": 16,
+        "row": 10,
+        "col": 0,
+        "text": "A deceptive movement in boxing or fencing",
+        "answer": "FEINT"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 11,
+        "text": "An area of ice for skating or hockey",
+        "answer": "RINK"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 6,
+        "text": "Power derived from physical or chemical resources",
+        "answer": "ENERGY"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 1,
+        "text": "Study of the motion of air and its effects on bodies",
+        "answer": "AERODYNAMICS"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "The area of a baseball diamond enclosed by the bases",
+        "answer": "INFIELD"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Sport focused on muscular development",
+        "answer": "BODYBUILDING"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 8,
+        "text": "Between mountains",
+        "answer": "INTERMONTANE"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 11,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 13,
+        "text": "Someone who is paid to play a sport",
+        "answer": "PROFESSIONAL"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 6,
+        "text": "Surgical treatment of the nervous system",
+        "answer": "NEUROSURGERY"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 1,
+        "text": "Motorcycle racing on a oval track",
+        "answer": "SPEEDWAY"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 10,
+        "text": "The way a horse moves",
+        "answer": "GAIT"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 4,
+        "text": "Weapon used in archery",
+        "answer": "BOW"
+      }
+    ]
+  }
+}

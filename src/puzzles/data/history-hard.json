@@ -1,0 +1,417 @@
+{
+  "id": "history-hard",
+  "title": "Times Past",
+  "difficulty": "hard",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "C",
+      "U",
+      "M",
+      "U",
+      "L",
+      "O",
+      "N",
+      "I",
+      "M",
+      "B",
+      "U",
+      "S",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#",
+      "#",
+      "B",
+      "I",
+      "B"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "E",
+      "#",
+      "I",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "#",
+      "P",
+      "#",
+      "A",
+      "#",
+      "S",
+      "P",
+      "E",
+      "E",
+      "D",
+      "#",
+      "R",
+      "#"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "H",
+      "#",
+      "N",
+      "#",
+      "#",
+      "U",
+      "#",
+      "O",
+      "#",
+      "Y",
+      "A",
+      "K"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "O",
+      "#",
+      "O",
+      "#",
+      "#",
+      "M",
+      "#",
+      "T",
+      "#",
+      "#",
+      "T",
+      "#"
+    ],
+    [
+      "C",
+      "A",
+      "R",
+      "T",
+      "O",
+      "G",
+      "R",
+      "A",
+      "P",
+      "H",
+      "E",
+      "R",
+      "#",
+      "I",
+      "#"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "#",
+      "E",
+      "#",
+      "C",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "V",
+      "#",
+      "A",
+      "C",
+      "C",
+      "R",
+      "E",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "O",
+      "#",
+      "P",
+      "#",
+      "#",
+      "N",
+      "#",
+      "O",
+      "#",
+      "X",
+      "#",
+      "A"
+    ],
+    [
+      "M",
+      "#",
+      "#",
+      "L",
+      "#",
+      "H",
+      "#",
+      "#",
+      "I",
+      "#",
+      "N",
+      "#",
+      "B",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "#",
+      "T",
+      "#",
+      "Y",
+      "#",
+      "#",
+      "C",
+      "H",
+      "I",
+      "N",
+      "O",
+      "O",
+      "K"
+    ],
+    [
+      "T",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "R",
+      "#",
+      "K",
+      "#",
+      "C",
+      "#",
+      "W",
+      "#",
+      "I"
+    ],
+    [
+      "E",
+      "#",
+      "B",
+      "I",
+      "O",
+      "D",
+      "I",
+      "V",
+      "E",
+      "R",
+      "S",
+      "E",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "R",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#",
+      "A",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "P",
+      "H",
+      "O"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Thunderstorm cloud",
+        "answer": "CUMULONIMBUS"
+      },
+      {
+        "number": 5,
+        "row": 1,
+        "col": 12,
+        "text": "A garment worn over the chest, often with a number",
+        "answer": "BIB"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 7,
+        "text": "The rate at which someone or something moves",
+        "answer": "SPEED"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 12,
+        "text": "Long-haired bovine found in the Himalayas",
+        "answer": "YAK"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 0,
+        "text": "One who charts the world, often with a compass and ruler",
+        "answer": "CARTOGRAPHER"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 5,
+        "text": "The gradual accumulation of matter",
+        "answer": "ACCRETION"
+      },
+      {
+        "number": 13,
+        "row": 8,
+        "col": 5,
+        "text": "Growth in size by gradual addition",
+        "answer": "ACCRETION"
+      },
+      {
+        "number": 16,
+        "row": 11,
+        "col": 8,
+        "text": "Warm westerly wind in the Rockies",
+        "answer": "CHINOOK"
+      },
+      {
+        "number": 18,
+        "row": 13,
+        "col": 2,
+        "text": "Having a high level of biological variety",
+        "answer": "BIODIVERSE"
+      },
+      {
+        "number": 19,
+        "row": 14,
+        "col": 12,
+        "text": "Vietnamese noodle soup",
+        "answer": "PHO"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 5,
+        "text": "The study of the ocean, its physical and biological aspects",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 5,
+        "text": "Study of oceans",
+        "answer": "OCEANOGRAPHY"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 7,
+        "text": "Wading bird with a long, downcurved bill",
+        "answer": "IBIS"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 13,
+        "text": "Method to determine concentration of a known reactant",
+        "answer": "TITRATION"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 10,
+        "text": "The study of relatively recent tectonic movements",
+        "answer": "NEOTECTONICS"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 0,
+        "text": "Instrument measuring spectral distribution",
+        "answer": "SPECTROMETER"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 3,
+        "text": "Technology that converts light into electricity",
+        "answer": "PHOTOVOLTAIC"
+      },
+      {
+        "number": 10,
+        "row": 3,
+        "col": 8,
+        "text": "A dark, dense rye bread",
+        "answer": "PUMPERNICKEL"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 12,
+        "text": "A U-shaped lake or bend in a river, created when a meander is cut off",
+        "answer": "OXBOW"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 14,
+        "text": "Japanese martial art focusing on blending with an opponent's movement",
+        "answer": "AIKIDO"
+      },
+      {
+        "number": 17,
+        "row": 12,
+        "col": 6,
+        "text": "A long, narrow inlet of the sea, formed by the partial submergence of a river valley",
+        "answer": "RIA"
+      }
+    ]
+  }
+}
