@@ -2,19 +2,30 @@ import { useState } from 'react';
 import { generateRoomCode, isValidRoomCode, normalizeRoomCode } from '../room/roomCode';
 import { createRoom, roomExists } from '../room/useRoomSync';
 import { listBundledPuzzles } from '../puzzles/loadPuzzle';
+import { useNickname } from '../room/useNickname';
 
 interface RoomEntryProps {
   onNavigate: (code: string) => void;
 }
 
 export function RoomEntry({ onNavigate }: RoomEntryProps) {
+  const [nickname, setNickname] = useNickname();
   const [joinInput, setJoinInput] = useState('');
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
   const puzzles = listBundledPuzzles();
 
+  function requireName(): boolean {
+    if (!nickname.trim()) {
+      setError('Enter your name first so friends know it’s you.');
+      return false;
+    }
+    return true;
+  }
+
   async function handleCreate() {
     setError(null);
+    if (!requireName()) return;
     setBusy(true);
     try {
       const code = generateRoomCode();
@@ -29,6 +40,7 @@ export function RoomEntry({ onNavigate }: RoomEntryProps) {
 
   async function handleJoin() {
     setError(null);
+    if (!requireName()) return;
     const code = normalizeRoomCode(joinInput);
     if (!isValidRoomCode(code)) {
       setError('That room code doesn’t look right.');
@@ -51,6 +63,14 @@ export function RoomEntry({ onNavigate }: RoomEntryProps) {
 
   return (
     <div className="room-entry">
+      <input
+        className="room-entry__name"
+        placeholder="Your name"
+        value={nickname}
+        maxLength={20}
+        onChange={(e) => setNickname(e.target.value)}
+      />
+
       <button disabled={busy} onClick={handleCreate}>
         Create a room
       </button>

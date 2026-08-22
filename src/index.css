@@ -98,6 +98,21 @@ body {
   left: 3px;
   font-size: 10px;
   font-weight: 400;
+  pointer-events: none;
+}
+
+.cell__input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  text-align: center;
+  text-transform: uppercase;
+  font: inherit;
+  color: inherit;
+  padding: 0;
+  caret-color: transparent;
 }
 
 .clue-list {
@@ -223,4 +238,49 @@ body {
 
 .connection-banner--bad .connection-banner__dot {
   background: #d64545;
+}
+
+.room-entry__name {
+  font-size: 16px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--cell-bg);
+  color: var(--text);
+  width: 100%;
+}
+
+.scoreboard {
+  min-width: 160px;
+}
+
+.scoreboard h3 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.scoreboard__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.scoreboard__list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  background: var(--cell-bg);
+  border: 1px solid var(--border);
+}
+
+.scoreboard__score {
+  font-weight: 600;
 }

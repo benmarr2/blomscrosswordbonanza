@@ -2,9 +2,11 @@ import { useEffect } from 'react';
 import { useGridStore } from '../state/gridStore';
 import { loadPuzzle } from '../puzzles/loadPuzzle';
 import { useRoomSync } from '../room/useRoomSync';
+import { useNickname } from '../room/useNickname';
 import { PuzzleGrid } from './PuzzleGrid';
 import { ClueList } from './ClueList';
 import { ConnectionBanner } from './ConnectionBanner';
+import { Scoreboard } from './Scoreboard';
 
 interface RoomProps {
   roomCode: string;
@@ -13,7 +15,8 @@ interface RoomProps {
 export function Room({ roomCode }: RoomProps) {
   const load = useGridStore((s) => s.loadPuzzle);
   const puzzle = useGridStore((s) => s.puzzle);
-  const { connected, meta, loading, writeCell } = useRoomSync(roomCode);
+  const [nickname] = useNickname();
+  const { connected, meta, loading, cells, presence, writeCell } = useRoomSync(roomCode, nickname);
 
   useEffect(() => {
     if (!meta) return;
@@ -34,6 +37,7 @@ export function Room({ roomCode }: RoomProps) {
       <div className="app__main">
         <PuzzleGrid onLetterChange={writeCell} />
         <ClueList />
+        {puzzle && <Scoreboard puzzle={puzzle} cells={cells} presence={presence} />}
       </div>
     </div>
   );

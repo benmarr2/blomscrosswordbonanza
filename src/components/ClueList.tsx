@@ -19,7 +19,6 @@ export function ClueList() {
   function selectClue(clue: Clue, direction: Direction) {
     setActive(clue.row, clue.col);
     setDirection(direction);
-    document.getElementById('puzzle-grid')?.focus();
   }
 
   function renderList(clues: Clue[], direction: Direction) {

@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { onValue, ref, serverTimestamp, set } from 'firebase/database';
+import { onDisconnect, onValue, ref, remove, serverTimestamp, set } from 'firebase/database';
 import { db, ensureSignedIn } from '../firebase';
 import { useGridStore } from '../state/gridStore';
 
@@ -8,10 +8,21 @@ interface RoomMeta {
   createdAt: number;
 }
 
+export interface CellMeta {
+  value: string;
+  lastEditedBy?: string;
+}
+
+export interface Presence {
+  name: string;
+}
+
 interface RoomSyncState {
   connected: boolean;
   meta: RoomMeta | null;
   loading: boolean;
+  cells: Record<string, CellMeta>;
+  presence: Record<string, Presence>;
   writeCell: (row: number, col: number, value: string) => void;
 }
 
@@ -35,20 +46,25 @@ export async function roomExists(roomCode: string): Promise<boolean> {
   });
 }
 
-export function useRoomSync(roomCode: string | null): RoomSyncState {
+export function useRoomSync(roomCode: string | null, displayName: string): RoomSyncState {
   const [connected, setConnected] = useState(false);
   const [meta, setMeta] = useState<RoomMeta | null>(null);
   const [loading, setLoading] = useState(true);
+  const [cells, setCells] = useState<Record<string, CellMeta>>({});
+  const [presence, setPresence] = useState<Record<string, Presence>>({});
   const setLetterFromRemote = useGridStore((s) => s.setLetterFromRemote);
-  const signedIn = useRef(false);
+  const uidRef = useRef<string | null>(null);
 
   useEffect(() => {
     if (!roomCode) return;
     let cancelled = false;
 
-    ensureSignedIn().then(() => {
+    ensureSignedIn().then((user) => {
       if (cancelled) return;
-      signedIn.current = true;
+      uidRef.current = user.uid;
+      const presenceRef = ref(db, `rooms/${roomCode}/presence/${user.uid}`);
+      set(presenceRef, { name: displayName || 'Player' });
+      onDisconnect(presenceRef).remove();
     });
 
     const connectedRef = ref(db, '.info/connected');
@@ -64,12 +80,17 @@ export function useRoomSync(roomCode: string | null): RoomSyncState {
 
     const cellsRef = ref(db, `rooms/${roomCode}/cells`);
     const unsubCells = onValue(cellsRef, (snapshot) => {
-      const cells = snapshot.val() as Record<string, { value?: string }> | null;
-      if (!cells) return;
-      for (const key of Object.keys(cells)) {
+      const remoteCells = (snapshot.val() as Record<string, CellMeta>) ?? {};
+      setCells(remoteCells);
+      for (const key of Object.keys(remoteCells)) {
         const [row, col] = key.split('-').map(Number);
-        setLetterFromRemote(row, col, cells[key]?.value ?? '');
+        setLetterFromRemote(row, col, remoteCells[key]?.value ?? '');
       }
+    });
+
+    const presenceRef = ref(db, `rooms/${roomCode}/presence`);
+    const unsubPresence = onValue(presenceRef, (snapshot) => {
+      setPresence((snapshot.val() as Record<string, Presence>) ?? {});
     });
 
     return () => {
@@ -77,16 +98,21 @@ export function useRoomSync(roomCode: string | null): RoomSyncState {
       unsubConnected();
       unsubMeta();
       unsubCells();
+      unsubPresence();
+      if (uidRef.current) {
+        remove(ref(db, `rooms/${roomCode}/presence/${uidRef.current}`));
+      }
     };
-  }, [roomCode, setLetterFromRemote]);
+  }, [roomCode, displayName, setLetterFromRemote]);
 
   function writeCell(row: number, col: number, value: string) {
     if (!roomCode) return;
     void set(ref(db, `rooms/${roomCode}/cells/${row}-${col}`), {
       value,
+      lastEditedBy: uidRef.current,
       lastEditedAt: serverTimestamp(),
     });
   }
 
-  return { connected, meta, loading, writeCell };
+  return { connected, meta, loading, cells, presence, writeCell };
 }

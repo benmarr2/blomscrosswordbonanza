@@ -1,4 +1,4 @@
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { useGridStore, getLetter } from '../state/gridStore';
 import { isBlack } from '../puzzles/schema';
 import { getWordCells } from '../puzzles/words';
@@ -9,7 +9,7 @@ interface PuzzleGridProps {
 }
 
 export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
-  const containerRef = useRef<HTMLDivElement>(null);
+  const inputRefs = useRef<Record<string, HTMLInputElement | null>>({});
   const puzzle = useGridStore((s) => s.puzzle);
   const numbering = useGridStore((s) => s.numbering);
   const letters = useGridStore((s) => s.letters);
@@ -21,6 +21,10 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
   const setDirection = useGridStore((s) => s.setDirection);
   const toggleDirection = useGridStore((s) => s.toggleDirection);
   const move = useGridStore((s) => s.move);
+
+  useEffect(() => {
+    inputRefs.current[`${activeRow}-${activeCol}`]?.focus();
+  }, [activeRow, activeCol]);
 
   if (!puzzle) return null;
 
@@ -38,7 +42,6 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
     } else {
       setActive(row, col);
     }
-    containerRef.current?.focus();
   }
 
   function writeLetter(row: number, col: number, value: string) {
@@ -46,7 +49,16 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
     onLetterChange?.(row, col, value);
   }
 
-  function handleKeyDown(e: React.KeyboardEvent) {
+  function handleChange(row: number, col: number, value: string) {
+    const letter = value.slice(-1).toUpperCase();
+    if (!/^[A-Z]$/.test(letter)) return;
+    writeLetter(row, col, letter);
+    const dRow = activeDirection === 'down' ? 1 : 0;
+    const dCol = activeDirection === 'across' ? 1 : 0;
+    move(dRow, dCol);
+  }
+
+  function handleKeyDown(e: React.KeyboardEvent<HTMLInputElement>) {
     if (!puzzle) return;
 
     if (e.key === 'ArrowRight') {
@@ -76,26 +88,15 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
         move(dRow, dCol);
       }
     } else if (e.key === 'Tab') {
-      // Let default tab-order be overridden by our own clue-hop behavior.
       e.preventDefault();
       toggleDirection();
-    } else if (/^[a-zA-Z]$/.test(e.key)) {
-      e.preventDefault();
-      writeLetter(activeRow, activeCol, e.key.toUpperCase());
-      const dRow = activeDirection === 'down' ? 1 : 0;
-      const dCol = activeDirection === 'across' ? 1 : 0;
-      move(dRow, dCol);
     }
   }
 
   return (
     <div
-      ref={containerRef}
-      id="puzzle-grid"
       className="puzzle-grid"
       style={{ gridTemplateColumns: `repeat(${puzzle.width}, var(--cell-size))` }}
-      tabIndex={0}
-      onKeyDown={handleKeyDown}
     >
       {puzzle.grid.map((rowCells, row) =>
         rowCells.map((cellValue, col) =>
@@ -104,11 +105,16 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
           ) : (
             <Cell
               key={`${row}-${col}`}
+              ref={(el) => {
+                inputRefs.current[`${row}-${col}`] = el;
+              }}
               letter={getLetter(letters, row, col)}
               number={numberAt(row, col)}
               isActive={row === activeRow && col === activeCol}
               isInActiveWord={isInActiveWord(row, col)}
               onClick={() => handleCellClick(row, col)}
+              onChange={(value) => handleChange(row, col, value)}
+              onKeyDown={handleKeyDown}
             />
           ),
         ),
