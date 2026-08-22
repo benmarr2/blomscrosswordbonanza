@@ -1,0 +1,139 @@
+:root {
+  --text: #2b2b33;
+  --bg: #ffffff;
+  --border: #d7d5db;
+  --cell-bg: #ffffff;
+  --cell-active-bg: #ffe08a;
+  --cell-word-bg: #fff4cc;
+  --cell-black-bg: #1c1c22;
+  --accent: #6a3bff;
+
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --cell-size: 44px;
+
+  color-scheme: light dark;
+  color: var(--text);
+  background: var(--bg);
+  font: 16px/1.4 var(--sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #e5e4e7;
+    --bg: #16171d;
+    --border: #33343d;
+    --cell-bg: #1f2028;
+    --cell-active-bg: #7a5c00;
+    --cell-word-bg: #4a3c10;
+    --cell-black-bg: #05050a;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.app__header h1 {
+  font-size: 24px;
+  margin: 0 0 16px;
+}
+
+.app__main {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.puzzle-grid {
+  display: grid;
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  outline: none;
+  width: max-content;
+}
+
+.cell {
+  position: relative;
+  width: var(--cell-size);
+  height: var(--cell-size);
+  background: var(--cell-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+}
+
+.cell--black {
+  background: var(--cell-black-bg);
+  cursor: default;
+}
+
+.cell--in-word {
+  background: var(--cell-word-bg);
+}
+
+.cell--active {
+  background: var(--cell-active-bg);
+}
+
+.cell__number {
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.clue-list {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  min-width: 240px;
+}
+
+.clue-list__group h3 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+}
+
+.clue-list__items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.clue-list__items li {
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.clue-list__items li:hover {
+  background: var(--cell-word-bg);
+}
+
+.clue--active {
+  background: var(--cell-active-bg);
+}

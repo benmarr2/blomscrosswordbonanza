@@ -1,0 +1,20 @@
+{
+  "id": "sample",
+  "title": "Warm-up",
+  "width": 3,
+  "height": 4,
+  "grid": [
+    ["#", "A", "#"],
+    ["A", "R", "M"],
+    ["#", "T", "#"],
+    ["#", "S", "#"]
+  ],
+  "clues": {
+    "across": [
+      { "number": 2, "row": 1, "col": 0, "text": "Body part with a hand", "answer": "ARM" }
+    ],
+    "down": [
+      { "number": 1, "row": 0, "col": 1, "text": "Humanities and fine ___", "answer": "ARTS" }
+    ]
+  }
+}
