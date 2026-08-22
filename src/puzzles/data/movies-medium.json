@@ -1,0 +1,431 @@
+{
+  "id": "movies-medium",
+  "title": "Silver Screen",
+  "difficulty": "medium",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "S",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "B",
+      "E",
+      "C",
+      "H",
+      "A",
+      "M",
+      "E",
+      "L",
+      "#"
+    ],
+    [
+      "A",
+      "#",
+      "M",
+      "#",
+      "L",
+      "#",
+      "I",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "A",
+      "#"
+    ],
+    [
+      "S",
+      "#",
+      "I",
+      "#",
+      "L",
+      "#",
+      "O",
+      "K",
+      "A",
+      "P",
+      "I",
+      "#",
+      "#",
+      "P",
+      "#"
+    ],
+    [
+      "H",
+      "I",
+      "T",
+      "#",
+      "I",
+      "#",
+      "C",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#"
+    ],
+    [
+      "I",
+      "#",
+      "O",
+      "#",
+      "T",
+      "#",
+      "H",
+      "#",
+      "M",
+      "O",
+      "L",
+      "L",
+      "U",
+      "S",
+      "K"
+    ],
+    [
+      "M",
+      "A",
+      "C",
+      "K",
+      "E",
+      "R",
+      "E",
+      "L",
+      "#",
+      "P",
+      "#",
+      "#",
+      "M",
+      "#",
+      "E"
+    ],
+    [
+      "I",
+      "#",
+      "H",
+      "#",
+      "R",
+      "#",
+      "M",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "I",
+      "#",
+      "T"
+    ],
+    [
+      "#",
+      "P",
+      "O",
+      "L",
+      "A",
+      "R",
+      "I",
+      "Z",
+      "A",
+      "T",
+      "I",
+      "O",
+      "N",
+      "#",
+      "C"
+    ],
+    [
+      "A",
+      "#",
+      "N",
+      "#",
+      "T",
+      "#",
+      "S",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "E",
+      "#",
+      "H"
+    ],
+    [
+      "C",
+      "O",
+      "D",
+      "#",
+      "I",
+      "#",
+      "T",
+      "E",
+      "A",
+      "M",
+      "S",
+      "#",
+      "S",
+      "#",
+      "U"
+    ],
+    [
+      "E",
+      "#",
+      "R",
+      "#",
+      "O",
+      "#",
+      "R",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "C",
+      "#",
+      "P"
+    ],
+    [
+      "#",
+      "K",
+      "I",
+      "D",
+      "N",
+      "E",
+      "Y",
+      "#",
+      "#",
+      "S",
+      "H",
+      "R",
+      "E",
+      "W",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "P",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#",
+      "#",
+      "#",
+      "C",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "S",
+      "Y",
+      "N",
+      "C",
+      "H",
+      "R",
+      "O",
+      "N",
+      "I",
+      "Z",
+      "E",
+      "D",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "White sauce made from butter, flour, and milk",
+        "answer": "BECHAMEL"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Giraffe relative with zebra-like markings on its legs",
+        "answer": "OKAPI"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 0,
+        "text": "To strike a ball or opponent",
+        "answer": "HIT"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 8,
+        "text": "Invertebrate of a large phylum including snails, bivalves, and cephalopods",
+        "answer": "MOLLUSK"
+      },
+      {
+        "number": 12,
+        "row": 5,
+        "col": 0,
+        "text": "Oily fish, often grilled or smoked",
+        "answer": "MACKEREL"
+      },
+      {
+        "number": 13,
+        "row": 7,
+        "col": 1,
+        "text": "Restricting vibration to a certain plane",
+        "answer": "POLARIZATION"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "Bottom-dwelling marine fish",
+        "answer": "COD"
+      },
+      {
+        "number": 15,
+        "row": 9,
+        "col": 0,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 6,
+        "text": "Groups of players",
+        "answer": "TEAMS"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 1,
+        "text": "bean shaped like the organ, used in chili",
+        "answer": "KIDNEY"
+      },
+      {
+        "number": 17,
+        "row": 11,
+        "col": 1,
+        "text": "Pair of organs that extract waste from blood",
+        "answer": "KIDNEY"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 9,
+        "text": "Small mouse-like mammal with a long snout",
+        "answer": "SHREW"
+      },
+      {
+        "number": 20,
+        "row": 14,
+        "col": 2,
+        "text": "Swimming discipline performed in unison",
+        "answer": "SYNCHRONIZED"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Japanese dish of thinly sliced raw fish without rice",
+        "answer": "SASHIMI"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 4,
+        "text": "Repetition of initial consonant sounds",
+        "answer": "ALLITERATION"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "The study of chemical processes within living organisms",
+        "answer": "BIOCHEMISTRY"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 9,
+        "text": "Large African semi-aquatic mammal",
+        "answer": "HIPPOPOTAMUS"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 13,
+        "text": "One complete circuit of a track",
+        "answer": "LAP"
+      },
+      {
+        "number": 6,
+        "row": 1,
+        "col": 2,
+        "text": "Organelle that generates most of the chemical energy needed to power a cell",
+        "answer": "MITOCHONDRIA"
+      },
+      {
+        "number": 9,
+        "row": 3,
+        "col": 12,
+        "text": "Emission of light by a substance not resulting from heat",
+        "answer": "LUMINESCENCE"
+      },
+      {
+        "number": 11,
+        "row": 4,
+        "col": 14,
+        "text": "Tomato-based condiment",
+        "answer": "KETCHUP"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 0,
+        "text": "A winning serve that the opponent cannot touch",
+        "answer": "ACE"
+      },
+      {
+        "number": 19,
+        "row": 12,
+        "col": 8,
+        "text": "Vietnamese noodle soup",
+        "answer": "PHO"
+      }
+    ]
+  }
+}

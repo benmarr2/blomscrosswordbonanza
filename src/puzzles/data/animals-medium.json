@@ -1,0 +1,298 @@
+{
+  "id": "animals-medium",
+  "title": "Animal Kingdom",
+  "difficulty": "medium",
+  "width": 14,
+  "height": 12,
+  "grid": [
+    [
+      "#",
+      "T",
+      "I",
+      "G",
+      "E",
+      "R",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "D"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "R",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "Z",
+      "E",
+      "B",
+      "R",
+      "A",
+      "#",
+      "#",
+      "D",
+      "#",
+      "#",
+      "A",
+      "#",
+      "#",
+      "E"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "A",
+      "#",
+      "L",
+      "I",
+      "O",
+      "N",
+      "#",
+      "B",
+      "E",
+      "A",
+      "R"
+    ],
+    [
+      "W",
+      "O",
+      "L",
+      "F",
+      "#",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "B",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "W",
+      "#",
+      "F",
+      "#",
+      "P",
+      "#",
+      "P",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "L",
+      "#",
+      "E",
+      "L",
+      "E",
+      "P",
+      "H",
+      "A",
+      "N",
+      "T",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "N",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "G",
+      "#",
+      "N",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "I",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "P",
+      "A",
+      "N",
+      "D",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 1,
+        "text": "Striped big cat",
+        "answer": "TIGER"
+      },
+      {
+        "number": 5,
+        "row": 2,
+        "col": 0,
+        "text": "Striped horse-like animal",
+        "answer": "ZEBRA"
+      },
+      {
+        "number": 7,
+        "row": 3,
+        "col": 5,
+        "text": "King of the jungle",
+        "answer": "LION"
+      },
+      {
+        "number": 8,
+        "row": 3,
+        "col": 10,
+        "text": "Large furry mammal",
+        "answer": "BEAR"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 0,
+        "text": "Wild canine that howls",
+        "answer": "WOLF"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 3,
+        "text": "Large gray mammal with trunk",
+        "answer": "ELEPHANT"
+      },
+      {
+        "number": 13,
+        "row": 11,
+        "col": 3,
+        "text": "Black and white bear from China",
+        "answer": "PANDA"
+      }
+    ],
+    "down": [
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Tallest land animal",
+        "answer": "GIRAFFE"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 13,
+        "text": "Forest animal with antlers",
+        "answer": "DEER"
+      },
+      {
+        "number": 4,
+        "row": 1,
+        "col": 10,
+        "text": "Hopping animal with long ears",
+        "answer": "RABBIT"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 7,
+        "text": "Intelligent marine mammal",
+        "answer": "DOLPHIN"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 1,
+        "text": "Nocturnal bird of prey",
+        "answer": "OWL"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 5,
+        "text": "Flightless bird from Antarctica",
+        "answer": "PENGUIN"
+      }
+    ]
+  }
+}

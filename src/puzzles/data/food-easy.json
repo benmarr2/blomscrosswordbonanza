@@ -1,0 +1,438 @@
+{
+  "id": "food-easy",
+  "title": "Kitchen Table",
+  "difficulty": "easy",
+  "width": 15,
+  "height": 15,
+  "grid": [
+    [
+      "S",
+      "T",
+      "E",
+      "A",
+      "K",
+      "#",
+      "M",
+      "U",
+      "S",
+      "H",
+      "R",
+      "O",
+      "O",
+      "M",
+      "S"
+    ],
+    [
+      "O",
+      "#",
+      "#",
+      "L",
+      "#",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#",
+      "#",
+      "#",
+      "#",
+      "U",
+      "#"
+    ],
+    [
+      "U",
+      "#",
+      "#",
+      "M",
+      "U",
+      "F",
+      "F",
+      "I",
+      "N",
+      "#",
+      "W",
+      "U",
+      "R",
+      "S",
+      "T"
+    ],
+    [
+      "P",
+      "#",
+      "#",
+      "O",
+      "#",
+      "#",
+      "E",
+      "#",
+      "F",
+      "#",
+      "#",
+      "#",
+      "#",
+      "H",
+      "#"
+    ],
+    [
+      "#",
+      "W",
+      "O",
+      "N",
+      "T",
+      "O",
+      "N",
+      "#",
+      "L",
+      "#",
+      "#",
+      "H",
+      "E",
+      "R",
+      "B"
+    ],
+    [
+      "#",
+      "A",
+      "#",
+      "D",
+      "#",
+      "#",
+      "U",
+      "#",
+      "O",
+      "#",
+      "V",
+      "#",
+      "#",
+      "O",
+      "#"
+    ],
+    [
+      "#",
+      "T",
+      "#",
+      "#",
+      "P",
+      "#",
+      "G",
+      "#",
+      "W",
+      "#",
+      "E",
+      "#",
+      "C",
+      "O",
+      "D"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "E",
+      "#",
+      "R",
+      "#",
+      "E",
+      "#",
+      "G",
+      "#",
+      "#",
+      "M",
+      "#"
+    ],
+    [
+      "#",
+      "R",
+      "A",
+      "S",
+      "P",
+      "B",
+      "E",
+      "R",
+      "R",
+      "I",
+      "E",
+      "S",
+      "#",
+      "#",
+      "B"
+    ],
+    [
+      "#",
+      "M",
+      "#",
+      "#",
+      "P",
+      "#",
+      "E",
+      "#",
+      "#",
+      "#",
+      "T",
+      "#",
+      "G",
+      "#",
+      "A"
+    ],
+    [
+      "#",
+      "E",
+      "#",
+      "#",
+      "E",
+      "#",
+      "K",
+      "#",
+      "C",
+      "#",
+      "A",
+      "#",
+      "U",
+      "#",
+      "S"
+    ],
+    [
+      "F",
+      "L",
+      "O",
+      "U",
+      "R",
+      "#",
+      "#",
+      "S",
+      "O",
+      "Y",
+      "B",
+      "E",
+      "A",
+      "N",
+      "S"
+    ],
+    [
+      "#",
+      "O",
+      "#",
+      "#",
+      "O",
+      "I",
+      "L",
+      "#",
+      "C",
+      "#",
+      "L",
+      "#",
+      "V",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "N",
+      "#",
+      "#",
+      "N",
+      "#",
+      "#",
+      "R",
+      "O",
+      "S",
+      "E",
+      "M",
+      "A",
+      "R",
+      "Y"
+    ],
+    [
+      "#",
+      "#",
+      "C",
+      "H",
+      "I",
+      "L",
+      "I",
+      "#",
+      "A",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#",
+      "#"
+    ]
+  ],
+  "clues": {
+    "across": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Thick slice of meat, usually beef",
+        "answer": "STEAK"
+      },
+      {
+        "number": 3,
+        "row": 0,
+        "col": 6,
+        "text": "Fungi often used in cooking",
+        "answer": "MUSHROOMS"
+      },
+      {
+        "number": 6,
+        "row": 2,
+        "col": 3,
+        "text": "Small individual baked cake, often sweet",
+        "answer": "MUFFIN"
+      },
+      {
+        "number": 8,
+        "row": 2,
+        "col": 10,
+        "text": "German word for sausage",
+        "answer": "WURST"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "text": "Chinese dumpling, often served in soup",
+        "answer": "WONTON"
+      },
+      {
+        "number": 10,
+        "row": 4,
+        "col": 11,
+        "text": "A plant used for flavor or scent",
+        "answer": "HERB"
+      },
+      {
+        "number": 13,
+        "row": 6,
+        "col": 12,
+        "text": "white fish common in fish and chips",
+        "answer": "COD"
+      },
+      {
+        "number": 14,
+        "row": 8,
+        "col": 1,
+        "text": "Small, red, sweet-tart berries",
+        "answer": "RASPBERRIES"
+      },
+      {
+        "number": 18,
+        "row": 11,
+        "col": 0,
+        "text": "Powder made from ground grains, used in baking",
+        "answer": "FLOUR"
+      },
+      {
+        "number": 19,
+        "row": 11,
+        "col": 7,
+        "text": "Legume used to make tofu and soy sauce",
+        "answer": "SOYBEANS"
+      },
+      {
+        "number": 20,
+        "row": 12,
+        "col": 4,
+        "text": "Liquid fat used in cooking or dressing",
+        "answer": "OIL"
+      },
+      {
+        "number": 21,
+        "row": 13,
+        "col": 7,
+        "text": "Fragrant evergreen herb",
+        "answer": "ROSEMARY"
+      },
+      {
+        "number": 22,
+        "row": 14,
+        "col": 2,
+        "text": "Spicy pepper or a stew containing it",
+        "answer": "CHILI"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "row": 0,
+        "col": 0,
+        "text": "Liquid dish, often served hot",
+        "answer": "SOUP"
+      },
+      {
+        "number": 2,
+        "row": 0,
+        "col": 3,
+        "text": "Edible seed of a tree, often used in baking",
+        "answer": "ALMOND"
+      },
+      {
+        "number": 4,
+        "row": 0,
+        "col": 8,
+        "text": "Plant grown for its seeds and oil",
+        "answer": "SUNFLOWER"
+      },
+      {
+        "number": 5,
+        "row": 0,
+        "col": 13,
+        "text": "Fungus used as food",
+        "answer": "MUSHROOM"
+      },
+      {
+        "number": 7,
+        "row": 2,
+        "col": 6,
+        "text": "Aromatic herb with a slightly bitter taste",
+        "answer": "FENUGREEK"
+      },
+      {
+        "number": 9,
+        "row": 4,
+        "col": 1,
+        "text": "Large, sweet fruit with a green rind",
+        "answer": "WATERMELON"
+      },
+      {
+        "number": 11,
+        "row": 5,
+        "col": 10,
+        "text": "Edible part of a plant, like roots, stems, or leaves",
+        "answer": "VEGETABLE"
+      },
+      {
+        "number": 12,
+        "row": 6,
+        "col": 4,
+        "text": "Spicy salami often found on pizza",
+        "answer": "PEPPERONI"
+      },
+      {
+        "number": 15,
+        "row": 8,
+        "col": 14,
+        "text": "popular game fish, freshwater or saltwater",
+        "answer": "BASS"
+      },
+      {
+        "number": 16,
+        "row": 9,
+        "col": 12,
+        "text": "Tropical fruit with a strong sweet flavor",
+        "answer": "GUAVA"
+      },
+      {
+        "number": 17,
+        "row": 10,
+        "col": 8,
+        "text": "powder from the cacao bean used to make chocolate",
+        "answer": "COCOA"
+      }
+    ]
+  }
+}
