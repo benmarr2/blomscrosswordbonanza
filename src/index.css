@@ -2,6 +2,7 @@
   --text: #1a1a1a;
   --bg: #ffffff;
   --border: #d7d5db;
+  --surface: #ffffff;
   --cell-bg: #ffffff;
   --cell-black-bg: #1a1a1a;
   --cell-active-bg: #ffd400;
@@ -21,14 +22,16 @@
   -webkit-font-smoothing: antialiased;
 }
 
-/* The grid itself stays paper-white/ink-black in dark mode too - that's
-   the classic crossword look, not a themed UI surface. Only the chrome
-   around it (headers, panels, buttons) follows the system theme. */
+/* The grid itself (--cell-bg/--cell-word-bg/--cell-active-bg) stays
+   paper-white/ink-black in dark mode too - that's the classic crossword
+   look, not a themed UI surface. --surface is the theme-aware background
+   for everything else (cards, inputs, buttons) and DOES flip here. */
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #e5e4e7;
     --bg: #16171d;
     --border: #33343d;
+    --surface: #23242c;
   }
 }
 
@@ -160,10 +163,12 @@ body {
 
 .clue-list__items li:hover {
   background: var(--cell-word-bg);
+  color: #1a1a1a;
 }
 
 .clue--active {
   background: var(--cell-active-bg);
+  color: #1a1a1a;
 }
 
 .room-entry {
@@ -206,13 +211,13 @@ body {
   text-transform: uppercase;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: var(--cell-bg);
+  background: var(--surface);
   color: var(--text);
   width: 120px;
 }
 
 .room-entry__join button {
-  background: var(--cell-bg);
+  background: var(--surface);
   color: var(--text);
 }
 
@@ -258,7 +263,7 @@ body {
   padding: 8px 10px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: var(--cell-bg);
+  background: var(--surface);
   color: var(--text);
   width: 100%;
 }
@@ -290,7 +295,7 @@ body {
   gap: 12px;
   padding: 4px 6px;
   border-radius: 4px;
-  background: var(--cell-bg);
+  background: var(--surface);
   border: 1px solid var(--border);
 }
 
@@ -359,7 +364,7 @@ body {
   padding: 8px 12px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: var(--cell-bg);
+  background: var(--surface);
   color: var(--text);
   cursor: pointer;
   font-size: 15px;
@@ -407,7 +412,7 @@ body {
   padding: 4px 10px;
   border-radius: 6px;
   border: 1px solid var(--border);
-  background: var(--cell-bg);
+  background: var(--surface);
   color: var(--text);
   cursor: pointer;
 }
@@ -428,6 +433,10 @@ body {
   border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--cell-word-bg);
+  /* This panel echoes the grid's always-light word-highlight color, so its
+     own text (not the nested picker, which carries its own theme-aware
+     colors) is pinned dark to stay readable regardless of theme. */
+  color: #1a1a1a;
 }
 
 .solved-banner {
