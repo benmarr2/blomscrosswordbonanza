@@ -7,6 +7,7 @@
   --cell-black-bg: #1a1a1a;
   --cell-active-bg: #ffd400;
   --cell-word-bg: #bfe0ff;
+  --cell-correct-bg: #8fe08f;
   --grid-line: #1a1a1a;
   --accent: #1859c9;
   --accent-red: #c41e3a;
@@ -100,6 +101,10 @@ body {
 
 .cell--in-word {
   background: var(--cell-word-bg);
+}
+
+.cell--correct {
+  background: var(--cell-correct-bg);
 }
 
 .cell--active {

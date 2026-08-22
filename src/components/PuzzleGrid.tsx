@@ -1,7 +1,7 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import { useGridStore, getLetter } from '../state/gridStore';
 import { isBlack } from '../puzzles/schema';
-import { getWordCells } from '../puzzles/words';
+import { getWordCells, getCorrectCellKeys } from '../puzzles/words';
 import { Cell } from './Cell';
 
 interface PuzzleGridProps {
@@ -25,6 +25,11 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
   useEffect(() => {
     inputRefs.current[`${activeRow}-${activeCol}`]?.focus();
   }, [activeRow, activeCol]);
+
+  const correctCells = useMemo(
+    () => (puzzle ? getCorrectCellKeys(puzzle, numbering, letters) : new Set<string>()),
+    [puzzle, numbering, letters],
+  );
 
   if (!puzzle) return null;
 
@@ -112,6 +117,7 @@ export function PuzzleGrid({ onLetterChange }: PuzzleGridProps) {
               number={numberAt(row, col)}
               isActive={row === activeRow && col === activeCol}
               isInActiveWord={isInActiveWord(row, col)}
+              isCorrect={correctCells.has(`${row}-${col}`)}
               onClick={() => handleCellClick(row, col)}
               onChange={(value) => handleChange(row, col, value)}
               onKeyDown={handleKeyDown}

@@ -41,3 +41,33 @@ export function getClueNumber(numbering: NumberedCell[], puzzle: Puzzle, row: nu
   const entry = numbering.find((c) => c.row === start.row && c.col === start.col);
   return entry?.number ?? null;
 }
+
+/** Cell keys ("row-col") belonging to any across/down entry that's fully
+ * filled in and matches the solution. A cell counts as correct as soon as
+ * one of its words is complete, even if a crossing word isn't finished yet. */
+export function getCorrectCellKeys(
+  puzzle: Puzzle,
+  numbering: NumberedCell[],
+  letters: Record<string, string>,
+): Set<string> {
+  const correct = new Set<string>();
+
+  function checkWord(startRow: number, startCol: number, direction: Direction) {
+    const word = getWordCells(puzzle, startRow, startCol, direction);
+    const isComplete = word.every(({ row, col }) => {
+      const solution = puzzle.grid[row][col];
+      const letter = letters[`${row}-${col}`] ?? '';
+      return letter !== '' && letter.toUpperCase() === solution.toUpperCase();
+    });
+    if (isComplete) {
+      for (const { row, col } of word) correct.add(`${row}-${col}`);
+    }
+  }
+
+  for (const n of numbering) {
+    if (n.startsAcross) checkWord(n.row, n.col, 'across');
+    if (n.startsDown) checkWord(n.row, n.col, 'down');
+  }
+
+  return correct;
+}

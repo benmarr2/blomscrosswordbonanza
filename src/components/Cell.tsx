@@ -5,22 +5,26 @@ interface CellProps {
   number: number | null;
   isActive: boolean;
   isInActiveWord: boolean;
+  isCorrect: boolean;
   onClick: () => void;
   onChange: (value: string) => void;
   onKeyDown: (e: React.KeyboardEvent<HTMLInputElement>) => void;
 }
 
 export const Cell = forwardRef<HTMLInputElement, CellProps>(function Cell(
-  { letter, number, isActive, isInActiveWord, onClick, onChange, onKeyDown },
+  { letter, number, isActive, isInActiveWord, isCorrect, onClick, onChange, onKeyDown },
   ref,
 ) {
-  const className = [
-    'cell',
-    isActive ? 'cell--active' : '',
-    isInActiveWord && !isActive ? 'cell--in-word' : '',
-  ]
-    .filter(Boolean)
-    .join(' ');
+  // Priority when states overlap: active cursor > confirmed-correct > active word > plain.
+  const stateClass = isActive
+    ? 'cell--active'
+    : isCorrect
+      ? 'cell--correct'
+      : isInActiveWord
+        ? 'cell--in-word'
+        : '';
+
+  const className = ['cell', stateClass].filter(Boolean).join(' ');
 
   return (
     <div className={className} onClick={onClick}>
