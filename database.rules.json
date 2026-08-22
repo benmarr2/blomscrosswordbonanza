@@ -1,7 +1,7 @@
 {
   "rules": {
     "rooms": {
-      ".read": "auth != null && auth.uid === 'REPLACE_WITH_ADMIN_UID'",
+      ".read": "auth != null && auth.uid === 'gtKPX2oKW1WTamIWVFI0fNajMLf2'",
       "$roomCode": {
         ".read": "auth != null",
         ".write": "auth != null",
