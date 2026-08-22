@@ -137,3 +137,90 @@ body {
 .clue--active {
   background: var(--cell-active-bg);
 }
+
+.room-entry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  max-width: 320px;
+  margin: 32px auto;
+}
+
+.room-entry button {
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+
+.room-entry button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.room-entry__divider {
+  color: var(--text);
+  opacity: 0.6;
+}
+
+.room-entry__join {
+  display: flex;
+  gap: 8px;
+}
+
+.room-entry__join input {
+  font-size: 16px;
+  padding: 8px 10px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--cell-bg);
+  color: var(--text);
+  width: 120px;
+}
+
+.room-entry__join button {
+  background: var(--cell-bg);
+  color: var(--text);
+}
+
+.room-entry__error {
+  color: #d64545;
+}
+
+.room__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.room__code {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
+.connection-banner {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.connection-banner__dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.connection-banner--ok .connection-banner__dot {
+  background: #2fb344;
+}
+
+.connection-banner--bad .connection-banner__dot {
+  background: #d64545;
+}

@@ -1,27 +1,23 @@
-import { useEffect } from 'react';
-import { useGridStore } from './state/gridStore';
-import { loadPuzzle } from './puzzles/loadPuzzle';
-import { PuzzleGrid } from './components/PuzzleGrid';
-import { ClueList } from './components/ClueList';
+import { useRoute } from './room/useRoute';
+import { RoomEntry } from './components/RoomEntry';
+import { Room } from './components/Room';
 
 function App() {
-  const puzzle = useGridStore((s) => s.puzzle);
-  const load = useGridStore((s) => s.loadPuzzle);
-
-  useEffect(() => {
-    const p = loadPuzzle('sample');
-    if (p) load(p);
-  }, [load]);
+  const { roomCode, navigateToRoom } = useRoute();
 
   return (
     <div className="app">
-      <header className="app__header">
-        <h1>{puzzle?.title ?? 'Crossword Bonanza'}</h1>
-      </header>
-      <main className="app__main">
-        <PuzzleGrid />
-        <ClueList />
-      </main>
+      {roomCode ? (
+        <Room roomCode={roomCode} />
+      ) : (
+        <>
+          <header className="app__header">
+            <h1>Crossword Bonanza</h1>
+            <p>Play a crossword together, live, wherever you are.</p>
+          </header>
+          <RoomEntry onNavigate={navigateToRoom} />
+        </>
+      )}
     </div>
   );
 }

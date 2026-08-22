@@ -1,0 +1,22 @@
+{
+  "rules": {
+    "rooms": {
+      "$roomCode": {
+        ".read": "auth != null",
+        ".write": "auth != null",
+        "cells": {
+          "$cellId": {
+            "value": {
+              ".validate": "newData.isString() && newData.val().length <= 1"
+            }
+          }
+        },
+        "presence": {
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid"
+          }
+        }
+      }
+    }
+  }
+}
